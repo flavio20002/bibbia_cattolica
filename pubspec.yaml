@@ -1,0 +1,38 @@
+name: bibbia_cattolica
+description: A new Flutter project.
+
+version: 1.0.0+1
+
+environment:
+    sdk: '>=2.6.0 <3.0.0'
+
+dependencies:
+    flutter:
+        sdk: flutter
+    flutter_localizations:
+        sdk: flutter
+    cupertino_icons: ^1.0.0
+    sqflite: ^1.2.2
+    path: ^1.6.4
+    provider: ^4.1.2
+    flutter_svg: ^0.18.1
+    package_info: ^0.4.0+14
+    html: ^0.14.0+3
+    shared_preferences: ^0.5.7
+    flutter_colorpicker: ^0.3.4
+    intl: ^0.16.1
+    get_it: ^4.0.2
+
+dev_dependencies:
+    flutter_test:
+        sdk: flutter
+    enum_to_string: ^1.0.9
+    mockito: ^4.1.1
+    csv: ^4.0.3
+
+flutter:
+    uses-material-design: true
+    assets:
+        - assets/db/
+        - assets/images/
+        - assets/icons/
