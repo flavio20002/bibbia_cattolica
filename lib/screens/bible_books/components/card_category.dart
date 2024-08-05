@@ -11,9 +11,9 @@ class MyCardCategory extends StatelessWidget {
   final onTap;
 
   const MyCardCategory({
-    Key key,
-    @required this.model,
-    @required this.onTap,
+    Key? key,
+    required this.model,
+    this.onTap,
   }) : super(key: key);
 
   _getCard(context) {

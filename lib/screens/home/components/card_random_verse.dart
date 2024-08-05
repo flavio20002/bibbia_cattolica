@@ -5,7 +5,6 @@ import 'package:bibbia_cattolica/model/chapter_model.dart';
 import 'package:bibbia_cattolica/screens/bible_text/bible_text.dart';
 import 'package:bibbia_cattolica/screens/home/services/home_service.dart';
 import 'package:bibbia_cattolica/states/app_state.dart';
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 

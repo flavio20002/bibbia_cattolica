@@ -12,7 +12,7 @@ import 'cards.dart';
 class BibleChaptersPage extends StatelessWidget {
   final BookModel book;
 
-  BibleChaptersPage({@required this.book});
+  BibleChaptersPage({required this.book});
 
   @override
   Widget build(BuildContext context) {
@@ -29,7 +29,7 @@ class BibleChaptersPage extends StatelessWidget {
               indicatorColor: AppState.of(context).primaryColor,
             )
           : CardList(
-              BibleChaptersCards.cards(context, book, model.model),
+              BibleChaptersCards.cards(context, book, model.model!),
             ),
     );
   }

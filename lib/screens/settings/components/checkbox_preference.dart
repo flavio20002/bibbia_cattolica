@@ -6,9 +6,9 @@ class CheckBoxPreference extends StatefulWidget {
   final String subtitle;
   final String preferenceKey;
   CheckBoxPreference(
-      {@required this.title,
-      @required this.subtitle,
-      @required this.preferenceKey,
+      {required this.title,
+      required this.subtitle,
+      required this.preferenceKey,
       Key key})
       : super(key: key);
 

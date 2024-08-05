@@ -9,7 +9,7 @@ class MyDrawer extends StatelessWidget {
   final DrawerItemsEnum selectedItem;
 
   MyDrawer({
-    @required this.selectedItem,
+    required this.selectedItem,
     Key key,
   }) : super(key: key);
 

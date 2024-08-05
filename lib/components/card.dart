@@ -21,18 +21,18 @@ class MyCardWidget extends StatelessWidget {
 
   const MyCardWidget({
     Key key,
-    @required this.cardColor,
-    @required this.textColor,
-    @required this.title,
-    @required this.titleColor,
-    @required this.text1,
-    @required this.text1Color,
-    @required this.textRight,
-    @required this.text2,
-    @required this.text3,
-    @required this.onTap,
-    @required this.icon,
-    @required this.iconEvent,
+    required this.cardColor,
+    required this.textColor,
+    required this.title,
+    required this.titleColor,
+    required this.text1,
+    required this.text1Color,
+    required this.textRight,
+    required this.text2,
+    required this.text3,
+    required this.onTap,
+    required this.icon,
+    required this.iconEvent,
   }) : super(key: key);
 
   _getCard(context) {
@@ -42,7 +42,7 @@ class MyCardWidget extends StatelessWidget {
       child: Stack(
         children: <Widget>[
           _getContent(context),
-          if (icon != null) _getIcon(context)
+          _getIcon(context)
         ],
       ),
     );
@@ -65,41 +65,37 @@ class MyCardWidget extends StatelessWidget {
       crossAxisAlignment: CrossAxisAlignment.stretch,
       mainAxisSize: MainAxisSize.max,
       children: <Widget>[
-        if (title != null)
-          MyPaddingBottom(
-            Text(
-              title,
-              style: TextStyle(
-                fontWeight: FontWeight.bold,
-                color: titleColor,
-              ),
+        MyPaddingBottom(
+          Text(
+            title,
+            style: TextStyle(
+              fontWeight: FontWeight.bold,
+              color: titleColor,
             ),
           ),
+        ),
         Text(
           text1,
           style: TextStyle(color: text1Color),
         ),
-        if (textRight != null)
-          MyPaddingTop(
-            Text(textRight, textAlign: TextAlign.right),
-          ),
-        if (text2 != null)
-          MyPaddingTop(
-            Text(
-              text2,
-              style: TextStyle(
-                fontWeight: FontWeight.bold,
-              ),
+        MyPaddingTop(
+          Text(textRight, textAlign: TextAlign.right),
+        ),
+        MyPaddingTop(
+          Text(
+            text2,
+            style: TextStyle(
+              fontWeight: FontWeight.bold,
             ),
           ),
-        if (text3 != null)
-          MyPaddingTop(
-            Text(
-              text3,
-              maxLines: 3,
-              overflow: TextOverflow.ellipsis,
-            ),
+        ),
+        MyPaddingTop(
+          Text(
+            text3,
+            maxLines: 3,
+            overflow: TextOverflow.ellipsis,
           ),
+        ),
       ],
     );
   }

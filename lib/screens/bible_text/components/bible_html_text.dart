@@ -6,7 +6,7 @@ import 'package:html/dom.dart' as dom;
 class BibleHtmlText extends StatelessWidget {
   final String html;
 
-  BibleHtmlText({@required this.html});
+  BibleHtmlText({required this.html});
 
   @override
   Widget build(BuildContext context) {

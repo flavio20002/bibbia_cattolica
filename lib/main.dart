@@ -2,7 +2,6 @@ import 'package:bibbia_cattolica/common/theme.dart';
 import 'package:bibbia_cattolica/screens/home/home.dart';
 import 'package:bibbia_cattolica/states/app_state.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter/rendering.dart';
 import 'package:flutter_localizations/flutter_localizations.dart';
 
 import 'common/colors.dart';
@@ -27,7 +26,7 @@ class MyApp extends StatelessWidget {
       },
       model: AppState(),
       builder: (context, model, child) => MaterialApp(
-          locale: model.language == null ? null : Locale(model.language),
+          locale: model.language == null ? null : Locale(model.language!),
           routes: Routes.routes,
           onGenerateRoute: Routes.onGenerateRoute,
           onGenerateTitle: (BuildContext context) =>

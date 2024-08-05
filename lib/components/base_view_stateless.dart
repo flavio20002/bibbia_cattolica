@@ -5,8 +5,8 @@ class BaseViewStateless<T extends ChangeNotifier> extends StatelessWidget {
   final Widget Function(BuildContext context, T value, Widget child) builder;
   final T model;
   BaseViewStateless({
-    @required this.builder,
-    @required this.model,
+    required this.builder,
+    required this.model,
   });
 
   @override

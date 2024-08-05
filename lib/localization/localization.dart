@@ -9,7 +9,7 @@ import 'it.dart';
 
 class MyLocalizations {
   MyLocalizations(this.locale)
-      : this.values = getLanguageClasses()[locale.languageCode]();
+      : this.values = getLanguageClasses()[locale.languageCode]!();
 
   final Locale locale;
   final DefaultLanguage values;
@@ -65,7 +65,7 @@ class MyLocalizations {
   }
 
   static MyLocalizations of(BuildContext context) {
-    return Localizations.of<MyLocalizations>(context, MyLocalizations);
+    return Localizations.of<MyLocalizations>(context, MyLocalizations)!;
   }
 }
 

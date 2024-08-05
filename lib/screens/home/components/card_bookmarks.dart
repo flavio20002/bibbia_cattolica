@@ -6,7 +6,7 @@ import 'package:bibbia_cattolica/components/card.dart';
 
 class CardBookmarks extends StatelessWidget {
   final VoidCallback onTap;
-  CardBookmarks({@required this.onTap, Key key}) : super(key: key);
+  CardBookmarks({required this.onTap, Key key}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {

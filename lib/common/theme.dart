@@ -16,19 +16,63 @@ class MyTheme {
     return ThemeData(
       brightness: Brightness.light,
       primaryColor: primaryColor,
-      colorScheme: ColorScheme.light(
-        primary: primaryColor,
-      ),
-      accentColor: Colors.cyan[600],
-      toggleableActiveColor: primaryColor,
       // textTheme: Theme.of(context).textTheme.apply(
       //       fontSizeFactor: 1.5,
       //     ),
       textTheme: TextTheme(
-        bodyText1: TextStyle(fontSize: 18.0),
-        bodyText2: TextStyle(fontSize: 18.0),
-        subtitle1: TextStyle(fontSize: 20.0),
-        button: TextStyle(fontSize: 16.0),
+        bodyLarge: TextStyle(fontSize: 18.0),
+        bodyMedium: TextStyle(fontSize: 18.0),
+        titleMedium: TextStyle(fontSize: 20.0),
+        labelLarge: TextStyle(fontSize: 16.0),
+      ),
+      colorScheme: ColorScheme.light(
+        primary: primaryColor,
+      ).copyWith(secondary: Colors.cyan[600]),
+      checkboxTheme: CheckboxThemeData(
+        fillColor:
+            WidgetStateProperty.resolveWith<Color?>((Set<WidgetState> states) {
+          if (states.contains(WidgetState.disabled)) {
+            return null;
+          }
+          if (states.contains(WidgetState.selected)) {
+            return primaryColor;
+          }
+          return null;
+        }),
+      ),
+      radioTheme: RadioThemeData(
+        fillColor:
+            WidgetStateProperty.resolveWith<Color?>((Set<WidgetState> states) {
+          if (states.contains(WidgetState.disabled)) {
+            return null;
+          }
+          if (states.contains(WidgetState.selected)) {
+            return primaryColor;
+          }
+          return null;
+        }),
+      ),
+      switchTheme: SwitchThemeData(
+        thumbColor:
+            WidgetStateProperty.resolveWith<Color?>((Set<WidgetState> states) {
+          if (states.contains(WidgetState.disabled)) {
+            return null;
+          }
+          if (states.contains(WidgetState.selected)) {
+            return primaryColor;
+          }
+          return null;
+        }),
+        trackColor:
+            WidgetStateProperty.resolveWith<Color?>((Set<WidgetState> states) {
+          if (states.contains(WidgetState.disabled)) {
+            return null;
+          }
+          if (states.contains(WidgetState.selected)) {
+            return primaryColor;
+          }
+          return null;
+        }),
       ),
     );
   }

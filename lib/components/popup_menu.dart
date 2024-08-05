@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 
 class MyPopUpMenu extends StatelessWidget {
   final List<MenuChoice> choices;
-  const MyPopUpMenu(this.choices, {Key key}) : super(key: key);
+  const MyPopUpMenu(this.choices, {Key? key}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {

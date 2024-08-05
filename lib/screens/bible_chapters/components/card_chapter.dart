@@ -11,9 +11,9 @@ class MyCardChapter extends MyCardWidget {
 
   MyCardChapter(
       {Key key,
-      @required this.model,
-      @required this.context,
-      @required this.onTap})
+      required this.model,
+      required this.context,
+      required this.onTap})
       : super(
             key: key,
             cardColor: MyColors.backgroundColorLight,

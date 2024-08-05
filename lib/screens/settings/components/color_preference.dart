@@ -10,10 +10,10 @@ class ColorPreference extends StatefulWidget {
   final List<Color> colors;
   final String preferenceKey;
   ColorPreference(
-      {@required this.title,
-      @required this.subtitle,
-      @required this.colors,
-      @required this.preferenceKey,
+      {required this.title,
+      required this.subtitle,
+      required this.colors,
+      required this.preferenceKey,
       Key key})
       : super(key: key);
 
@@ -32,8 +32,7 @@ class _ColorPreference extends State<ColorPreference> {
 
   _displayDialog(BuildContext context) {
     showDialog(
-      context: context,
-      child: AlertDialog(
+      builder: (context) => AlertDialog(
         title: Text(widget.title),
         content: SingleChildScrollView(
           child: BlockPicker(
@@ -54,7 +53,7 @@ class _ColorPreference extends State<ColorPreference> {
             },
           )
         ],
-      ),
+      ), context: context,
     );
   }
 

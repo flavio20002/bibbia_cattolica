@@ -5,7 +5,7 @@ import 'bible_books.dart';
 class NewTestamentBooks extends StatelessWidget {
   static const routeName = '/newTestamentBooks';
 
-  const NewTestamentBooks({Key key}) : super(key: key);
+  const NewTestamentBooks({Key? key}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {

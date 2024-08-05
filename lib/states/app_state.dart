@@ -12,13 +12,13 @@ import 'package:path/path.dart';
 import 'package:provider/provider.dart';
 
 class AppState extends ChangeNotifier {
-  PackageInfo packageInfo;
-  String language;
-  String bibleVersion;
+  PackageInfo? packageInfo;
+  late String language;
+  String? bibleVersion;
   Color primaryColor = Colors.white;
   Color primaryColorDark = Colors.white;
-  List<ChapterModel> chapters;
-  List<BookModel> books;
+  List<ChapterModel>? chapters;
+  List<BookModel>? books;
   bool isLoading = true;
 
   static AppState of(BuildContext context) {
@@ -46,14 +46,14 @@ class AppState extends ChangeNotifier {
     );
     packageInfo = await PackageInfo.fromPlatform();
     print(
-        'PackageInfo: ${packageInfo.appName} - ${packageInfo.version} (${packageInfo.buildNumber})');
+        'PackageInfo: ${packageInfo!.appName} - ${packageInfo!.version} (${packageInfo!.buildNumber})');
     notifyListeners();
   }
 
   Future<void> loadDb() async {
     await Future.delayed(Duration(seconds: 2));
-    await DatabaseService.init(context, packageInfo, bibleVersion);
-    chapters = await DatabaseService.getAllChapters(language, bibleVersion);
+    await DatabaseService.init(context, packageInfo!, bibleVersion!);
+    chapters = await DatabaseService.getAllChapters(language, bibleVersion!);
     books = await DatabaseService.getAllBooks(language);
   }
 }

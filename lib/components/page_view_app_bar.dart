@@ -16,12 +16,12 @@ class PageViewAppBar extends StatelessWidget {
 
   const PageViewAppBar({
     Key key,
-    @required this.initialPage,
-    @required this.itemCount,
-    @required this.itemBuilder,
-    @required this.appBarBuilder,
+    required this.initialPage,
+    required this.itemCount,
+    required this.itemBuilder,
+    required this.appBarBuilder,
     this.onPageChanged,
-    @required this.backgroundColor,
+    required this.backgroundColor,
     this.actions,
   }) : super(key: key);
 

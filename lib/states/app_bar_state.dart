@@ -6,9 +6,9 @@ class AppBarState with ChangeNotifier {
   AppBarState(AppBarModel model) {
     this._model = model;
   }
-  AppBarModel _model;
+  AppBarModel? _model;
 
-  AppBarModel get model {
+  AppBarModel? get model {
     return _model;
   }
 

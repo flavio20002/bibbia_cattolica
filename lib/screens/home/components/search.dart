@@ -62,11 +62,11 @@ class CustomSearchDelegate extends SearchDelegate {
       inputDecorationTheme: InputDecorationTheme(
         hintStyle: Theme.of(context)
             .textTheme
-            .headline6
+            .titleLarge
             .copyWith(color: MyColors.textLightDisabled),
       ),
       textTheme: theme.textTheme.copyWith(
-        headline6: theme.textTheme.bodyText2
+        titleLarge: theme.textTheme.bodyMedium
             .copyWith(color: MyColors.textLightPrimary),
       ),
     );

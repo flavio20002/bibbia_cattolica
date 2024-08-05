@@ -6,9 +6,9 @@ class BaseView<T extends ChangeNotifier> extends StatefulWidget {
   final Function(T) initialize;
   final T model;
   BaseView({
-    @required this.builder,
-    @required this.initialize,
-    @required this.model,
+    required this.builder,
+    required this.initialize,
+    required this.model,
   });
   @override
   _BaseViewState<T> createState() => _BaseViewState<T>();
@@ -17,10 +17,8 @@ class BaseView<T extends ChangeNotifier> extends StatefulWidget {
 class _BaseViewState<T extends ChangeNotifier> extends State<BaseView<T>> {
   @override
   void initState() {
-    if (widget.initialize != null) {
-      widget.initialize(widget.model);
-    }
-    super.initState();
+    widget.initialize(widget.model);
+      super.initState();
   }
 
   @override

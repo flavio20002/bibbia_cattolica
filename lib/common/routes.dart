@@ -20,9 +20,9 @@ class Routes {
     Settings.routeName: (BuildContext context) => Settings(),
   };
 
-  static Route<dynamic> Function(RouteSettings) onGenerateRoute = (settings) {
+  static Route<dynamic>? Function(RouteSettings) onGenerateRoute = (settings) {
     if (settings.name == BibleText.routeName) {
-      final ChapterModel chapter = settings.arguments;
+      final ChapterModel chapter = settings.arguments as ChapterModel;
       return MaterialPageRoute(
         builder: (context) {
           return BibleText(

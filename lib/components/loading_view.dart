@@ -6,8 +6,8 @@ class LoadingView extends StatelessWidget {
 
   const LoadingView({
     Key key,
-    @required this.backgroundColor,
-    @required this.indicatorColor,
+    required this.backgroundColor,
+    required this.indicatorColor,
   }) : super(key: key);
 
   @override

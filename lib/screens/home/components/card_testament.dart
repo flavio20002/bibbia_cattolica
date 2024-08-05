@@ -10,9 +10,9 @@ class MyCardTestament extends StatelessWidget {
 
   MyCardTestament(
       {Key key,
-      @required this.testament,
-      @required this.titleColor,
-      @required this.onTap})
+      required this.testament,
+      required this.titleColor,
+      required this.onTap})
       : super(key: key);
 
   @override

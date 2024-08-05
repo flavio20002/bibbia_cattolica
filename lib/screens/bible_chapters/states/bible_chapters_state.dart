@@ -6,9 +6,9 @@ import 'package:get_it/get_it.dart';
 class BibleChaptersState with ChangeNotifier {
   final service = GetIt.instance;
 
-  List<ChapterModel> _model;
+  List<ChapterModel>? _model;
 
-  List<ChapterModel> get model {
+  List<ChapterModel>? get model {
     return _model;
   }
 

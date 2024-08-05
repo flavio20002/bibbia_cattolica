@@ -16,7 +16,7 @@ import 'components/bible_text_page.dart';
 
 class BibleText extends StatefulWidget {
   final ChapterModel chapter;
-  BibleText({@required this.chapter, Key key}) : super(key: key);
+  BibleText({required this.chapter, Key key}) : super(key: key);
   static const routeName = '/bibleText';
 
   @override

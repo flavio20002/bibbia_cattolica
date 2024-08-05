@@ -11,13 +11,13 @@ class RadioButtonPreference extends StatefulWidget {
   final String preferenceKey;
   final Function callback;
   RadioButtonPreference(
-      {@required this.title,
-      @required this.subtitle,
-      @required this.keys,
-      @required this.values,
-      @required this.defaultValue,
-      @required this.preferenceKey,
-      @required this.callback,
+      {required this.title,
+      required this.subtitle,
+      required this.keys,
+      required this.values,
+      required this.defaultValue,
+      required this.preferenceKey,
+      required this.callback,
       Key key})
       : super(key: key);
 

@@ -8,7 +8,7 @@ import 'package:bibbia_cattolica/components/card.dart';
 class CardLectures extends StatelessWidget {
   final LectureModel lecture;
   final VoidCallback onTap;
-  CardLectures({@required this.lecture, @required this.onTap, Key key})
+  CardLectures({required this.lecture, required this.onTap, Key key})
       : super(key: key);
 
   @override
