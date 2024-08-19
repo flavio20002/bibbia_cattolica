@@ -1,6 +1,5 @@
 import 'package:bibbia_cattolica/common/drawer_items.dart';
 import 'package:bibbia_cattolica/common/images.dart';
-import 'package:bibbia_cattolica/model/drawer_item_model.dart';
 import 'package:bibbia_cattolica/states/app_state.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
