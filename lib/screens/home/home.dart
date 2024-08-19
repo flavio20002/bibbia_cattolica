@@ -21,7 +21,7 @@ class MyHomePage extends StatelessWidget {
       ),
       appBar: AppBar(
         title: AppBarTitle(
-          AppBarModel(MyLocalizations.of(context).values.title),
+          model: AppBarModel(MyLocalizations.of(context).values.title),
         ),
         actions: <Widget>[
           IconButton(

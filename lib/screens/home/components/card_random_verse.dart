@@ -9,15 +9,16 @@ import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 
 class CardRandomVerse extends StatefulWidget {
-  CardRandomVerse({Key key}) : super(key: key);
+  const CardRandomVerse({super.key});
+
   @override
   _CardRandomVerseState createState() => _CardRandomVerseState();
 }
 
 class _CardRandomVerseState extends State<CardRandomVerse>
     with WidgetsBindingObserver {
-  ChapterModel _model;
-  List<ChapterModel> _chapters;
+  late ChapterModel _model;
+  late List<ChapterModel> _chapters;
 
   @override
   Widget build(BuildContext context) {

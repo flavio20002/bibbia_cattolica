@@ -17,8 +17,8 @@ class AppState extends ChangeNotifier {
   late String bibleVersion;
   Color primaryColor = Colors.white;
   Color primaryColorDark = Colors.white;
-  List<ChapterModel>? chapters;
-  List<BookModel>? books;
+  late List<ChapterModel> chapters;
+  late List<BookModel> books;
   bool isLoading = true;
 
   static AppState of(BuildContext context) {
