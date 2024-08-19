@@ -5,12 +5,12 @@ class CheckBoxPreference extends StatefulWidget {
   final String title;
   final String subtitle;
   final String preferenceKey;
-  CheckBoxPreference(
-      {required this.title,
+
+  const CheckBoxPreference(
+      {super.key,
+      required this.title,
       required this.subtitle,
-      required this.preferenceKey,
-      Key key})
-      : super(key: key);
+      required this.preferenceKey});
 
   @override
   _CheckBoxPreferenceState createState() => _CheckBoxPreferenceState();
@@ -45,7 +45,9 @@ class _CheckBoxPreferenceState extends State<CheckBoxPreference> {
       title: Text(widget.title),
       subtitle: Text(widget.subtitle),
       onChanged: (value) {
-        saveValue(value);
+        if (value != null) {
+          saveValue(value);
+        }
       },
     );
   }

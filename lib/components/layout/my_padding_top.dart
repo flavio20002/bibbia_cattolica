@@ -3,10 +3,7 @@ import 'package:flutter/material.dart';
 class MyPaddingTop extends StatelessWidget {
   final Widget child;
 
-  const MyPaddingTop(
-    this.child, {
-    Key key,
-  }) : super(key: key);
+  const MyPaddingTop({super.key, required this.child});
 
   @override
   Widget build(BuildContext context) {

@@ -8,10 +8,7 @@ import 'package:flutter_svg/flutter_svg.dart';
 class MyDrawer extends StatelessWidget {
   final DrawerItemsEnum selectedItem;
 
-  MyDrawer({
-    required this.selectedItem,
-    Key key,
-  }) : super(key: key);
+  const MyDrawer({super.key, required this.selectedItem});
 
   Widget _createHeader() {
     return DrawerHeader(
@@ -28,11 +25,11 @@ class MyDrawer extends StatelessWidget {
   }
 
   Widget _createDrawerItem(
-      {DrawerItemsEnum drawerItem,
-      String svgIcon,
-      IconData icon,
-      String text,
-      GestureTapCallback onTap}) {
+      {required DrawerItemsEnum drawerItem,
+      required String? svgIcon,
+      required IconData? icon,
+      required String text,
+      required GestureTapCallback onTap}) {
     return ListTile(
       selected: drawerItem == selectedItem,
       leading: Builder(
@@ -46,7 +43,7 @@ class MyDrawer extends StatelessWidget {
                     size: 24.0,
                   )
                 : SvgPicture.asset(
-                    svgIcon,
+                    svgIcon!,
                     color: IconTheme.of(context).color,
                   ),
           );
@@ -67,31 +64,29 @@ class MyDrawer extends StatelessWidget {
           children: <Widget>[
             _createHeader(),
             for (var item in MyDrawerItems.items)
-              item == DrawerItemModel.divider
-                  ? Divider()
-                  : _createDrawerItem(
-                      drawerItem: item.drawerItem,
-                      svgIcon: item.svgIcon,
-                      icon: item.icon,
-                      text: item.title(context),
-                      onTap: () {
-                        if (item.drawerItem == selectedItem) {
-                          Navigator.of(context).pop();
-                        } else if (item.drawerItem == DrawerItemsEnum.home) {
-                          Navigator.popUntil(
-                            context,
-                            (Route route) => route.isFirst,
-                          );
-                        } else {
-                          Navigator.of(context).pop();
-                          Navigator.pushNamedAndRemoveUntil(
-                            context,
-                            item.route,
-                            (Route route) => route.isFirst,
-                          );
-                        }
-                      },
-                    ),
+              _createDrawerItem(
+                drawerItem: item.drawerItem,
+                svgIcon: item.svgIcon,
+                icon: item.icon,
+                text: item.title(context),
+                onTap: () {
+                  if (item.drawerItem == selectedItem) {
+                    Navigator.of(context).pop();
+                  } else if (item.drawerItem == DrawerItemsEnum.home) {
+                    Navigator.popUntil(
+                      context,
+                      (Route route) => route.isFirst,
+                    );
+                  } else {
+                    Navigator.of(context).pop();
+                    Navigator.pushNamedAndRemoveUntil(
+                      context,
+                      item.route,
+                      (Route route) => route.isFirst,
+                    );
+                  }
+                },
+              ),
             ListTile(
               title: Text(
                 packageInfo == null ? '' : 'v ' + packageInfo.version,

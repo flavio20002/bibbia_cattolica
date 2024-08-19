@@ -9,7 +9,4 @@ class DrawerItemModel {
   final String route;
   DrawerItemModel(
       this.drawerItem, this.svgIcon, this.icon, this.title, this.route);
-  static DrawerItemModel? get divider {
-    return null;
-  }
 }

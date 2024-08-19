@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 
 class BaseViewStateless<T extends ChangeNotifier> extends StatelessWidget {
-  final Widget Function(BuildContext context, T value, Widget child) builder;
+  final Widget Function(BuildContext context, T value, Widget? child) builder;
   final T model;
   BaseViewStateless({
     required this.builder,

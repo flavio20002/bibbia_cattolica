@@ -4,7 +4,7 @@ import 'package:path/path.dart';
 import 'package:sqflite/sqflite.dart';
 
 class BibleChaptersSqliteService {
-  Future<List<Map<String, dynamic>>> queryChapters(
+  Future<List<Map>> queryChapters(
       String bookCode, String language, String bibleVersion) async {
     final query = '''
     select c.id, d.titolo, c.numero_capitolo, t.testo_breve

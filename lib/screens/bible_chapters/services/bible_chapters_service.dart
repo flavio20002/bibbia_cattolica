@@ -9,7 +9,7 @@ class BibleChaptersService {
 
   Future<List<ChapterModel>> getChapters(
       BookModel book, String language, String bibleVersion) async {
-    List<Map<String, dynamic>> list =
+    List<Map<dynamic, dynamic>> list =
         await service<BibleChaptersSqliteService>()
             .queryChapters(book.codBook, language, bibleVersion);
     return [

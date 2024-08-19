@@ -43,7 +43,7 @@ class MyCardCategory extends StatelessWidget {
       mainAxisSize: MainAxisSize.max,
       children: <Widget>[
         MyPaddingAll(
-          Text(
+          child: Text(
             model.categoryTitle,
             style: MyTheme.myTitle(context),
           ),
@@ -58,13 +58,13 @@ class MyCardCategory extends StatelessWidget {
               model.books[index],
             ),
             child: MyPaddingAll(
-              Column(
+              child: Column(
                 crossAxisAlignment: CrossAxisAlignment.stretch,
                 mainAxisSize: MainAxisSize.max,
                 children: <Widget>[
                   Text(model.books[index].desBook),
                   MyPaddingTop(
-                    Text(
+                    child: Text(
                       model.books[index].chapters == 1
                           ? MyLocalizations.of(context).values.bible.oneChapter
                           : "${model.books[index].chapters} ${MyLocalizations.of(context).values.bible.chapters}",

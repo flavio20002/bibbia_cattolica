@@ -7,17 +7,18 @@ class Lectures extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    final DateTime date = ModalRoute.of(context).settings.arguments;
+    final DateTime date =
+        ModalRoute.of(context)!.settings.arguments as DateTime;
     return Scaffold(
       appBar: AppBar(
         title: AppBarTitle(
-          AppBarModel(
+          model: AppBarModel(
             date.toIso8601String(),
           ),
         ),
       ),
       body: Center(
-        child: RaisedButton(
+        child: ElevatedButton(
           onPressed: () {
             Navigator.pop(context);
           },

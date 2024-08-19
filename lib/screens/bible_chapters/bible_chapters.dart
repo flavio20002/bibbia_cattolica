@@ -13,8 +13,9 @@ class BibleChapters extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    final BookModel book = ModalRoute.of(context).settings.arguments;
-    List<BookModel> books = AppState.of(context).books;
+    final BookModel book =
+        ModalRoute.of(context)!.settings.arguments! as BookModel;
+    List<BookModel> books = AppState.of(context).books!;
     return PageViewAppBar(
       initialPage: books.indexOf(book),
       itemCount: books.length,
@@ -28,6 +29,7 @@ class BibleChapters extends StatelessWidget {
                 : '${books[page].chapters} ${MyLocalizations.of(context).values.bible.chapters}');
       },
       backgroundColor: MyColors.backgroundColorCardsLight,
+      actions: [],
     );
   }
 }

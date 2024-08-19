@@ -65,7 +65,6 @@ class MyDrawerItems {
         null,
         (context) => MyLocalizations.of(context).values.drawer.prayers,
         NewTestamentBooks.routeName),
-    DrawerItemModel.divider,
     new DrawerItemModel(
         DrawerItemsEnum.settings,
         null,

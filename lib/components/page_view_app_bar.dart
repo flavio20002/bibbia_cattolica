@@ -14,16 +14,15 @@ class PageViewAppBar extends StatelessWidget {
   final Color backgroundColor;
   final List<Widget> actions;
 
-  const PageViewAppBar({
-    Key key,
-    required this.initialPage,
-    required this.itemCount,
-    required this.itemBuilder,
-    required this.appBarBuilder,
-    this.onPageChanged,
-    required this.backgroundColor,
-    this.actions,
-  }) : super(key: key);
+  const PageViewAppBar(
+      {super.key,
+      required this.backgroundColor,
+      required this.initialPage,
+      required this.itemCount,
+      required this.itemBuilder,
+      this.appBarBuilder,
+      this.onPageChanged,
+      required this.actions});
 
   @override
   Widget build(BuildContext context) {
@@ -32,7 +31,7 @@ class PageViewAppBar extends StatelessWidget {
       child: Scaffold(
         appBar: AppBar(
           title: Consumer<AppBarState>(
-            builder: (context, model, child) => AppBarTitle(model.model),
+            builder: (context, model, child) => AppBarTitle(model: model.model),
           ),
           leading: IconButton(
             icon: Icon(Icons.arrow_back),

@@ -14,7 +14,7 @@ import 'package:provider/provider.dart';
 class AppState extends ChangeNotifier {
   PackageInfo? packageInfo;
   late String language;
-  String? bibleVersion;
+  late String bibleVersion;
   Color primaryColor = Colors.white;
   Color primaryColorDark = Colors.white;
   List<ChapterModel>? chapters;
@@ -52,8 +52,8 @@ class AppState extends ChangeNotifier {
 
   Future<void> loadDb() async {
     await Future.delayed(Duration(seconds: 2));
-    await DatabaseService.init(context, packageInfo!, bibleVersion!);
-    chapters = await DatabaseService.getAllChapters(language, bibleVersion!);
+    await DatabaseService.init(context, packageInfo!, bibleVersion);
+    chapters = await DatabaseService.getAllChapters(language, bibleVersion);
     books = await DatabaseService.getAllBooks(language);
   }
 }

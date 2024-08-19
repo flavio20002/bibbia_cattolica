@@ -26,7 +26,7 @@ class MyApp extends StatelessWidget {
       },
       model: AppState(),
       builder: (context, model, child) => MaterialApp(
-          locale: model.language == null ? null : Locale(model.language!),
+          locale: model.language == null ? null : Locale(model.language),
           routes: Routes.routes,
           onGenerateRoute: Routes.onGenerateRoute,
           onGenerateTitle: (BuildContext context) =>

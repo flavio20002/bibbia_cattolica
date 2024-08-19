@@ -28,7 +28,7 @@ class BibleBooksPage extends StatelessWidget {
               indicatorColor: AppState.of(context).primaryColor,
             )
           : CardList(
-              BibleBooksCards.cards(context, model.model!),
+              cardsList: BibleBooksCards.cards(context, model.model!),
             ),
     );
   }

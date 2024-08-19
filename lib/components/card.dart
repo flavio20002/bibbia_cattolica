@@ -8,42 +8,38 @@ import 'layout/my_padding_top.dart';
 class MyCardWidget extends StatelessWidget {
   final Color cardColor;
   final Color textColor;
-  final String title;
+  final String? title;
   final Color titleColor;
   final String text1;
   final Color text1Color;
   final String text2;
   final String text3;
-  final String textRight;
+  final String? textRight;
   final VoidCallback onTap;
-  final IconData icon;
-  final VoidCallback iconEvent;
+  final IconData? icon;
+  final VoidCallback? iconEvent;
 
-  const MyCardWidget({
-    Key key,
-    required this.cardColor,
-    required this.textColor,
-    required this.title,
-    required this.titleColor,
-    required this.text1,
-    required this.text1Color,
-    required this.textRight,
-    required this.text2,
-    required this.text3,
-    required this.onTap,
-    required this.icon,
-    required this.iconEvent,
-  }) : super(key: key);
+  const MyCardWidget(
+      {super.key,
+      required this.cardColor,
+      required this.textColor,
+      required this.title,
+      required this.titleColor,
+      required this.text1,
+      required this.text1Color,
+      required this.text2,
+      required this.text3,
+      required this.textRight,
+      required this.onTap,
+      required this.icon,
+      required this.iconEvent});
 
   _getCard(context) {
     return Card(
       color: cardColor,
       margin: EdgeInsets.all(0),
       child: Stack(
-        children: <Widget>[
-          _getContent(context),
-          _getIcon(context)
-        ],
+        children: <Widget>[_getContent(context), _getIcon(context)],
       ),
     );
   }
@@ -52,7 +48,7 @@ class MyCardWidget extends StatelessWidget {
     return InkWell(
       onTap: onTap,
       child: MyPaddingAll(
-        DefaultTextStyle(
+        child: DefaultTextStyle(
           child: _getRows(),
           style: DefaultTextStyle.of(context).style.copyWith(color: textColor),
         ),
@@ -65,24 +61,26 @@ class MyCardWidget extends StatelessWidget {
       crossAxisAlignment: CrossAxisAlignment.stretch,
       mainAxisSize: MainAxisSize.max,
       children: <Widget>[
-        MyPaddingBottom(
-          Text(
-            title,
-            style: TextStyle(
-              fontWeight: FontWeight.bold,
-              color: titleColor,
+        if (title != null)
+          MyPaddingBottom(
+            child: Text(
+              title!,
+              style: TextStyle(
+                fontWeight: FontWeight.bold,
+                color: titleColor,
+              ),
             ),
           ),
-        ),
         Text(
           text1,
           style: TextStyle(color: text1Color),
         ),
+        if (textRight != null)
+          MyPaddingTop(
+            child: Text(textRight!, textAlign: TextAlign.right),
+          ),
         MyPaddingTop(
-          Text(textRight, textAlign: TextAlign.right),
-        ),
-        MyPaddingTop(
-          Text(
+          child: Text(
             text2,
             style: TextStyle(
               fontWeight: FontWeight.bold,
@@ -90,7 +88,7 @@ class MyCardWidget extends StatelessWidget {
           ),
         ),
         MyPaddingTop(
-          Text(
+          child: Text(
             text3,
             maxLines: 3,
             overflow: TextOverflow.ellipsis,
@@ -108,7 +106,7 @@ class MyCardWidget extends StatelessWidget {
         child: InkWell(
           onTap: iconEvent,
           child: MyPaddingAll(
-            Icon(
+            child: Icon(
               icon,
               color: MyColors.textLightPrimary,
               size: 25.0,

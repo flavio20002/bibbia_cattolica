@@ -9,13 +9,13 @@ class ColorPreference extends StatefulWidget {
   final String subtitle;
   final List<Color> colors;
   final String preferenceKey;
-  ColorPreference(
-      {required this.title,
+
+  const ColorPreference(
+      {super.key,
+      required this.title,
       required this.subtitle,
-      required this.colors,
       required this.preferenceKey,
-      Key key})
-      : super(key: key);
+      required this.colors});
 
   @override
   _ColorPreference createState() => _ColorPreference();
@@ -45,7 +45,7 @@ class _ColorPreference extends State<ColorPreference> {
           ),
         ),
         actions: <Widget>[
-          FlatButton(
+          TextButton(
             child: Text(
                 MyLocalizations.of(context).values.home.cancel.toUpperCase()),
             onPressed: () {
@@ -53,7 +53,8 @@ class _ColorPreference extends State<ColorPreference> {
             },
           )
         ],
-      ), context: context,
+      ),
+      context: context,
     );
   }
 

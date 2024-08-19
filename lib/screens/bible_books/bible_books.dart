@@ -11,7 +11,7 @@ import 'components/bible_books_page.dart';
 class BibleBooks extends StatelessWidget {
   final TestamentModel testament;
 
-  const BibleBooks({required this.testament, Key? key}) : super(key: key);
+  const BibleBooks({super.key, required this.testament});
 
   static oldTestament(BuildContext context) {
     return TestamentModel(
@@ -52,6 +52,7 @@ class BibleBooks extends StatelessWidget {
             drawerItem: testaments[page].drawerItem);
       },
       backgroundColor: MyColors.backgroundColorCardsLight,
+      actions: [],
     );
   }
 }

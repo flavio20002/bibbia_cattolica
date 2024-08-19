@@ -4,7 +4,10 @@ import 'package:bibbia_cattolica/common/theme.dart';
 class PreferenceTitle extends StatelessWidget {
   final String title;
 
-  const PreferenceTitle({required this.title, Key key}) : super(key: key);
+  const PreferenceTitle({
+    super.key,
+    required this.title,
+  });
 
   @override
   Widget build(BuildContext context) {

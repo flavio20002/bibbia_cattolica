@@ -4,11 +4,8 @@ class LoadingView extends StatelessWidget {
   final Color backgroundColor;
   final Color indicatorColor;
 
-  const LoadingView({
-    Key key,
-    required this.backgroundColor,
-    required this.indicatorColor,
-  }) : super(key: key);
+  const LoadingView(
+      {super.key, required this.backgroundColor, required this.indicatorColor});
 
   @override
   Widget build(BuildContext context) {

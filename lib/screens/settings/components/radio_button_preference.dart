@@ -10,23 +10,24 @@ class RadioButtonPreference extends StatefulWidget {
   final String defaultValue;
   final String preferenceKey;
   final Function callback;
-  RadioButtonPreference(
-      {required this.title,
-      required this.subtitle,
-      required this.keys,
-      required this.values,
-      required this.defaultValue,
-      required this.preferenceKey,
-      required this.callback,
-      Key key})
-      : super(key: key);
+
+  const RadioButtonPreference({
+    super.key,
+    required this.title,
+    required this.subtitle,
+    required this.keys,
+    required this.values,
+    required this.defaultValue,
+    required this.preferenceKey,
+    required this.callback,
+  });
 
   @override
   _RadioButtonPreference createState() => _RadioButtonPreference();
 }
 
 class _RadioButtonPreference extends State<RadioButtonPreference> {
-  String _value;
+  String? _value;
 
   @override
   void initState() {
@@ -35,42 +36,49 @@ class _RadioButtonPreference extends State<RadioButtonPreference> {
   }
 
   _displayDialog(BuildContext context) async {
-    int languageIndex =
-        widget.keys.indexOf(_value) == -1 ? 0 : widget.keys.indexOf(_value);
-    return showDialog<void>(
-      context: context,
-      builder: (BuildContext context) {
-        return AlertDialog(
-          title: Text(widget.title),
-          contentPadding: EdgeInsets.fromLTRB(0.0, 20.0, 0.0, 24.0),
-          content: SingleChildScrollView(
-            child: ListBody(
-              children: <Widget>[
-                for (var v in widget.values)
-                  RadioListTile(
-                    value: widget.values.indexOf(v),
-                    groupValue: languageIndex,
-                    onChanged: (ind) {
-                      saveValue(widget.keys[ind]);
-                      Navigator.of(context).pop();
-                    },
-                    title: Text(v),
-                  )
-              ],
+    if (_value != null) {
+      int languageIndex =
+          widget.keys.indexOf(_value!) == -1 ? 0 : widget.keys.indexOf(_value!);
+      return showDialog<void>(
+        context: context,
+        builder: (BuildContext context) {
+          return AlertDialog(
+            title: Text(widget.title),
+            contentPadding: EdgeInsets.fromLTRB(0.0, 20.0, 0.0, 24.0),
+            content: SingleChildScrollView(
+              child: ListBody(
+                children: <Widget>[
+                  for (var v in widget.values)
+                    RadioListTile(
+                      value: widget.values.indexOf(v),
+                      groupValue: languageIndex,
+                      onChanged: (ind) {
+                        if (ind != null) {
+                          saveValue(widget.keys[ind]);
+                          Navigator.of(context).pop();
+                        }
+                      },
+                      title: Text(v),
+                    )
+                ],
+              ),
             ),
-          ),
-          actions: <Widget>[
-            new FlatButton(
-              child: Text(
-                  MyLocalizations.of(context).values.home.cancel.toUpperCase()),
-              onPressed: () {
-                Navigator.of(context).pop();
-              },
-            )
-          ],
-        );
-      },
-    );
+            actions: <Widget>[
+              new TextButton(
+                child: Text(MyLocalizations.of(context)
+                    .values
+                    .home
+                    .cancel
+                    .toUpperCase()),
+                onPressed: () {
+                  Navigator.of(context).pop();
+                },
+              )
+            ],
+          );
+        },
+      );
+    }
   }
 
   Future<void> loadPreferences() async {

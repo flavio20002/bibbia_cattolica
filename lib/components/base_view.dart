@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 
 class BaseView<T extends ChangeNotifier> extends StatefulWidget {
-  final Widget Function(BuildContext context, T value, Widget child) builder;
+  final Widget Function(BuildContext context, T value, Widget? child) builder;
   final Function(T) initialize;
   final T model;
   BaseView({
@@ -18,7 +18,7 @@ class _BaseViewState<T extends ChangeNotifier> extends State<BaseView<T>> {
   @override
   void initState() {
     widget.initialize(widget.model);
-      super.initState();
+    super.initState();
   }
 
   @override

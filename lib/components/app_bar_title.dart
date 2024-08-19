@@ -4,10 +4,7 @@ import 'package:flutter/material.dart';
 class AppBarTitle extends StatelessWidget {
   final AppBarModel model;
 
-  const AppBarTitle(
-    this.model, {
-    Key key,
-  }) : super(key: key);
+  const AppBarTitle({super.key, required this.model});
 
   @override
   Widget build(BuildContext context) {
@@ -19,13 +16,14 @@ class AppBarTitle extends StatelessWidget {
             model.title,
             style: TextStyle(fontSize: 18.0),
           ),
-          Padding(
-            padding: EdgeInsets.only(top: 4),
-            child: Text(
-              model.subtitle,
-              style: TextStyle(fontSize: 16.0),
+          if (model.subtitle != null)
+            Padding(
+              padding: EdgeInsets.only(top: 4),
+              child: Text(
+                model.subtitle!,
+                style: TextStyle(fontSize: 16.0),
+              ),
             ),
-          ),
         ]);
-    }
+  }
 }

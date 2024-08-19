@@ -17,7 +17,7 @@ import 'components/color_preference.dart';
 class Settings extends StatelessWidget {
   static const routeName = '/settings';
 
-  const Settings({Key key}) : super(key: key);
+  const Settings({super.key});
 
   _displayDialog(BuildContext context) async {
     return showDialog(
@@ -33,7 +33,7 @@ class Settings extends StatelessWidget {
               onChanged: (val) {},
             ),
             actions: <Widget>[
-              new FlatButton(
+              new TextButton(
                 child: new Text('CANCEL'),
                 onPressed: () {
                   Navigator.of(context).pop();
@@ -51,7 +51,8 @@ class Settings extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         title: AppBarTitle(
-          AppBarModel(MyLocalizations.of(context).values.drawer.settings),
+          model:
+              AppBarModel(MyLocalizations.of(context).values.drawer.settings),
         ),
         leading: IconButton(
           icon: Icon(Icons.arrow_back),

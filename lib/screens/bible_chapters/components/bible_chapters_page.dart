@@ -29,7 +29,7 @@ class BibleChaptersPage extends StatelessWidget {
               indicatorColor: AppState.of(context).primaryColor,
             )
           : CardList(
-              BibleChaptersCards.cards(context, book, model.model!),
+              cardsList: BibleChaptersCards.cards(context, book, model.model!),
             ),
     );
   }
