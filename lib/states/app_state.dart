@@ -51,7 +51,7 @@ class AppState extends ChangeNotifier {
   }
 
   Future<void> loadDb() async {
-    await Future.delayed(Duration(seconds: 2));
+    await Future.delayed(const Duration(seconds: 2));
     await DatabaseService.init(context, packageInfo!, bibleVersion);
     chapters = await DatabaseService.getAllChapters(language, bibleVersion);
     books = await DatabaseService.getAllBooks(language);

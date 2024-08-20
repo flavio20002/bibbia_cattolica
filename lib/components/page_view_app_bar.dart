@@ -34,7 +34,7 @@ class PageViewAppBar extends StatelessWidget {
             builder: (context, model, child) => AppBarTitle(model: model.model),
           ),
           leading: IconButton(
-            icon: Icon(Icons.arrow_back),
+            icon: const Icon(Icons.arrow_back),
             onPressed: () => Navigator.pop(context),
           ),
           actions: actions,

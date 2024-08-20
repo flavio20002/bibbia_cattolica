@@ -5,7 +5,7 @@ class BaseView<T extends ChangeNotifier> extends StatefulWidget {
   final Widget Function(BuildContext context, T value, Widget? child) builder;
   final Function(T) initialize;
   final T model;
-  BaseView({
+  const BaseView({super.key, 
     required this.builder,
     required this.initialize,
     required this.model,

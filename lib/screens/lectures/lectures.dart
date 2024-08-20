@@ -5,6 +5,8 @@ import 'package:flutter/material.dart';
 class Lectures extends StatelessWidget {
   static const routeName = '/lectures';
 
+  const Lectures({super.key});
+
   @override
   Widget build(BuildContext context) {
     final DateTime date =
@@ -22,7 +24,7 @@ class Lectures extends StatelessWidget {
           onPressed: () {
             Navigator.pop(context);
           },
-          child: Text('Go back!'),
+          child: const Text('Go back!'),
         ),
       ),
     );

@@ -52,7 +52,7 @@ class BibleBooks extends StatelessWidget {
             drawerItem: testaments[page].drawerItem);
       },
       backgroundColor: MyColors.backgroundColorCardsLight,
-      actions: [],
+      actions: const [],
     );
   }
 }

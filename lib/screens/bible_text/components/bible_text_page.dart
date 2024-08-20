@@ -11,7 +11,7 @@ import 'bible_html_text.dart';
 class BibleTextPage extends StatelessWidget {
   final ChapterModel chapter;
 
-  BibleTextPage({required this.chapter});
+  const BibleTextPage({super.key, required this.chapter});
 
   @override
   Widget build(BuildContext context) {
@@ -26,7 +26,7 @@ class BibleTextPage extends StatelessWidget {
               backgroundColor: MyColors.backgroundColorLight,
               indicatorColor: AppState.of(context).primaryColor,
             )
-          : BibleHtmlText(html: model.text),
+          : BibleHtmlText(html: model.text!),
     );
   }
 }

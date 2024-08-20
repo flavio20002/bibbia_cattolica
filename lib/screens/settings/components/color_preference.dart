@@ -78,7 +78,7 @@ class _ColorPreference extends State<ColorPreference> {
       title: Text(widget.title),
       subtitle: Text(widget.subtitle),
       trailing: Container(
-        margin: EdgeInsets.all(3),
+        margin: const EdgeInsets.all(3),
         width: 36,
         height: 36,
         decoration: BoxDecoration(color: _value, shape: BoxShape.circle),

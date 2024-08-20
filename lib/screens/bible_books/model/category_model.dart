@@ -10,7 +10,7 @@ class CategoryModel {
 
   @override
   String toString() {
-    return JsonEncoder.withIndent('  ').convert(this.toMap());
+    return const JsonEncoder.withIndent('  ').convert(toMap());
   }
 
   Map<String, dynamic> toMap() {

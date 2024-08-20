@@ -12,7 +12,7 @@ import 'cards.dart';
 class BibleChaptersPage extends StatelessWidget {
   final BookModel book;
 
-  BibleChaptersPage({required this.book});
+  const BibleChaptersPage({super.key, required this.book});
 
   @override
   Widget build(BuildContext context) {

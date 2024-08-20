@@ -11,11 +11,13 @@ import 'components/bible_chapters_page.dart';
 class BibleChapters extends StatelessWidget {
   static const routeName = '/bibleChapters';
 
+  const BibleChapters({super.key});
+
   @override
   Widget build(BuildContext context) {
     final BookModel book =
         ModalRoute.of(context)!.settings.arguments! as BookModel;
-    List<BookModel> books = AppState.of(context).books!;
+    List<BookModel> books = AppState.of(context).books;
     return PageViewAppBar(
       initialPage: books.indexOf(book),
       itemCount: books.length,
@@ -29,7 +31,7 @@ class BibleChapters extends StatelessWidget {
                 : '${books[page].chapters} ${MyLocalizations.of(context).values.bible.chapters}');
       },
       backgroundColor: MyColors.backgroundColorCardsLight,
-      actions: [],
+      actions: const [],
     );
   }
 }

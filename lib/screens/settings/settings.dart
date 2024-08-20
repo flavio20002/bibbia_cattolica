@@ -26,15 +26,15 @@ class Settings extends StatelessWidget {
         return StatefulBuilder(
             builder: (BuildContext context, StateSetter setState) {
           return AlertDialog(
-            title: Text('CheckBox'),
+            title: const Text('CheckBox'),
             content: CheckboxListTile(
-              title: Text("CheckBox Text"),
+              title: const Text("CheckBox Text"),
               value: true,
               onChanged: (val) {},
             ),
             actions: <Widget>[
-              new TextButton(
-                child: new Text('CANCEL'),
+              TextButton(
+                child: const Text('CANCEL'),
                 onPressed: () {
                   Navigator.of(context).pop();
                 },
@@ -55,11 +55,11 @@ class Settings extends StatelessWidget {
               AppBarModel(MyLocalizations.of(context).values.drawer.settings),
         ),
         leading: IconButton(
-          icon: Icon(Icons.arrow_back),
+          icon: const Icon(Icons.arrow_back),
           onPressed: () => Navigator.pop(context),
         ),
       ),
-      drawer: MyDrawer(
+      drawer: const MyDrawer(
         selectedItem: DrawerItemsEnum.settings,
       ),
       body: Center(
@@ -119,57 +119,57 @@ class Settings extends StatelessWidget {
                 preferenceKey: MyPreferences.showVerses,
               ),
               ListTile(
-                title: Text("This is a ListPreference"),
-                subtitle: Text("Subtitle goes here"),
+                title: const Text("This is a ListPreference"),
+                subtitle: const Text("Subtitle goes here"),
                 onTap: () {
                   _displayDialog(context);
                 },
               ),
               ListTile(
-                title: Text("This is a ListPreference"),
-                subtitle: Text("Subtitle goes here"),
+                title: const Text("This is a ListPreference"),
+                subtitle: const Text("Subtitle goes here"),
                 onTap: () {
                   _displayDialog(context);
                 },
               ),
               ListTile(
-                title: Text("This is a ListPreference"),
-                subtitle: Text("Subtitle goes here"),
+                title: const Text("This is a ListPreference"),
+                subtitle: const Text("Subtitle goes here"),
                 onTap: () {
                   _displayDialog(context);
                 },
               ),
               ListTile(
-                title: Text("This is a ListPreference"),
-                subtitle: Text("Subtitle goes here"),
+                title: const Text("This is a ListPreference"),
+                subtitle: const Text("Subtitle goes here"),
                 onTap: () {
                   _displayDialog(context);
                 },
               ),
               ListTile(
-                title: Text("This is a ListPreference"),
-                subtitle: Text("Subtitle goes here"),
+                title: const Text("This is a ListPreference"),
+                subtitle: const Text("Subtitle goes here"),
                 onTap: () {
                   _displayDialog(context);
                 },
               ),
               ListTile(
-                title: Text("This is a ListPreference"),
-                subtitle: Text("Subtitle goes here"),
+                title: const Text("This is a ListPreference"),
+                subtitle: const Text("Subtitle goes here"),
                 onTap: () {
                   _displayDialog(context);
                 },
               ),
               ListTile(
-                title: Text("This is a ListPreference"),
-                subtitle: Text("Subtitle goes here"),
+                title: const Text("This is a ListPreference"),
+                subtitle: const Text("Subtitle goes here"),
                 onTap: () {
                   _displayDialog(context);
                 },
               ),
               ListTile(
-                title: Text("This is a ListPreference"),
-                subtitle: Text("Subtitle goes here"),
+                title: const Text("This is a ListPreference"),
+                subtitle: const Text("Subtitle goes here"),
                 onTap: () {
                   _displayDialog(context);
                 },

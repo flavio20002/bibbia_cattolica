@@ -14,14 +14,14 @@ class AppBarTitle extends StatelessWidget {
         children: [
           Text(
             model.title,
-            style: TextStyle(fontSize: 18.0),
+            style: const TextStyle(fontSize: 18.0),
           ),
           if (model.subtitle != null)
             Padding(
-              padding: EdgeInsets.only(top: 4),
+              padding: const EdgeInsets.only(top: 4),
               child: Text(
                 model.subtitle!,
-                style: TextStyle(fontSize: 16.0),
+                style: const TextStyle(fontSize: 16.0),
               ),
             ),
         ]);

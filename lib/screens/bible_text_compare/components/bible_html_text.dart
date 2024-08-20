@@ -6,15 +6,15 @@ import 'package:html/dom.dart' as dom;
 class BibleHtmlText extends StatelessWidget {
   final String html;
 
-  BibleHtmlText({required this.html});
+  const BibleHtmlText({super.key, required this.html});
 
   @override
   Widget build(BuildContext context) {
     Widget widget = Html(
       data: html,
       padding: html.startsWith('<div')
-          ? EdgeInsets.only(left: 8, right: 8, bottom: 8)
-          : EdgeInsets.all(8),
+          ? const EdgeInsets.only(left: 8, right: 8, bottom: 8)
+          : const EdgeInsets.all(8),
       defaultTextStyle: DefaultTextStyle.of(context).style.copyWith(
           //fontSize: 26
           ),
@@ -23,7 +23,7 @@ class BibleHtmlText extends StatelessWidget {
           switch (node.className) {
             case 'titoli':
               return baseStyle.merge(
-                TextStyle(
+                const TextStyle(
                     color: MyColors.textDarkInverse,
                     fontWeight: FontWeight.bold),
               );
@@ -31,7 +31,7 @@ class BibleHtmlText extends StatelessWidget {
           switch (node.localName) {
             case 'sup':
               return baseStyle.merge(
-                TextStyle(color: MyColors.textDarkInverse),
+                const TextStyle(color: MyColors.textDarkInverse),
               );
           }
         }
@@ -41,13 +41,13 @@ class BibleHtmlText extends StatelessWidget {
         if (node is dom.Element) {
           switch (node.className) {
             case 'rientrato':
-              return EdgeInsets.only(top: 8, bottom: 8, left: 16);
+              return const EdgeInsets.only(top: 8, bottom: 8, left: 16);
           }
           switch (node.localName) {
             case 'div':
-              return EdgeInsets.only(top: 8);
+              return const EdgeInsets.only(top: 8);
             case 'p':
-              return EdgeInsets.only(top: 8);
+              return const EdgeInsets.only(top: 8);
           }
         }
         return null;

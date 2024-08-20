@@ -12,6 +12,8 @@ import 'components/bible_text_page.dart';
 class BibleTextCompare extends StatelessWidget {
   static const routeName = '/bibleTextCompare';
 
+  const BibleTextCompare({super.key});
+
   String chapterNumber(BuildContext context, int chapterNumber) {
     return MyLocalizations.of(context)
         .values

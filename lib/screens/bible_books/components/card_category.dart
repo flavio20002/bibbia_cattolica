@@ -11,15 +11,15 @@ class MyCardCategory extends StatelessWidget {
   final onTap;
 
   const MyCardCategory({
-    Key? key,
+    super.key,
     required this.model,
     this.onTap,
-  }) : super(key: key);
+  });
 
   _getCard(context) {
     return Card(
       color: MyColors.backgroundColorLight,
-      margin: EdgeInsets.all(0),
+      margin: const EdgeInsets.all(0),
       child: Stack(
         children: <Widget>[
           _getContent(context),
@@ -49,7 +49,7 @@ class MyCardCategory extends StatelessWidget {
           ),
         ),
         ListView.separated(
-          separatorBuilder: (context, index) => Divider(height: 0),
+          separatorBuilder: (context, index) => const Divider(height: 0),
           itemCount: model.books.length,
           shrinkWrap: true,
           physics: const NeverScrollableScrollPhysics(),
@@ -68,7 +68,7 @@ class MyCardCategory extends StatelessWidget {
                       model.books[index].chapters == 1
                           ? MyLocalizations.of(context).values.bible.oneChapter
                           : "${model.books[index].chapters} ${MyLocalizations.of(context).values.bible.chapters}",
-                      style: TextStyle(
+                      style: const TextStyle(
                         fontWeight: FontWeight.bold,
                       ),
                     ),

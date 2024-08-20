@@ -13,10 +13,10 @@ class CardList extends StatelessWidget {
           itemCount: cardsList.length,
           itemBuilder: (context, position) {
             bool last = cardsList.length == (position + 1);
-            return new Container(
+            return Container(
                 padding: last
-                    ? EdgeInsets.all(10)
-                    : EdgeInsets.only(top: 10, left: 10, right: 10),
+                    ? const EdgeInsets.all(10)
+                    : const EdgeInsets.only(top: 10, left: 10, right: 10),
                 child: cardsList[position]);
           },
         ),

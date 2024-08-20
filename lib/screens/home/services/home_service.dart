@@ -6,7 +6,7 @@ import 'package:flutter/cupertino.dart';
 class HomeService {
   static ChapterModel getRandomChapter(BuildContext context) {
     List<ChapterModel> chapters = AppState.of(context).chapters;
-    final _random = new Random();
-    return chapters[_random.nextInt(chapters.length)];
+    final random = Random();
+    return chapters[random.nextInt(chapters.length)];
   }
 }

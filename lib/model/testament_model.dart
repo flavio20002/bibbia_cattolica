@@ -10,6 +10,8 @@ class TestamentModel {
   TestamentModel(this.drawerItem, this.codTestament, this.desTestament,
       this.booksNumber, this.verseText, this.verseFrom);
 
+  @override
   bool operator ==(o) => o is TestamentModel && codTestament == o.codTestament;
+  @override
   int get hashCode => codTestament.hashCode;
 }

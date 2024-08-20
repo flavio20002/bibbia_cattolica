@@ -4,7 +4,7 @@ import 'package:provider/provider.dart';
 class BaseViewStateless<T extends ChangeNotifier> extends StatelessWidget {
   final Widget Function(BuildContext context, T value, Widget? child) builder;
   final T model;
-  BaseViewStateless({
+  const BaseViewStateless({super.key, 
     required this.builder,
     required this.model,
   });

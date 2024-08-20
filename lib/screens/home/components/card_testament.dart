@@ -8,12 +8,11 @@ class MyCardTestament extends StatelessWidget {
   final Color titleColor;
   final VoidCallback onTap;
 
-  MyCardTestament(
-      {Key key,
+  const MyCardTestament(
+      {super.key,
+      required this.onTap,
       required this.testament,
-      required this.titleColor,
-      required this.onTap})
-      : super(key: key);
+      required this.titleColor});
 
   @override
   Widget build(BuildContext context) {

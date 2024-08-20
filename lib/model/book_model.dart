@@ -6,12 +6,14 @@ class BookModel {
   final int category;
   final int chapters;
   BookModel(this.codBook, this.desBook, this.category, this.chapters);
+  @override
   bool operator ==(o) => o is BookModel && codBook == o.codBook;
+  @override
   int get hashCode => codBook.hashCode;
 
   @override
   String toString() {
-    return JsonEncoder.withIndent('  ').convert(this.toMap());
+    return const JsonEncoder.withIndent('  ').convert(toMap());
   }
 
   Map<String, dynamic> toMap() {

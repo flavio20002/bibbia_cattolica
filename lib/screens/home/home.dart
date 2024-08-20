@@ -12,11 +12,13 @@ import 'components/search.dart';
 class MyHomePage extends StatelessWidget {
   static const routeName = '/';
 
+  const MyHomePage({super.key});
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
       backgroundColor: AppState.of(context).primaryColorDark,
-      drawer: MyDrawer(
+      drawer: const MyDrawer(
         selectedItem: DrawerItemsEnum.home,
       ),
       appBar: AppBar(
@@ -25,7 +27,7 @@ class MyHomePage extends StatelessWidget {
         ),
         actions: <Widget>[
           IconButton(
-            icon: Icon(Icons.search),
+            icon: const Icon(Icons.search),
             tooltip: MyLocalizations.of(context).values.home.searchTooltip,
             onPressed: () {
               showSearch(
@@ -38,7 +40,7 @@ class MyHomePage extends StatelessWidget {
           ),
         ],
       ),
-      body: HomeCards(),
+      body: const HomeCards(),
     );
   }
 }

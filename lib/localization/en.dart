@@ -2,10 +2,10 @@ import 'package:bibbia_cattolica/model/chapter_model.dart';
 
 class DefaultLanguage {
   String get title => 'Catholic Bible';
-  DefaultHome _home = new DefaultHome();
-  DefaultDrawer _drawer = new DefaultDrawer();
-  DefaultBible _bible = new DefaultBible();
-  DefaultSettings _settings = new DefaultSettings();
+  final DefaultHome _home = DefaultHome();
+  final DefaultDrawer _drawer = DefaultDrawer();
+  final DefaultBible _bible = DefaultBible();
+  final DefaultSettings _settings = DefaultSettings();
   DefaultHome get home => _home;
   DefaultDrawer get drawer => _drawer;
   DefaultBible get bible => _bible;

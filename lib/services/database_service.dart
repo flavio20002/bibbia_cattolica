@@ -38,7 +38,7 @@ class DatabaseService {
   }
 
   static Future<void> deleteDbs() async {
-    Directory directory = new Directory(await getDatabasesPath());
+    Directory directory = Directory(await getDatabasesPath());
     List<FileSystemEntity> files = directory.listSync();
     for (var file in files) {
       print(file.path);
@@ -69,7 +69,7 @@ class DatabaseService {
     }
   }
 
-  static final queryAllChapters = '''
+  static const queryAllChapters = '''
     select
         l.codice,
         l.numero_capitoli,
@@ -97,7 +97,7 @@ class DatabaseService {
         c.idn
   ''';
 
-  static final queryAllBooks = '''
+  static const queryAllBooks = '''
     select
         l.codice,
         l.numero_capitoli,

@@ -5,7 +5,7 @@ import 'colors.dart';
 
 class MyTheme {
   static TextStyle myTitle(BuildContext context) {
-    return TextStyle(
+    return const TextStyle(
         fontSize: 18.0,
         color: MyColors.textDarkInverse,
         fontWeight: FontWeight.bold);
@@ -19,7 +19,7 @@ class MyTheme {
       // textTheme: Theme.of(context).textTheme.apply(
       //       fontSizeFactor: 1.5,
       //     ),
-      textTheme: TextTheme(
+      textTheme: const TextTheme(
         bodyLarge: TextStyle(fontSize: 18.0),
         bodyMedium: TextStyle(fontSize: 18.0),
         titleMedium: TextStyle(fontSize: 20.0),

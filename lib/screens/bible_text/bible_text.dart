@@ -16,7 +16,7 @@ import 'components/bible_text_page.dart';
 
 class BibleText extends StatefulWidget {
   final ChapterModel chapter;
-  BibleText({required this.chapter, Key key}) : super(key: key);
+  const BibleText({required this.chapter, Key key}) : super(key: key);
   static const routeName = '/bibleText';
 
   @override
@@ -49,7 +49,7 @@ class _BibleTextState extends State<BibleText> {
               subtitle: _currentChapter.book.desBook),
         ),
         leading: IconButton(
-          icon: Icon(Icons.arrow_back),
+          icon: const Icon(Icons.arrow_back),
           onPressed: () => Navigator.pop(context),
         ),
         actions: <Widget>[
@@ -65,7 +65,7 @@ class _BibleTextState extends State<BibleText> {
           ])
         ],
       ),
-      drawer: MyDrawer(selectedItem: DrawerItemsEnum.none),
+      drawer: const MyDrawer(selectedItem: DrawerItemsEnum.none),
       backgroundColor: MyColors.backgroundColorLight,
       body: Builder(
         builder: (BuildContext context) {

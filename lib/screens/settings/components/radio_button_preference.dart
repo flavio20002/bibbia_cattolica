@@ -38,13 +38,13 @@ class _RadioButtonPreference extends State<RadioButtonPreference> {
   _displayDialog(BuildContext context) async {
     if (_value != null) {
       int languageIndex =
-          widget.keys.indexOf(_value!) == -1 ? 0 : widget.keys.indexOf(_value!);
+          !widget.keys.contains(_value!) ? 0 : widget.keys.indexOf(_value!);
       return showDialog<void>(
         context: context,
         builder: (BuildContext context) {
           return AlertDialog(
             title: Text(widget.title),
-            contentPadding: EdgeInsets.fromLTRB(0.0, 20.0, 0.0, 24.0),
+            contentPadding: const EdgeInsets.fromLTRB(0.0, 20.0, 0.0, 24.0),
             content: SingleChildScrollView(
               child: ListBody(
                 children: <Widget>[
@@ -64,7 +64,7 @@ class _RadioButtonPreference extends State<RadioButtonPreference> {
               ),
             ),
             actions: <Widget>[
-              new TextButton(
+              TextButton(
                 child: Text(MyLocalizations.of(context)
                     .values
                     .home

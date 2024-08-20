@@ -11,13 +11,13 @@ import 'package:flutter/material.dart';
 
 class Routes {
   static final routes = <String, WidgetBuilder>{
-    OldTestamentBooks.routeName: (BuildContext context) => OldTestamentBooks(),
-    NewTestamentBooks.routeName: (BuildContext context) => NewTestamentBooks(),
-    BibleChapters.routeName: (BuildContext context) => BibleChapters(),
-    BibleTextCompare.routeName: (BuildContext context) => BibleTextCompare(),
-    Lectures.routeName: (BuildContext context) => Lectures(),
-    Bookmarks.routeName: (BuildContext context) => Bookmarks(),
-    Settings.routeName: (BuildContext context) => Settings(),
+    OldTestamentBooks.routeName: (BuildContext context) => const OldTestamentBooks(),
+    NewTestamentBooks.routeName: (BuildContext context) => const NewTestamentBooks(),
+    BibleChapters.routeName: (BuildContext context) => const BibleChapters(),
+    BibleTextCompare.routeName: (BuildContext context) => const BibleTextCompare(),
+    Lectures.routeName: (BuildContext context) => const Lectures(),
+    Bookmarks.routeName: (BuildContext context) => const Bookmarks(),
+    Settings.routeName: (BuildContext context) => const Settings(),
   };
 
   static Route<dynamic>? Function(RouteSettings) onGenerateRoute = (settings) {

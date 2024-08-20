@@ -5,20 +5,22 @@ import 'package:flutter/material.dart';
 class Bookmarks extends StatelessWidget {
   static const routeName = '/bookmarks';
 
+  const Bookmarks({super.key});
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
         title: AppBarTitle(
-          AppBarModel('Bookmarks'),
+          model: AppBarModel('Bookmarks'),
         ),
       ),
       body: Center(
-        child: RaisedButton(
+        child: ElevatedButton(
           onPressed: () {
             Navigator.pop(context);
           },
-          child: Text('Go back!'),
+          child: const Text('Go back!'),
         ),
       ),
     );

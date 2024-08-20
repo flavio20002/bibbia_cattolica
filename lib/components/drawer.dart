@@ -10,7 +10,7 @@ class MyDrawer extends StatelessWidget {
   const MyDrawer({super.key, required this.selectedItem});
 
   Widget _createHeader() {
-    return DrawerHeader(
+    return const DrawerHeader(
       margin: EdgeInsets.zero,
       padding: EdgeInsets.zero,
       decoration: BoxDecoration(
@@ -88,7 +88,7 @@ class MyDrawer extends StatelessWidget {
               ),
             ListTile(
               title: Text(
-                packageInfo == null ? '' : 'v ' + packageInfo.version,
+                packageInfo == null ? '' : 'v ${packageInfo.version}',
                 textAlign: TextAlign.center,
               ),
             ),

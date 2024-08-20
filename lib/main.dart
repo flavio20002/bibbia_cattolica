@@ -13,10 +13,12 @@ import 'localization/localization.dart';
 
 void main() {
   setupServices();
-  runApp(MyApp());
+  runApp(const MyApp());
 }
 
 class MyApp extends StatelessWidget {
+  const MyApp({super.key});
+
   // This widget is the root of your application.
   @override
   Widget build(BuildContext context) {
@@ -26,13 +28,13 @@ class MyApp extends StatelessWidget {
       },
       model: AppState(),
       builder: (context, model, child) => MaterialApp(
-          locale: model.language == null ? null : Locale(model.language),
+          locale: Locale(model.language),
           routes: Routes.routes,
           onGenerateRoute: Routes.onGenerateRoute,
           onGenerateTitle: (BuildContext context) =>
               MyLocalizations.of(context).values.title,
-          localizationsDelegates: [
-            const MyLocalizationsDelegate(),
+          localizationsDelegates: const [
+            MyLocalizationsDelegate(),
             GlobalMaterialLocalizations.delegate,
             GlobalWidgetsLocalizations.delegate,
           ],
@@ -44,7 +46,7 @@ class MyApp extends StatelessWidget {
                   backgroundColor: AppState.of(context).primaryColor,
                   indicatorColor: MyColors.textLightPrimary,
                 )
-              : MyHomePage()),
+              : const MyHomePage()),
     );
   }
 }

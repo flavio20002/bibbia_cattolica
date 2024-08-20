@@ -4,7 +4,7 @@ import 'package:provider/provider.dart';
 
 class AppBarState with ChangeNotifier {
   AppBarState(AppBarModel model) {
-    this._model = model;
+    _model = model;
   }
   late AppBarModel _model;
 

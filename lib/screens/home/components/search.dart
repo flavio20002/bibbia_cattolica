@@ -6,7 +6,7 @@ import 'package:flutter/material.dart';
 
 class CustomSearchDelegate extends SearchDelegate {
   CustomSearchDelegate({
-    String hintText,
+    String? hintText,
   }) : super(
           searchFieldLabel: hintText,
           keyboardType: TextInputType.text,
@@ -17,7 +17,7 @@ class CustomSearchDelegate extends SearchDelegate {
   List<Widget> buildActions(BuildContext context) {
     return [
       IconButton(
-        icon: Icon(Icons.clear),
+        icon: const Icon(Icons.clear),
         onPressed: () {
           query = '';
         },
@@ -28,7 +28,7 @@ class CustomSearchDelegate extends SearchDelegate {
   @override
   Widget buildLeading(BuildContext context) {
     return IconButton(
-      icon: Icon(Icons.arrow_back),
+      icon: const Icon(Icons.arrow_back),
       onPressed: () {
         close(context, null);
       },
@@ -45,14 +45,14 @@ class CustomSearchDelegate extends SearchDelegate {
       );
     } else {
       return CardList(
-        BibleBooksCards.cards(context, []),
+        cardsList: BibleBooksCards.cards(context, []),
       );
     }
   }
 
   @override
   Widget buildSuggestions(BuildContext context) {
-    return Column();
+    return const Column();
   }
 
   @override
@@ -62,11 +62,11 @@ class CustomSearchDelegate extends SearchDelegate {
       inputDecorationTheme: InputDecorationTheme(
         hintStyle: Theme.of(context)
             .textTheme
-            .titleLarge
+            .titleLarge!
             .copyWith(color: MyColors.textLightDisabled),
       ),
       textTheme: theme.textTheme.copyWith(
-        titleLarge: theme.textTheme.bodyMedium
+        titleLarge: theme.textTheme.bodyMedium!
             .copyWith(color: MyColors.textLightPrimary),
       ),
     );

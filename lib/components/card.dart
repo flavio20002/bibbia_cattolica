@@ -12,8 +12,8 @@ class MyCardWidget extends StatelessWidget {
   final Color titleColor;
   final String text1;
   final Color text1Color;
-  final String text2;
-  final String text3;
+  final String? text2;
+  final String? text3;
   final String? textRight;
   final VoidCallback onTap;
   final IconData? icon;
@@ -37,7 +37,7 @@ class MyCardWidget extends StatelessWidget {
   _getCard(context) {
     return Card(
       color: cardColor,
-      margin: EdgeInsets.all(0),
+      margin: const EdgeInsets.all(0),
       child: Stack(
         children: <Widget>[_getContent(context), _getIcon(context)],
       ),
@@ -79,21 +79,23 @@ class MyCardWidget extends StatelessWidget {
           MyPaddingTop(
             child: Text(textRight!, textAlign: TextAlign.right),
           ),
-        MyPaddingTop(
-          child: Text(
-            text2,
-            style: TextStyle(
-              fontWeight: FontWeight.bold,
+        if (text2 != null)
+          MyPaddingTop(
+            child: Text(
+              text2!,
+              style: const TextStyle(
+                fontWeight: FontWeight.bold,
+              ),
             ),
           ),
-        ),
-        MyPaddingTop(
-          child: Text(
-            text3,
-            maxLines: 3,
-            overflow: TextOverflow.ellipsis,
+        if (text3 != null)
+          MyPaddingTop(
+            child: Text(
+              text3!,
+              maxLines: 3,
+              overflow: TextOverflow.ellipsis,
+            ),
           ),
-        ),
       ],
     );
   }

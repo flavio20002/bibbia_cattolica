@@ -23,55 +23,55 @@ enum DrawerItemsEnum {
 
 class MyDrawerItems {
   static final items = [
-    new DrawerItemModel(
+    DrawerItemModel(
         DrawerItemsEnum.home,
         null,
         Icons.home,
         (context) => MyLocalizations.of(context).values.drawer.home,
         MyHomePage.routeName),
-    new DrawerItemModel(
+    DrawerItemModel(
         DrawerItemsEnum.old_testament,
         MyIcons.book,
         null,
         (context) => MyLocalizations.of(context).values.drawer.oldTestament,
         OldTestamentBooks.routeName),
-    new DrawerItemModel(
+    DrawerItemModel(
         DrawerItemsEnum.new_testament,
         MyIcons.fish,
         null,
         (context) => MyLocalizations.of(context).values.drawer.newTestament,
         NewTestamentBooks.routeName),
-    new DrawerItemModel(
+    DrawerItemModel(
         DrawerItemsEnum.lectures,
         MyIcons.calendar,
         null,
         (context) => MyLocalizations.of(context).values.drawer.lectures,
         NewTestamentBooks.routeName),
-    new DrawerItemModel(
+    DrawerItemModel(
         DrawerItemsEnum.bookmarks,
         null,
         Icons.star,
         (context) => MyLocalizations.of(context).values.drawer.bookmarks,
         NewTestamentBooks.routeName),
-    new DrawerItemModel(
+    DrawerItemModel(
         DrawerItemsEnum.maps,
         MyIcons.map,
         null,
         (context) => MyLocalizations.of(context).values.drawer.maps,
         NewTestamentBooks.routeName),
-    new DrawerItemModel(
+    DrawerItemModel(
         DrawerItemsEnum.prayers,
         MyIcons.pray,
         null,
         (context) => MyLocalizations.of(context).values.drawer.prayers,
         NewTestamentBooks.routeName),
-    new DrawerItemModel(
+    DrawerItemModel(
         DrawerItemsEnum.settings,
         null,
         Icons.settings,
         (context) => MyLocalizations.of(context).values.drawer.settings,
         Settings.routeName),
-    new DrawerItemModel(
+    DrawerItemModel(
         DrawerItemsEnum.credits,
         null,
         Icons.info_outline,

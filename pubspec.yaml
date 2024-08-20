@@ -30,6 +30,7 @@ dev_dependencies:
     flutter_test:
         sdk: flutter
     enum_to_string: ^2.0.1
+    flutter_lints: ^4.0.0
     mockito: ^5.4.4
     csv: ^6.0.0
 

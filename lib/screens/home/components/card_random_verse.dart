@@ -46,6 +46,7 @@ class _CardRandomVerseState extends State<CardRandomVerse>
     );
   }
 
+  @override
   didChangeDependencies() {
     final chapters = Provider.of<AppState>(context).chapters;
     if (chapters != _chapters) {
