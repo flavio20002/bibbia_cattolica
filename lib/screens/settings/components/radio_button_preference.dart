@@ -11,22 +11,21 @@ class RadioButtonPreference extends StatefulWidget {
   final String preferenceKey;
   final Function callback;
 
-  const RadioButtonPreference({
-    super.key,
-    required this.title,
-    required this.subtitle,
-    required this.keys,
-    required this.values,
-    required this.defaultValue,
-    required this.preferenceKey,
-    required this.callback,
-  });
+  const RadioButtonPreference(
+      {super.key,
+      required this.title,
+      required this.subtitle,
+      required this.keys,
+      required this.values,
+      required this.defaultValue,
+      required this.preferenceKey,
+      required this.callback});
 
   @override
-  _RadioButtonPreference createState() => _RadioButtonPreference();
+  State<RadioButtonPreference> createState() => _RadioButtonPreferenceState();
 }
 
-class _RadioButtonPreference extends State<RadioButtonPreference> {
+class _RadioButtonPreferenceState extends State<RadioButtonPreference> {
   String? _value;
 
   @override

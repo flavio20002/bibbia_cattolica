@@ -26,7 +26,7 @@ class BibleTextPage extends StatelessWidget {
               backgroundColor: MyColors.backgroundColorLight,
               indicatorColor: AppState.of(context).primaryColor,
             )
-          : BibleHtmlText(html: model.text),
+          : BibleHtmlText(html: model.text!),
     );
   }
 }

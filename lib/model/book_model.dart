@@ -7,7 +7,7 @@ class BookModel {
   final int chapters;
   BookModel(this.codBook, this.desBook, this.category, this.chapters);
   @override
-  bool operator ==(o) => o is BookModel && codBook == o.codBook;
+  bool operator ==(other) => other is BookModel && codBook == other.codBook;
   @override
   int get hashCode => codBook.hashCode;
 

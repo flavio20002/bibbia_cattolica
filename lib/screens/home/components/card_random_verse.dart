@@ -12,7 +12,7 @@ class CardRandomVerse extends StatefulWidget {
   const CardRandomVerse({super.key});
 
   @override
-  _CardRandomVerseState createState() => _CardRandomVerseState();
+  State<CardRandomVerse> createState() => _CardRandomVerseState();
 }
 
 class _CardRandomVerseState extends State<CardRandomVerse>

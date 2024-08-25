@@ -24,7 +24,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return BaseView<AppState>(
       initialize: (model) {
-        model.load();
+        model.load(context);
       },
       model: AppState(),
       builder: (context, model, child) => MaterialApp(

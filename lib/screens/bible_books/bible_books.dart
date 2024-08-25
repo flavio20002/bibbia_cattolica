@@ -15,7 +15,7 @@ class BibleBooks extends StatelessWidget {
 
   static oldTestament(BuildContext context) {
     return TestamentModel(
-        DrawerItemsEnum.old_testament,
+        DrawerItemsEnum.oldTestament,
         'A',
         MyLocalizations.of(context).values.home.oldTestamentTitle,
         46,
@@ -25,7 +25,7 @@ class BibleBooks extends StatelessWidget {
 
   static newTestament(BuildContext context) {
     return TestamentModel(
-        DrawerItemsEnum.new_testament,
+        DrawerItemsEnum.newTestament,
         'N',
         MyLocalizations.of(context).values.home.newTestamentTitle,
         27,

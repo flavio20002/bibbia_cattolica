@@ -11,7 +11,8 @@ class TestamentModel {
       this.booksNumber, this.verseText, this.verseFrom);
 
   @override
-  bool operator ==(o) => o is TestamentModel && codTestament == o.codTestament;
+  bool operator ==(other) =>
+      other is TestamentModel && codTestament == other.codTestament;
   @override
   int get hashCode => codTestament.hashCode;
 }

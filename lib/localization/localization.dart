@@ -1,6 +1,6 @@
 import 'dart:async';
 
-import 'package:flutter/foundation.dart' show SynchronousFuture;
+import 'package:flutter/foundation.dart' show SynchronousFuture, kDebugMode;
 import 'package:flutter/material.dart';
 import 'package:intl/date_symbol_data_local.dart';
 
@@ -22,8 +22,8 @@ class MyLocalizations {
     italianLanguage,
   ];
 
-  static Locale get systemLanguage {
-    List<Locale> locales = WidgetsBinding.instance.window.locales;
+  static Locale getSystemLanguage(BuildContext context) {
+    List<Locale> locales = View.of(context).platformDispatcher.locales;
     for (var locale in locales) {
       if (_supportedLanguages.contains(locale.languageCode)) {
         return locale;
@@ -79,7 +79,9 @@ class MyLocalizationsDelegate extends LocalizationsDelegate<MyLocalizations> {
 
   @override
   Future<MyLocalizations> load(Locale locale) {
-    print('Language: ${locale.languageCode}');
+    if (kDebugMode) {
+      print('Language: ${locale.languageCode}');
+    }
     return SynchronousFuture<MyLocalizations>(MyLocalizations(locale));
   }
 

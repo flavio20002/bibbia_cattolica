@@ -43,7 +43,8 @@ class MyDrawer extends StatelessWidget {
                   )
                 : SvgPicture.asset(
                     svgIcon!,
-                    color: IconTheme.of(context).color,
+                    colorFilter: ColorFilter.mode(
+                        IconTheme.of(context).color!, BlendMode.srcIn),
                   ),
           );
         },

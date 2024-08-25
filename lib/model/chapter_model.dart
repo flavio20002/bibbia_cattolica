@@ -11,7 +11,8 @@ class ChapterModel {
       this.textPreview, this.book);
 
   @override
-  bool operator ==(o) => o is ChapterModel && codChapter == o.codChapter;
+  bool operator ==(other) =>
+      other is ChapterModel && codChapter == other.codChapter;
   @override
   int get hashCode => codChapter.hashCode;
 }

@@ -95,7 +95,7 @@ class Settings extends StatelessWidget {
                 defaultValue:
                     Bibles.defaultBible(AppState.of(context).language),
                 preferenceKey: MyPreferences.bibleVersion,
-                callback: () => AppState.of(context).load(),
+                callback: () => AppState.of(context).load(context),
               ),
               RadioButtonPreference(
                 title:
@@ -110,7 +110,7 @@ class Settings extends StatelessWidget {
                     MyLocalizations.of(context).getLanguages().values),
                 defaultValue: "",
                 preferenceKey: MyPreferences.language,
-                callback: () => AppState.of(context).load(),
+                callback: () => AppState.of(context).load(context),
               ),
               CheckBoxPreference(
                 title: MyLocalizations.of(context).values.settings.verseTitle,

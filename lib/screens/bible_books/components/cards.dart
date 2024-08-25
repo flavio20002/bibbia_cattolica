@@ -11,10 +11,10 @@ class BibleBooksCards {
       result.add(
         MyCardCategory(
           model: elem,
-          onTap: (book) => () => {
-                Navigator.pushNamed(context, BibleChapters.routeName,
-                    arguments: book)
-              },
+          onTap: (book) => {
+            Navigator.pushNamed(context, BibleChapters.routeName,
+                arguments: book)
+          },
         ),
       );
     }

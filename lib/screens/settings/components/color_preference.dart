@@ -18,7 +18,7 @@ class ColorPreference extends StatefulWidget {
       required this.colors});
 
   @override
-  _ColorPreference createState() => _ColorPreference();
+  State<ColorPreference> createState() => _ColorPreference();
 }
 
 class _ColorPreference extends State<ColorPreference> {
@@ -69,7 +69,9 @@ class _ColorPreference extends State<ColorPreference> {
   Future<void> saveValue(int value) async {
     await PreferencesService.setIntegerPreference(widget.preferenceKey, value);
     await loadPreferences();
-    AppState.of(context).loadPreferences();
+    if (mounted) {
+      AppState.of(context).loadPreferences(context);
+    }
   }
 
   @override

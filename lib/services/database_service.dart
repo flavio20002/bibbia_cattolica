@@ -34,14 +34,18 @@ class DatabaseService {
     List<int> bytes =
         data.buffer.asUint8List(data.offsetInBytes, data.lengthInBytes);
     await File(path).writeAsBytes(bytes, flush: true);
-    print('Copied $dbName');
+    if (kDebugMode) {
+      print('Copied $dbName');
+    }
   }
 
   static Future<void> deleteDbs() async {
     Directory directory = Directory(await getDatabasesPath());
     List<FileSystemEntity> files = directory.listSync();
     for (var file in files) {
-      print(file.path);
+      if (kDebugMode) {
+        print(file.path);
+      }
     }
   }
 
@@ -65,7 +69,9 @@ class DatabaseService {
       List<int> bytes =
           data.buffer.asUint8List(data.offsetInBytes, data.lengthInBytes);
       await File(path).writeAsBytes(bytes, flush: true);
-      print('Replaced $dbName');
+      if (kDebugMode) {
+        print('Replaced $dbName');
+      }
     }
   }
 

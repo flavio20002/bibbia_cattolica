@@ -1,3 +1,4 @@
+import 'package:bibbia_cattolica/model/app_bar_model.dart';
 import 'package:bibbia_cattolica/states/app_bar_state.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
@@ -9,8 +10,8 @@ class PageViewAppBar extends StatelessWidget {
   final int initialPage;
   final int itemCount;
   final IndexedWidgetBuilder itemBuilder;
-  final appBarBuilder;
-  final onPageChanged;
+  final AppBarModel Function(int) appBarBuilder;
+  final void Function(int)? onPageChanged;
   final Color backgroundColor;
   final List<Widget> actions;
 
@@ -20,7 +21,7 @@ class PageViewAppBar extends StatelessWidget {
       required this.initialPage,
       required this.itemCount,
       required this.itemBuilder,
-      this.appBarBuilder,
+      required this.appBarBuilder,
       this.onPageChanged,
       required this.actions});
 
@@ -49,7 +50,7 @@ class PageViewAppBar extends StatelessWidget {
             return PageView.builder(
                 onPageChanged: (int page) {
                   if (onPageChanged != null) {
-                    onPageChanged(page);
+                    onPageChanged!(page);
                   }
                   AppBarState.of(context).update(appBarBuilder(page));
                 },

@@ -10,8 +10,8 @@ import 'icons.dart';
 
 enum DrawerItemsEnum {
   home,
-  old_testament,
-  new_testament,
+  oldTestament,
+  newTestament,
   lectures,
   bookmarks,
   maps,
@@ -30,13 +30,13 @@ class MyDrawerItems {
         (context) => MyLocalizations.of(context).values.drawer.home,
         MyHomePage.routeName),
     DrawerItemModel(
-        DrawerItemsEnum.old_testament,
+        DrawerItemsEnum.oldTestament,
         MyIcons.book,
         null,
         (context) => MyLocalizations.of(context).values.drawer.oldTestament,
         OldTestamentBooks.routeName),
     DrawerItemModel(
-        DrawerItemsEnum.new_testament,
+        DrawerItemsEnum.newTestament,
         MyIcons.fish,
         null,
         (context) => MyLocalizations.of(context).values.drawer.newTestament,

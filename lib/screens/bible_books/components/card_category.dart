@@ -2,18 +2,19 @@ import 'package:bibbia_cattolica/common/colors.dart';
 import 'package:bibbia_cattolica/components/layout/my_padding_all.dart';
 import 'package:bibbia_cattolica/components/layout/my_padding_top.dart';
 import 'package:bibbia_cattolica/localization/localization.dart';
+import 'package:bibbia_cattolica/model/book_model.dart';
 import 'package:bibbia_cattolica/screens/bible_books/model/category_model.dart';
 import 'package:flutter/material.dart';
 import 'package:bibbia_cattolica/common/theme.dart';
 
 class MyCardCategory extends StatelessWidget {
   final CategoryModel model;
-  final onTap;
+  final void Function(BookModel) onTap;
 
   const MyCardCategory({
     super.key,
     required this.model,
-    this.onTap,
+    required this.onTap,
   });
 
   _getCard(context) {
@@ -54,9 +55,11 @@ class MyCardCategory extends StatelessWidget {
           shrinkWrap: true,
           physics: const NeverScrollableScrollPhysics(),
           itemBuilder: (context, index) => InkWell(
-            onTap: onTap(
-              model.books[index],
-            ),
+            onTap: () {
+              onTap(
+                model.books[index],
+              );
+            },
             child: MyPaddingAll(
               child: Column(
                 crossAxisAlignment: CrossAxisAlignment.stretch,

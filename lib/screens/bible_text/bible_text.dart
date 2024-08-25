@@ -16,15 +16,16 @@ import 'components/bible_text_page.dart';
 
 class BibleText extends StatefulWidget {
   final ChapterModel chapter;
-  const BibleText({required this.chapter, Key key}) : super(key: key);
   static const routeName = '/bibleText';
 
+  const BibleText({super.key, required this.chapter});
+
   @override
-  _BibleTextState createState() => _BibleTextState();
+  State<BibleText> createState() => _BibleTextState();
 }
 
 class _BibleTextState extends State<BibleText> {
-  ChapterModel _currentChapter;
+  late ChapterModel _currentChapter;
   String chapterNumber(BuildContext context, int chapterNumber) {
     return MyLocalizations.of(context)
         .values
@@ -45,7 +46,8 @@ class _BibleTextState extends State<BibleText> {
     return Scaffold(
       appBar: AppBar(
         title: AppBarTitle(
-          AppBarModel(chapterNumber(context, _currentChapter.chapterNumber),
+          model: AppBarModel(
+              chapterNumber(context, _currentChapter.chapterNumber),
               subtitle: _currentChapter.book.desBook),
         ),
         leading: IconButton(
@@ -53,7 +55,7 @@ class _BibleTextState extends State<BibleText> {
           onPressed: () => Navigator.pop(context),
         ),
         actions: <Widget>[
-          MyPopUpMenu(<MenuChoice>[
+          MyPopUpMenu(choices: <MenuChoice>[
             MenuChoice(
               title: 'Compare',
               onTap: () {

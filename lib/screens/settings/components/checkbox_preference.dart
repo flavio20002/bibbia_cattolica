@@ -13,7 +13,7 @@ class CheckBoxPreference extends StatefulWidget {
       required this.preferenceKey});
 
   @override
-  _CheckBoxPreferenceState createState() => _CheckBoxPreferenceState();
+  State<CheckBoxPreference> createState() => _CheckBoxPreferenceState();
 }
 
 class _CheckBoxPreferenceState extends State<CheckBoxPreference> {

@@ -2,9 +2,9 @@ import 'package:bibbia_cattolica/screens/bible_text/services/bible_text_service.
 import 'package:flutter/material.dart';
 
 class BibleTextState with ChangeNotifier {
-  String _text;
+  String? _text;
 
-  String get text {
+  String? get text {
     return _text;
   }
 

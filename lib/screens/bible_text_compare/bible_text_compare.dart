@@ -23,7 +23,8 @@ class BibleTextCompare extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    final CompareModel model = ModalRoute.of(context).settings.arguments;
+    final CompareModel model =
+        ModalRoute.of(context)!.settings.arguments as CompareModel;
     List<ChapterModel> chapters = AppState.of(context).chapters;
     return PageViewAppBar(
       initialPage: chapters.indexOf(model.chapter),
@@ -36,6 +37,7 @@ class BibleTextCompare extends StatelessWidget {
             subtitle: chapters[page].book.desBook);
       },
       backgroundColor: MyColors.backgroundColorLight,
+      actions: const [],
     );
   }
 }
