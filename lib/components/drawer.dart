@@ -58,43 +58,41 @@ class MyDrawer extends StatelessWidget {
   Widget build(BuildContext context) {
     var packageInfo = AppState.of(context).packageInfo;
     return Drawer(
-      child: Scrollbar(
-        child: ListView(
-          padding: EdgeInsets.zero,
-          children: <Widget>[
-            _createHeader(),
-            for (var item in MyDrawerItems.items)
-              _createDrawerItem(
-                drawerItem: item.drawerItem,
-                svgIcon: item.svgIcon,
-                icon: item.icon,
-                text: item.title(context),
-                onTap: () {
-                  if (item.drawerItem == selectedItem) {
-                    Navigator.of(context).pop();
-                  } else if (item.drawerItem == DrawerItemsEnum.home) {
-                    Navigator.popUntil(
-                      context,
-                      (Route route) => route.isFirst,
-                    );
-                  } else {
-                    Navigator.of(context).pop();
-                    Navigator.pushNamedAndRemoveUntil(
-                      context,
-                      item.route,
-                      (Route route) => route.isFirst,
-                    );
-                  }
-                },
-              ),
-            ListTile(
-              title: Text(
-                packageInfo == null ? '' : 'v ${packageInfo.version}',
-                textAlign: TextAlign.center,
-              ),
+      child: ListView(
+        padding: EdgeInsets.zero,
+        children: <Widget>[
+          _createHeader(),
+          for (var item in MyDrawerItems.items)
+            _createDrawerItem(
+              drawerItem: item.drawerItem,
+              svgIcon: item.svgIcon,
+              icon: item.icon,
+              text: item.title(context),
+              onTap: () {
+                if (item.drawerItem == selectedItem) {
+                  Navigator.of(context).pop();
+                } else if (item.drawerItem == DrawerItemsEnum.home) {
+                  Navigator.popUntil(
+                    context,
+                    (Route route) => route.isFirst,
+                  );
+                } else {
+                  Navigator.of(context).pop();
+                  Navigator.pushNamedAndRemoveUntil(
+                    context,
+                    item.route,
+                    (Route route) => route.isFirst,
+                  );
+                }
+              },
             ),
-          ],
-        ),
+          ListTile(
+            title: Text(
+              packageInfo == null ? '' : 'v ${packageInfo.version}',
+              textAlign: TextAlign.center,
+            ),
+          ),
+        ],
       ),
     );
   }

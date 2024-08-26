@@ -2,14 +2,14 @@ import 'package:bibbia_cattolica/common/colors.dart';
 import 'package:bibbia_cattolica/components/layout/my_padding_all.dart';
 import 'package:bibbia_cattolica/components/layout/my_padding_top.dart';
 import 'package:bibbia_cattolica/localization/localization.dart';
-import 'package:bibbia_cattolica/model/book_model.dart';
-import 'package:bibbia_cattolica/screens/bible_books/model/category_model.dart';
+import 'package:bibbia_cattolica/model/bible_book.dart';
+import 'package:bibbia_cattolica/model/bible_category.dart';
 import 'package:flutter/material.dart';
 import 'package:bibbia_cattolica/common/theme.dart';
 
 class MyCardCategory extends StatelessWidget {
-  final CategoryModel model;
-  final void Function(BookModel) onTap;
+  final BibleCategoryModel model;
+  final void Function(BibleBookModel) onTap;
 
   const MyCardCategory({
     super.key,
@@ -68,9 +68,9 @@ class MyCardCategory extends StatelessWidget {
                   Text(model.books[index].desBook),
                   MyPaddingTop(
                     child: Text(
-                      model.books[index].chapters == 1
+                      model.books[index].numeroCapitoli == 1
                           ? MyLocalizations.of(context).values.bible.oneChapter
-                          : "${model.books[index].chapters} ${MyLocalizations.of(context).values.bible.chapters}",
+                          : "${model.books[index].numeroCapitoli} ${MyLocalizations.of(context).values.bible.chapters}",
                       style: const TextStyle(
                         fontWeight: FontWeight.bold,
                       ),

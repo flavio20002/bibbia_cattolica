@@ -1,0 +1,147 @@
+id,code,testament,category,chapters,lang,des
+1,Gen,A,1,50,it,Genesi
+2,Es,A,1,40,it,Esodo
+3,Lv,A,1,27,it,Levitico
+4,Nm,A,1,36,it,Numeri
+5,Dt,A,1,34,it,Deuteronomio
+6,Gios,A,2,24,it,Giosuè
+7,Gdc,A,2,21,it,Giudici
+8,Rut,A,2,4,it,Rut
+9,1Sam,A,2,31,it,Primo libro di Samuele
+10,2Sam,A,2,24,it,Secondo libro di Samuele
+11,1Re,A,2,22,it,Primo libro dei Re
+12,2Re,A,2,25,it,Secondo libro dei Re
+13,1Cr,A,2,29,it,Primo libro delle Cronache
+14,2Cr,A,2,36,it,Secondo libro delle Cronache
+15,Esd,A,2,10,it,Esdra
+16,Nee,A,2,13,it,Neemia
+17,Tob,A,2,14,it,Tobia
+18,Gdt,A,2,16,it,Giuditta
+19,Est,A,2,10,it,Ester
+20,1Mac,A,2,16,it,Primo libro dei Maccabei
+21,2Mac,A,2,15,it,Secondo libro dei Maccabei
+22,Gb,A,3,42,it,Giobbe
+23,Sal,A,3,150,it,Salmi
+24,Prv,A,3,31,it,Proverbi
+25,Qo,A,3,12,it,Qoèlet
+26,Cant,A,3,8,it,Cantico dei Cantici
+27,Sap,A,3,19,it,Sapienza
+28,Sir,A,3,51,it,Siracide
+29,Is,A,4,66,it,Isaia
+30,Ger,A,4,52,it,Geremia
+31,Lam,A,4,5,it,Lamentazioni
+32,Bar,A,4,6,it,Baruc
+33,Ez,A,4,48,it,Ezechiele
+34,Dan,A,4,14,it,Daniele
+35,Os,A,4,14,it,Osea
+36,Gioe,A,4,4,it,Gioele
+37,Am,A,4,9,it,Amos
+38,Abd,A,4,1,it,Abdia
+39,Gion,A,4,4,it,Giona
+40,Mich,A,4,7,it,Michea
+41,Naum,A,4,3,it,Naum
+42,Abac,A,4,3,it,Abacuc
+43,Sof,A,4,3,it,Sofonia
+44,Agg,A,4,2,it,Aggeo
+45,Zc,A,4,14,it,Zaccaria
+46,Mal,A,4,3,it,Malachia
+47,Mt,N,5,28,it,Vangelo secondo Matteo
+48,Mc,N,5,16,it,Vangelo secondo Marco
+49,Lc,N,5,24,it,Vangelo secondo Luca
+50,Gv,N,5,21,it,Vangelo secondo Giovanni
+51,At,N,6,28,it,Atti degli Apostoli
+52,Rom,N,7,16,it,Lettera ai Romani
+53,1Cor,N,7,16,it,Prima lettera ai Corinzi
+54,2Cor,N,7,13,it,Seconda lettera ai Corinzi
+55,Gal,N,7,6,it,Lettera ai Galati
+56,Ef,N,7,6,it,Lettera agli Efesini
+57,Fil,N,7,4,it,Lettera ai Filippesi
+58,Col,N,7,4,it,Lettera ai Colossesi
+59,1Ts,N,7,5,it,Prima lettera ai Tessalonicesi
+60,2Ts,N,7,3,it,Seconda lettera ai Tessalonicesi
+61,1Tm,N,7,6,it,Prima lettera a Timoteo
+62,2Tm,N,7,4,it,Seconda lettera a Timoteo
+63,Tit,N,7,3,it,Lettera a Tito
+64,Fm,N,7,1,it,Lettera a Filemone
+65,Ebr,N,8,13,it,Lettera agli Ebrei
+66,Giac,N,8,5,it,Lettera di Giacomo
+67,1Pt,N,8,5,it,Prima lettera di Pietro
+68,2Pt,N,8,3,it,Seconda lettera di Pietro
+69,1Gv,N,8,5,it,Prima lettera di Giovanni
+70,2Gv,N,8,1,it,Seconda lettera di Giovanni
+71,3Gv,N,8,1,it,Terza lettera di Giovanni
+72,Gd,N,8,1,it,Lettera di Giuda
+73,Ap,N,9,22,it,Apocalisse di Giovanni
+1,Gen,A,1,50,en,Genesis
+2,Es,A,1,40,en,Exodus
+3,Lv,A,1,27,en,Leviticus
+4,Nm,A,1,36,en,Numbers
+5,Dt,A,1,34,en,Deuteronomy
+6,Gios,A,2,24,en,Joshua
+7,Gdc,A,2,21,en,Judges
+8,Rut,A,2,4,en,Ruth
+9,1Sam,A,2,31,en,1 Samuel
+10,2Sam,A,2,24,en,2 Samuel
+11,1Re,A,2,22,en,1 Kings
+12,2Re,A,2,25,en,2 Kings
+13,1Cr,A,2,29,en,1 Chronicles
+14,2Cr,A,2,36,en,2 Chronicles
+15,Esd,A,2,10,en,Ezra
+16,Nee,A,2,13,en,Nehemiah
+17,Tob,A,2,14,en,Tobit
+18,Gdt,A,2,16,en,Judith
+19,Est,A,2,10,en,Esther
+20,1Mac,A,2,16,en,1 Maccabees
+21,2Mac,A,2,15,en,2 Maccabees
+22,Gb,A,3,42,en,Job
+23,Sal,A,3,150,en,Psalms
+24,Prv,A,3,31,en,Proverbs
+25,Qo,A,3,12,en,Ecclesiastes
+26,Cant,A,3,8,en,Song of Songs
+27,Sap,A,3,19,en,Wisdom
+28,Sir,A,3,51,en,Sirach
+29,Is,A,4,66,en,Isaiah
+30,Ger,A,4,52,en,Jeremiah
+31,Lam,A,4,5,en,Lamentations
+32,Bar,A,4,6,en,Baruch
+33,Ez,A,4,48,en,Ezekiel
+34,Dan,A,4,14,en,Daniel
+35,Os,A,4,14,en,Hosea
+36,Gioe,A,4,4,en,Joel
+37,Am,A,4,9,en,Amos
+38,Abd,A,4,1,en,Obadiah
+39,Gion,A,4,4,en,Jonah
+40,Mich,A,4,7,en,Micah
+41,Naum,A,4,3,en,Nahum
+42,Abac,A,4,3,en,Habakkuk
+43,Sof,A,4,3,en,Zephaniah
+44,Agg,A,4,2,en,Haggai
+45,Zc,A,4,14,en,Zechariah
+46,Mal,A,4,3,en,Malachi
+47,Mt,N,5,28,en,Matthew
+48,Mc,N,5,16,en,Mark
+49,Lc,N,5,24,en,Luke
+50,Gv,N,5,21,en,John
+51,At,N,6,28,en,Acts
+52,Rom,N,7,16,en,Romans
+53,1Cor,N,7,16,en,1 Corinthians
+54,2Cor,N,7,13,en,2 Corinthians
+55,Gal,N,7,6,en,Galatians
+56,Ef,N,7,6,en,Ephesians
+57,Fil,N,7,4,en,Philippians
+58,Col,N,7,4,en,Colossians
+59,1Ts,N,7,5,en,1 Thessalonians
+60,2Ts,N,7,3,en,2 Thessalonians
+61,1Tm,N,7,6,en,1 Timothy
+62,2Tm,N,7,4,en,2 Timothy
+63,Tit,N,7,3,en,Titus
+64,Fm,N,7,1,en,Philemon
+65,Ebr,N,8,13,en,Hebrews
+66,Giac,N,8,5,en,James
+67,1Pt,N,8,5,en,1 Peter
+68,2Pt,N,8,3,en,2 Peter
+69,1Gv,N,8,5,en,1 John
+70,2Gv,N,8,1,en,2 John
+71,3Gv,N,8,1,en,3 John
+72,Gd,N,8,1,en,Jude
+73,Ap,N,9,22,en,Revelation

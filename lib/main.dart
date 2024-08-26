@@ -6,13 +6,11 @@ import 'package:flutter_localizations/flutter_localizations.dart';
 
 import 'common/colors.dart';
 import 'common/routes.dart';
-import 'common/service_locator.dart';
 import 'components/base_view.dart';
 import 'components/loading_view.dart';
 import 'localization/localization.dart';
 
 void main() {
-  setupServices();
   runApp(const MyApp());
 }
 
@@ -36,6 +34,7 @@ class MyApp extends StatelessWidget {
           localizationsDelegates: const [
             MyLocalizationsDelegate(),
             GlobalMaterialLocalizations.delegate,
+            GlobalCupertinoLocalizations.delegate,
             GlobalWidgetsLocalizations.delegate,
           ],
           supportedLocales: MyLocalizations.supportedLocales,

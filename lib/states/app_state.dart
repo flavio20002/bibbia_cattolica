@@ -1,25 +1,26 @@
+import 'dart:io';
+
 import 'package:bibbia_cattolica/common/bibles.dart';
 import 'package:bibbia_cattolica/common/colors.dart';
 import 'package:bibbia_cattolica/common/preferences.dart';
 import 'package:bibbia_cattolica/localization/localization.dart';
-import 'package:bibbia_cattolica/model/book_model.dart';
-import 'package:bibbia_cattolica/model/chapter_model.dart';
-import 'package:bibbia_cattolica/services/database_service.dart';
+import 'package:bibbia_cattolica/model/bible_book.dart';
+import 'package:bibbia_cattolica/model/bible_chapter.dart';
+import 'package:bibbia_cattolica/services/bible.dart';
 import 'package:bibbia_cattolica/services/preferences_service.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:package_info/package_info.dart';
-import 'package:path/path.dart';
 import 'package:provider/provider.dart';
 
 class AppState extends ChangeNotifier {
   PackageInfo? packageInfo;
-  late String language;
+  String language = 'en';
   late String bibleVersion;
   Color primaryColor = Colors.white;
   Color primaryColorDark = Colors.white;
-  late List<ChapterModel> chapters;
-  late List<BookModel> books;
+  late List<BibleChapterModel> chapters;
+  late List<BibleBookModel> books;
   bool isLoading = true;
 
   static AppState of(BuildContext context) {
@@ -47,18 +48,19 @@ class AppState extends ChangeNotifier {
       MyPreferences.bibleVersion,
       Bibles.defaultBible(language),
     );
-    packageInfo = await PackageInfo.fromPlatform();
-    if (kDebugMode) {
-      print(
-          'PackageInfo: ${packageInfo!.appName} - ${packageInfo!.version} (${packageInfo!.buildNumber})');
+    if (!Platform.isWindows) {
+      packageInfo = await PackageInfo.fromPlatform();
+      if (kDebugMode) {
+        print(
+            'PackageInfo: ${packageInfo!.appName} - ${packageInfo!.version} (${packageInfo!.buildNumber})');
+      }
     }
+
     notifyListeners();
   }
 
   Future<void> loadDb() async {
-    await Future.delayed(const Duration(seconds: 2));
-    await DatabaseService.init(context, packageInfo!, bibleVersion);
-    chapters = await DatabaseService.getAllChapters(language, bibleVersion);
-    books = await DatabaseService.getAllBooks(language);
+    chapters = await BibleService.getAllChapters(language, bibleVersion);
+    books = await BibleService.getAllBooks(language);
   }
 }

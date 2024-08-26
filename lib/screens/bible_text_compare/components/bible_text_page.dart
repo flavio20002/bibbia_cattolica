@@ -1,7 +1,7 @@
 import 'package:bibbia_cattolica/common/colors.dart';
 import 'package:bibbia_cattolica/components/base_view.dart';
 import 'package:bibbia_cattolica/components/loading_view.dart';
-import 'package:bibbia_cattolica/model/chapter_model.dart';
+import 'package:bibbia_cattolica/model/bible_chapter.dart';
 import 'package:bibbia_cattolica/screens/bible_text/states/bible_text_state.dart';
 import 'package:bibbia_cattolica/states/app_state.dart';
 import 'package:flutter/material.dart';
@@ -9,7 +9,7 @@ import 'package:flutter/material.dart';
 import 'bible_html_text.dart';
 
 class BibleTextPage extends StatelessWidget {
-  final ChapterModel chapter;
+  final BibleChapterModel chapter;
 
   const BibleTextPage({super.key, required this.chapter});
 

@@ -1,0 +1,2657 @@
+id,idn,cod_libro,id_libro,numero_capitolo,lingua,titolo
+Gen_1,1,Gen,1,1,en,The Story of Creation
+Gen_1,1,Gen,1,1,it,Creazione e riposo divino
+Gen_2,2,Gen,1,2,en,The Garden of Eden
+Gen_2,2,Gen,1,2,it,Il riposo sabbatico
+Gen_3,3,Gen,1,3,en,Expulsion from Eden
+Gen_3,3,Gen,1,3,it,Il peccato di Adamo
+Gen_4,4,Gen,1,4,en,Cain and Abel
+Gen_4,4,Gen,1,4,it,Caino uccide Abele
+Gen_5,5,Gen,1,5,en,Generations: Adam to Noah
+Gen_5,5,Gen,1,5,it,I Patriarchi antidiluviani
+Gen_6,6,Gen,1,6,en,Origin of the Nephilim
+Gen_6,6,Gen,1,6,it,Noè e il diluvio
+Gen_7,7,Gen,1,7,en,The Great Flood
+Gen_7,7,Gen,1,7,it,Il diluvio
+Gen_8,8,Gen,1,8,en,The Great Flood
+Gen_8,8,Gen,1,8,it,Nuovo inizio della creazione
+Gen_9,9,Gen,1,9,en,Covenant with Noah
+Gen_9,9,Gen,1,9,it,L'ubriachezza di Noè
+Gen_10,10,Gen,1,10,en,Table of the Nations
+Gen_10,10,Gen,1,10,it,L'umanita' dopo il diluvio
+Gen_11,11,Gen,1,11,en,Tower of Babel
+Gen_11,11,Gen,1,11,it,La torre di Babele e nuova genealogia
+Gen_12,12,Gen,1,12,en,Abram’s Call and Migration
+Gen_12,12,Gen,1,12,it,Sara insidiata in Egitto
+Gen_13,13,Gen,1,13,en,Abram and Lot Part
+Gen_13,13,Gen,1,13,it,Abramo e Lot
+Gen_14,14,Gen,1,14,en,The Four Kings
+Gen_14,14,Gen,1,14,it,La campagna di Chedorlaòmer
+Gen_15,15,Gen,1,15,en,The Covenant with Abram
+Gen_15,15,Gen,1,15,it,Dialogo tra Dio e Abramo: l'alleanza
+Gen_16,16,Gen,1,16,en,Birth of Ishmael
+Gen_16,16,Gen,1,16,it,Nascita di Ismaele e cacciata di Agar
+Gen_17,17,Gen,1,17,en,Covenant of Circumcision
+Gen_17,17,Gen,1,17,it,Nuovo racconto dell'alleanza
+Gen_18,18,Gen,1,18,en,Abraham’s Visitors
+Gen_18,18,Gen,1,18,it,Promessa ad Abramo e distruzione di Sòdoma
+Gen_19,19,Gen,1,19,en,Destruction of Sodom and Gomorrah
+Gen_19,19,Gen,1,19,it,Lot e le figlie
+Gen_20,20,Gen,1,20,en,Abraham at Gerar
+Gen_20,20,Gen,1,20,it,Sara insidiata da Abimèlec
+Gen_21,21,Gen,1,21,en,Birth of Isaac
+Gen_21,21,Gen,1,21,it,Nascita di Isacco e cacciata di Agar e di Ismaele
+Gen_22,22,Gen,1,22,en,The Testing of Abraham
+Gen_22,22,Gen,1,22,it,Sacrificio di Isacco
+Gen_23,23,Gen,1,23,en,Purchase of a Burial Plot
+Gen_23,23,Gen,1,23,it,Morte e sepoltura di Sara
+Gen_24,24,Gen,1,24,en,Isaac and Rebekah
+Gen_24,24,Gen,1,24,it,Matrimonio tra Isacco e Rebecca
+Gen_25,25,Gen,1,25,en,Abraham’s Sons by Keturah
+Gen_25,25,Gen,1,25,it,Morte di Abramo e genealogia
+Gen_26,26,Gen,1,26,en,Isaac and Abimelech
+Gen_26,26,Gen,1,26,it,Rebecca insidiata da Abimèlec
+Gen_27,27,Gen,1,27,en,Jacob’s Deception
+Gen_27,27,Gen,1,27,it,La benedizione di Giacobbe
+Gen_28,28,Gen,1,28,en,Jacob’s Dream at Bethel
+Gen_28,28,Gen,1,28,it,Giacobbe in viaggio: il sogno della scala
+Gen_29,29,Gen,1,29,en,Arrival in Haran
+Gen_29,29,Gen,1,29,it,Matrimonio di Giacobbe con Lia e Rachele
+Gen_30,30,Gen,1,30,en,Jacob Outwits Laban
+Gen_30,30,Gen,1,30,it,Giacobbe si arricchisce
+Gen_31,31,Gen,1,31,en,Flight from Laban
+Gen_31,31,Gen,1,31,it,Giacobbe fugge via da Làbano
+Gen_32,32,Gen,1,32,en,Envoys to Esau
+Gen_32,32,Gen,1,32,it,Lotta con Dio
+Gen_33,33,Gen,1,33,en,Jacob and Esau Meet
+Gen_33,33,Gen,1,33,it,Riconciliazione e separazione tra Giacobbe e Esaù
+Gen_34,34,Gen,1,34,en,The Rape of Dinah
+Gen_34,34,Gen,1,34,it,La strage di Sichem
+Gen_35,35,Gen,1,35,en,Bethel Revisited
+Gen_35,35,Gen,1,35,it,Di nuovo a Betel
+Gen_36,36,Gen,1,36,en,Edomite Lists
+Gen_36,36,Gen,1,36,it,Genealogia di Esaù
+Gen_37,37,Gen,1,37,en,Joseph Sold into Egypt
+Gen_37,37,Gen,1,37,it,Giuseppe e i suoi fratelli
+Gen_38,38,Gen,1,38,en,Judah and Tamar
+Gen_38,38,Gen,1,38,it,Giuda e Tamar
+Gen_39,39,Gen,1,39,en,Joseph’s Temptation
+Gen_39,39,Gen,1,39,it,"Giuseppe, interprete dei sogni, si afferma a corte"
+Gen_40,40,Gen,1,40,en,The Dreams Interpreted
+Gen_40,40,Gen,1,40,it,I sogni dei Ministri
+Gen_41,41,Gen,1,41,en,Pharaoh’s Dream
+Gen_41,41,Gen,1,41,it,I sogni del Faraone
+Gen_42,42,Gen,1,42,en,The Brothers’ First Journey to Egypt
+Gen_42,42,Gen,1,42,it,I fratelli di Giuseppe scendono in Egitto una prima volta
+Gen_43,43,Gen,1,43,en,The Second Journey to Egypt
+Gen_43,43,Gen,1,43,it,I fratelli di Giuseppe scendono di nuovo in Egitto
+Gen_44,44,Gen,1,44,en,Final Test
+Gen_44,44,Gen,1,44,it,La coppa di Giuseppe
+Gen_45,45,Gen,1,45,en,The Truth Revealed
+Gen_45,45,Gen,1,45,it,Giuseppe si fa conoscere
+Gen_46,46,Gen,1,46,en,Migration to Egypt
+Gen_46,46,Gen,1,46,it,I fratelli di Giuseppe e Giacobbe scendono in Egitto
+Gen_47,47,Gen,1,47,en,Settlement in Goshen
+Gen_47,47,Gen,1,47,it,Giuseppe e la carestia
+Gen_48,48,Gen,1,48,en,Joseph’s Sons
+Gen_48,48,Gen,1,48,it,Efraim e Manasse
+Gen_49,49,Gen,1,49,en,Jacob’s Testament
+Gen_49,49,Gen,1,49,it,Le benedizioni di Giacobbe
+Gen_50,50,Gen,1,50,en,Jacob’s Funeral
+Gen_50,50,Gen,1,50,it,Sepoltura di Giacobbe
+Es_1,51,Es,2,1,en,Jacob’s Descendants in Egypt
+Es_1,51,Es,2,1,it,In egitto: gli ebrei oppressi e liberati
+Es_2,52,Es,2,2,en,Birth and Adoption of Moses
+Es_2,52,Es,2,2,it,"Nascita, vocazione e missione di Mosè"
+Es_3,53,Es,2,3,en,The Call and Commission of Moses
+Es_3,53,Es,2,3,it,Missione di Mosè
+Es_4,54,Es,2,4,en,Aaron’s Office as Assistant
+Es_4,54,Es,2,4,it,Mosè con il potere dei segni
+Es_5,55,Es,2,5,en,Pharaoh’s Hardness of Heart
+Es_5,55,Es,2,5,it,Mosè e Aronne dal Faraone
+Es_6,56,Es,2,6,en,Confirmation of the Promise to the Ancestors
+Es_6,56,Es,2,6,it,Altro racconto della vocazione di Mosè
+Es_7,57,Es,2,7,en,The Staff Turned into a Serpent
+Es_7,57,Es,2,7,it,Le piaghe (1° e 2°)
+Es_8,58,Es,2,8,en,Third Plague: The Gnats
+Es_8,58,Es,2,8,it,Le piaghe (3° e 4°)
+Es_9,59,Es,2,9,en,Fifth Plague:The Pestilence
+Es_9,59,Es,2,9,it,"Le piaghe (5°, 6° e 7°)"
+Es_10,60,Es,2,10,en,Eighth Plague: The Locusts
+Es_10,60,Es,2,10,it,Le piaghe (8° e 9°)
+Es_11,61,Es,2,11,en,Tenth Plague: The Death of the Firstborn
+Es_11,61,Es,2,11,it,La morte dei primogeniti
+Es_12,62,Es,2,12,en,The Passover Ritual Prescribed
+Es_12,62,Es,2,12,it,La Pasqua
+Es_13,63,Es,2,13,en,Consecration of Firstborn
+Es_13,63,Es,2,13,it,La salvezza al Mar Rosso
+Es_14,64,Es,2,14,en,Crossing the Red Sea
+Es_14,64,Es,2,14,it,Verso il mare
+Es_15,65,Es,2,15,en,At Marah and Elim
+Es_15,65,Es,2,15,it,Nel deserto: le tappe verso il sinai
+Es_16,66,Es,2,16,en,The Wilderness of Sin
+Es_16,66,Es,2,16,it,"La manna, il cibo del deserto"
+Es_17,67,Es,2,17,en,Water from the Rock
+Es_17,67,Es,2,17,it,Massa e Merìba
+Es_18,68,Es,2,18,en,Meeting with Jethro
+Es_18,68,Es,2,18,it,Mosè ritrova la sua famiglia
+Es_19,69,Es,2,19,en,Arrival at Sinai
+Es_19,69,Es,2,19,it,Al sinai: alleanza e santuario
+Es_20,70,Es,2,20,en,The Ten Commandments
+Es_20,70,Es,2,20,it,Impegno e condizione dell'alleanza: la legge
+Es_21,71,Es,2,21,en,Laws Regarding Slaves
+Es_21,71,Es,2,21,it,Leggi sugli schiavi
+Es_22,72,Es,2,22,en,Trusts and Loans
+Es_22,72,Es,2,22,it,Danni particolari
+Es_23,73,Es,2,23,en,Religious Laws
+Es_23,73,Es,2,23,it,Doveri di giustizia
+Es_24,74,Es,2,24,en,Ratification of the Covenant
+Es_24,74,Es,2,24,it,Celebrazione dell'alleanza
+Es_25,75,Es,2,25,en,Collection of Materials
+Es_25,75,Es,2,25,it,Contributi per il santuario
+Es_26,76,Es,2,26,en,The Tent Cloth
+Es_26,76,Es,2,26,it,Contributi per il santuario (2)
+Es_27,77,Es,2,27,en,The Altar for Burnt Offerings
+Es_27,77,Es,2,27,it,Contributi per il santuario (3)
+Es_28,78,Es,2,28,en,The Priestly Vestments
+Es_28,78,Es,2,28,it,Le vesti dei sacerdoti
+Es_29,79,Es,2,29,en,Consecration of the Priests
+Es_29,79,Es,2,29,it,Consacrazione di Aronne e dei suoi figli
+Es_30,80,Es,2,30,en,Altar of Incense
+Es_30,80,Es,2,30,it,Altare dei profumi
+Es_31,81,Es,2,31,en,Choice of Artisans
+Es_31,81,Es,2,31,it,Gli artefici del santuario
+Es_32,82,Es,2,32,en,The Golden Calf
+Es_32,82,Es,2,32,it,Infedeltà del popolo e rinnovamento dell'alleanza
+Es_33,83,Es,2,33,en,Moses’ Intimacy with God
+Es_33,83,Es,2,33,it,Minacce di Dio. Partenza
+Es_34,84,Es,2,34,en,Renewal of the Tablets
+Es_34,84,Es,2,34,it,Rinnovo dell'alleanza. Tavole della legge
+Es_35,85,Es,2,35,en,Sabbath Regulations
+Es_35,85,Es,2,35,it,Esecuzione del progetto del santuario
+Es_36,86,Es,2,36,en,The Tent Cloth and Coverings
+Es_36,86,Es,2,36,it,La colletta sospesa
+Es_37,87,Es,2,37,en,The Ark
+Es_37,87,Es,2,37,it,L'arca
+Es_38,88,Es,2,38,en,The Altar for Burnt Offerings
+Es_38,88,Es,2,38,it,L'altare degli olocausti
+Es_39,89,Es,2,39,en,The Priestly Vestments
+Es_39,89,Es,2,39,it,Le vesti del sommo sacerdote
+Es_40,90,Es,2,40,en,Setting Up the Tabernacle
+Es_40,90,Es,2,40,it,Erezione e consacrazione del santuario
+Lv_1,91,Lv,3,1,en,Burnt Offerings
+Lv_1,91,Lv,3,1,it,Sacrifici
+Lv_2,92,Lv,3,2,en,Grain Offerings
+Lv_2,92,Lv,3,2,it,Oblazione
+Lv_3,93,Lv,3,3,en,Communion Sacrifices
+Lv_3,93,Lv,3,3,it,Sacrifici di comunione
+Lv_4,94,Lv,3,4,en,Purification Offerings
+Lv_4,94,Lv,3,4,it,Sacrifici per il peccato
+Lv_5,95,Lv,3,5,en,Special Cases for Purification Offerings
+Lv_5,95,Lv,3,5,it,Sacrificio di riparazione
+Lv_6,96,Lv,3,6,en,The Daily Burnt Offering
+Lv_6,96,Lv,3,6,it,Istruzioni sulla esecuzione dei sacrifici e conclusione
+Lv_7,97,Lv,3,7,en,Reparation Offerings
+Lv_7,97,Lv,3,7,it,Il sacrificio di riparazione
+Lv_8,98,Lv,3,8,en,Ordination of Aaron and His Sons
+Lv_8,98,Lv,3,8,it,Investitura dei sacerdoti e inaugurazione del culto
+Lv_9,99,Lv,3,9,en,Octave of the Ordination
+Lv_9,99,Lv,3,9,it,Inaugurazione del culto
+Lv_10,100,Lv,3,10,en,Nadab and Abihu
+Lv_10,100,Lv,3,10,it,Incidente nel culto e prescrizioni cultuali
+Lv_11,101,Lv,3,11,en,Clean and Unclean Meats
+Lv_11,101,Lv,3,11,it,Puro e impuro
+Lv_12,102,Lv,3,12,en,Uncleanness of Childbirth
+Lv_12,102,Lv,3,12,it,Parto e purità
+Lv_13,103,Lv,3,13,en,Scaly Infection
+Lv_13,103,Lv,3,13,it,La lebbra
+Lv_14,104,Lv,3,14,en,Purification After Scaly Infection
+Lv_14,104,Lv,3,14,it,Purificazione del lebbroso
+Lv_15,105,Lv,3,15,en,Sexual Uncleanness
+Lv_15,105,Lv,3,15,it,Impurità sessuali
+Lv_16,106,Lv,3,16,en,The Day of Atonement
+Lv_16,106,Lv,3,16,it,Il grande giorno dell' Espiazione
+Lv_17,107,Lv,3,17,en,Sacredness of Blood
+Lv_17,107,Lv,3,17,it,Legge di santita'
+Lv_18,108,Lv,3,18,en,Laws Concerning Sexual Behavior
+Lv_18,108,Lv,3,18,it,Prescrizioni sulle relazioni sessuali
+Lv_19,109,Lv,3,19,en,Various Rules of Conduct
+Lv_19,109,Lv,3,19,it,Precetti morali e rituali
+Lv_20,110,Lv,3,20,en,Penalties for Various Sins
+Lv_20,110,Lv,3,20,it,Legislazione penale
+Lv_21,111,Lv,3,21,en,Sanctity of the Priesthood
+Lv_21,111,Lv,3,21,it,Disposizioni relative ai sacerdoti e ai sacrifici
+Lv_22,112,Lv,3,22,en,Priestly Purity
+Lv_22,112,Lv,3,22,it,Santità nella partecipazione ai cibi sacri
+Lv_23,113,Lv,3,23,en,Holy Days
+Lv_23,113,Lv,3,23,it,Le riunioni sacre di Israele
+Lv_24,114,Lv,3,24,en,The Sanctuary Light
+Lv_24,114,Lv,3,24,it,Disposizioni cultuali e giuridiche
+Lv_25,115,Lv,3,25,en,The Sabbatical Year
+Lv_25,115,Lv,3,25,it,Anno sabbatico e anno giubilare
+Lv_26,116,Lv,3,26,en,The Reward of Obedience
+Lv_26,116,Lv,3,26,it,Benedizioni e maledizioni
+Lv_27,117,Lv,3,27,en,Votive Offerings and Dedications
+Lv_27,117,Lv,3,27,it,Altre norme
+Nm_1,118,Nm,4,1,en,The Census
+Nm_1,118,Nm,4,1,it,Preparazione del viaggio presso il sinai
+Nm_2,119,Nm,4,2,en,Arrangement of the Tribes
+Nm_2,119,Nm,4,2,it,Disposizione dell'accampamento
+Nm_3,120,Nm,4,3,en,The Sons of Aaron
+Nm_3,120,Nm,4,3,it,Censimento e funzione dei leviti
+Nm_4,121,Nm,4,4,en,Duties Further Defined
+Nm_4,121,Nm,4,4,it,Compiti e nuovo censimento dei leviti
+Nm_5,122,Nm,4,5,en,The Unclean Expelled
+Nm_5,122,Nm,4,5,it,Prescrizioni rituali
+Nm_6,123,Nm,4,6,en,Laws Concerning Nazirites
+Nm_6,123,Nm,4,6,it,Voto di nazireato e benedizione sacerdotale
+Nm_7,124,Nm,4,7,en,Offerings of the Tribal Leaders
+Nm_7,124,Nm,4,7,it,Altre prescrizioni rituali
+Nm_8,125,Nm,4,8,en,The Menorah
+Nm_8,125,Nm,4,8,it,Le lampade del candelabro
+Nm_9,126,Nm,4,9,en,Second Passover
+Nm_9,126,Nm,4,9,it,Celebrazione della Pasqua e partenza
+Nm_10,127,Nm,4,10,en,The Silver Trumpets
+Nm_10,127,Nm,4,10,it,Il cammino dal sinai alle steppe di moab
+Nm_11,128,Nm,4,11,en,Discontent of the People
+Nm_11,128,Nm,4,11,it,Mormorazioni del popolo e dono delle quaglie
+Nm_12,129,Nm,4,12,en,Jealousy of Aaron and Miriam
+Nm_12,129,Nm,4,12,it,Il ruolo di Mosè
+Nm_13,130,Nm,4,13,en,The Twelve Scouts
+Nm_13,130,Nm,4,13,it,Esplorazione della terra
+Nm_14,131,Nm,4,14,en,Threats of Revolt
+Nm_14,131,Nm,4,14,it,Ribellione del popolo
+Nm_15,132,Nm,4,15,en,Secondary Offerings
+Nm_15,132,Nm,4,15,it,Leggi cultuali e rituali
+Nm_16,133,Nm,4,16,en,Rebellion of Korah
+Nm_16,133,Nm,4,16,it,"Rivolta di Core, Datan e Abiràm"
+Nm_17,134,Nm,4,17,en,Aaron’s Staff
+Nm_17,134,Nm,4,17,it,Intercessione di Mosè e Aronne
+Nm_18,135,Nm,4,18,en,The Priests’ Share of the Sacrifices
+Nm_18,135,Nm,4,18,it,La parte dei sacerdoti
+Nm_19,136,Nm,4,19,en,Ashes of the Red Heifer
+Nm_19,136,Nm,4,19,it,La giovenca rossa e l'acqua lustrale
+Nm_20,137,Nm,4,20,en,Death of Miriam
+Nm_20,137,Nm,4,20,it,L'acqua dalla roccia
+Nm_21,138,Nm,4,21,en,Victory over Arad
+Nm_21,138,Nm,4,21,it,Conquista di Corma
+Nm_22,139,Nm,4,22,en,Balaam Summoned
+Nm_22,139,Nm,4,22,it,Dalle steppe di moab verso il giordano
+Nm_23,140,Nm,4,23,en,The Second Oracle
+Nm_23,140,Nm,4,23,it,Balaam e Balak
+Nm_24,141,Nm,4,24,en,The Fourth Oracle
+Nm_24,141,Nm,4,24,it,Oracoli di Balaam
+Nm_25,142,Nm,4,25,en,Worship of Baal of Peor
+Nm_25,142,Nm,4,25,it,Idolatria di Israele
+Nm_26,143,Nm,4,26,en,The Second Census
+Nm_26,143,Nm,4,26,it,Nuovo censimento
+Nm_27,144,Nm,4,27,en,Zelophehad’s Daughters
+Nm_27,144,Nm,4,27,it,Eredità delle donne
+Nm_28,145,Nm,4,28,en,General Sacrifices
+Nm_28,145,Nm,4,28,it,Sacrifici e feste
+Nm_29,146,Nm,4,29,en,On New Year’s Day
+Nm_29,146,Nm,4,29,it,La festa delle acclamazioni
+Nm_30,147,Nm,4,30,en,Validity and Annulment of Vows
+Nm_30,147,Nm,4,30,it,Leggi sui voti
+Nm_31,148,Nm,4,31,en,Campaign Against the Midianites
+Nm_31,148,Nm,4,31,it,Guerra contro Madian
+Nm_32,149,Nm,4,32,en,Request of Gad and Reuben
+Nm_32,149,Nm,4,32,it,Ruben e Gad in Transgiordania
+Nm_33,150,Nm,4,33,en,Stages of the Journey
+Nm_33,150,Nm,4,33,it,Riassunto del viaggio dall'Egitto a Moab
+Nm_34,151,Nm,4,34,en,The Boundaries
+Nm_34,151,Nm,4,34,it,Le frontiere della terra di Canaan
+Nm_35,152,Nm,4,35,en,Cities for the Levites
+Nm_35,152,Nm,4,35,it,Città dei leviti
+Nm_36,153,Nm,4,36,en,Inheritance of Daughters
+Nm_36,153,Nm,4,36,it,Eredità delle donne
+Dt_1,154,Dt,5,1,en,Introduction
+Dt_1,154,Dt,5,1,it,Primo discorso di mose'
+Dt_2,155,Dt,5,2,en,Northward Along Edom
+Dt_2,155,Dt,5,2,it,Da Kades a Moab
+Dt_3,156,Dt,5,3,en,Defeat of Og
+Dt_3,156,Dt,5,3,it,Divisione della Transgiordania
+Dt_4,157,Dt,5,4,en,Advantages of Fidelity
+Dt_4,157,Dt,5,4,it,L'autentica sapienza d'Israele e l'infedeltà di Peor
+Dt_5,158,Dt,5,5,en,The Covenant at Horeb
+Dt_5,158,Dt,5,5,it,Le dieci parole
+Dt_6,159,Dt,5,6,en,The Great Commandment
+Dt_6,159,Dt,5,6,it,Fedeltà all'alleanza nella terra promessa
+Dt_7,160,Dt,5,7,en,Destruction of the Nations in the Land
+Dt_7,160,Dt,5,7,it,Israele popolo consacrato
+Dt_8,161,Dt,5,8,en,God’s Care
+Dt_8,161,Dt,5,8,it,La prova del deserto
+Dt_9,162,Dt,5,9,en,Unmerited Success
+Dt_9,162,Dt,5,9,it,Dio vince per il suo popolo
+Dt_10,163,Dt,5,10,en,The Lord’s Majesty and Compassion
+Dt_10,163,Dt,5,10,it,La costruzione dell'arca
+Dt_11,164,Dt,5,11,en,Recalling the Wonders of the Lord
+Dt_11,164,Dt,5,11,it,Riassunto delle meraviglie di Dio
+Dt_12,165,Dt,5,12,en,One Center of Worship
+Dt_12,165,Dt,5,12,it,Il luogo di culto
+Dt_13,166,Dt,5,13,en,Penalties for Enticing to Idolatry
+Dt_13,166,Dt,5,13,it,Contro le seduzioni dell'idolatria
+Dt_14,167,Dt,5,14,en,Improper Mourning Rites
+Dt_14,167,Dt,5,14,it,Animali puri e impuri
+Dt_15,168,Dt,5,15,en,Debts and the Poor
+Dt_15,168,Dt,5,15,it,L'anno sabbatico
+Dt_16,169,Dt,5,16,en,Feast of the Passover
+Dt_16,169,Dt,5,16,it,La Pasqua
+Dt_17,170,Dt,5,17,en,Judges
+Dt_17,170,Dt,5,17,it,I giudici leviti
+Dt_18,171,Dt,5,18,en,Priests
+Dt_18,171,Dt,5,18,it,Il sacerdozio levitico
+Dt_19,172,Dt,5,19,en,Cities of Refuge
+Dt_19,172,Dt,5,19,it,Le città di rifugio
+Dt_20,173,Dt,5,20,en,Courage in War
+Dt_20,173,Dt,5,20,it,Disposizioni per la guerra santa
+Dt_21,174,Dt,5,21,en,Absolution of Untraced Murder
+Dt_21,174,Dt,5,21,it,Caso di omicidio occulto
+Dt_22,175,Dt,5,22,en,Concern for the Neighbor
+Dt_22,175,Dt,5,22,it,Restituzione e prescrizioni diverse
+Dt_23,176,Dt,5,23,en,Membership in the Assembly
+Dt_23,176,Dt,5,23,it,Partecipazione alle assemblee cultuali
+Dt_24,177,Dt,5,24,en,Marriage Legislation
+Dt_24,177,Dt,5,24,it,Il caso di divorzio
+Dt_25,178,Dt,5,25,en,Limits on Punishments
+Dt_25,178,Dt,5,25,it,Legge del levirato
+Dt_26,179,Dt,5,26,en,Thanksgiving for the Harvest
+Dt_26,179,Dt,5,26,it,Il credo cultuale d'Israele
+Dt_27,180,Dt,5,27,en,The Altar on Mount Ebal
+Dt_27,180,Dt,5,27,it,Benedizioni e maledizioni. conclusione dell'alleanza
+Dt_28,181,Dt,5,28,en,Blessings for Obedience
+Dt_28,181,Dt,5,28,it,Le benedizioni promesse
+Dt_29,182,Dt,5,29,en,Past Favors Recalled
+Dt_29,182,Dt,5,29,it,Resoconto storico
+Dt_30,183,Dt,5,30,en,Compassion for the Repentant
+Dt_30,183,Dt,5,30,it,Il ritorno dall'esilio
+Dt_31,184,Dt,5,31,en,The Lord’s Leadership
+Dt_31,184,Dt,5,31,it,Ultime disposizioni e morte di mose'
+Dt_32,185,Dt,5,32,en,Final Appeal
+Dt_32,185,Dt,5,32,it,Il cantico di Mosè
+Dt_33,186,Dt,5,33,en,Blessing upon the Tribes
+Dt_33,186,Dt,5,33,it,Benedizioni di Mosè
+Dt_34,187,Dt,5,34,en,"Moses’ Look at Canaan, Death, Burial"
+Dt_34,187,Dt,5,34,it,Morte di Mosè
+Gios_1,188,Gios,6,1,en,Divine Promise of Assistance
+Gios_1,188,Gios,6,1,it,Conquista della terra promessa
+Gios_2,189,Gios,6,2,en,Spies Saved by Rahab
+Gios_2,189,Gios,6,2,it,Spedizione delle spie a Gerico
+Gios_3,190,Gios,6,3,en,Preparations for Crossing the Jordan
+Gios_3,190,Gios,6,3,it,Passaggio del Giordano
+Gios_4,191,Gios,6,4,en,Memorial Stones
+Gios_4,191,Gios,6,4,it,Le dodici pietre commemorative e l'arrivo a Gàlgata
+Gios_5,192,Gios,6,5,en,Rites at Gilgal
+Gios_5,192,Gios,6,5,it,Giosuè e gli Israeliti a Gàlgata
+Gios_6,193,Gios,6,6,en,The Fall of Jericho
+Gios_6,193,Gios,6,6,it,Conquista di Gerico
+Gios_7,194,Gios,6,7,en,Defeat at Ai
+Gios_7,194,Gios,6,7,it,Acan viola l'interdetto e viene punito
+Gios_8,195,Gios,6,8,en,Capture of Ai
+Gios_8,195,Gios,6,8,it,Conquista di Ai
+Gios_9,196,Gios,6,9,en,Confederacy Against Israel
+Gios_9,196,Gios,6,9,it,Alleanza con gli abitanti di Gàbaon
+Gios_10,197,Gios,6,10,en,The Siege of Gibeon
+Gios_10,197,Gios,6,10,it,"Fèrmati, sole, su Gàbaon"
+Gios_11,198,Gios,6,11,en,Northern Confederacy
+Gios_11,198,Gios,6,11,it,Conquista della parte settentrionale della terra di Canaan
+Gios_12,199,Gios,6,12,en,Lists of Conquered Kings
+Gios_12,199,Gios,6,12,it,I re vinti
+Gios_13,200,Gios,6,13,en,Division of Land Commanded
+Gios_13,200,Gios,6,13,it,Ripartizione della terra promessa
+Gios_14,201,Gios,6,14,en,The Western Tribes
+Gios_14,201,Gios,6,14,it,Le tribù a occidente del Giordano e la parte di Caleb
+Gios_15,202,Gios,6,15,en,Boundaries of Judah
+Gios_15,202,Gios,6,15,it,La porzione della tribù di Giuda
+Gios_16,203,Gios,6,16,en,The Joseph Tribes
+Gios_16,203,Gios,6,16,it,La porzione delle tribù di Efraim e Manasse
+Gios_17,204,Gios,6,17,en,Manasseh
+Gios_17,204,Gios,6,17,it,La tribù di Manasse
+Gios_18,205,Gios,6,18,en,The Seven Remaining Portions
+Gios_18,205,Gios,6,18,it,Divisione della terra tra le altre sette tribù
+Gios_19,206,Gios,6,19,en,Simeon
+Gios_19,206,Gios,6,19,it,La tribù di Simeone
+Gios_20,207,Gios,6,20,en,Cities of Refuge
+Gios_20,207,Gios,6,20,it,Le città di rifugio
+Gios_21,208,Gios,6,21,en,Levitical Cities
+Gios_21,208,Gios,6,21,it,Le città levitiche
+Gios_22,209,Gios,6,22,en,The Eastern Tribes Dismissed
+Gios_22,209,Gios,6,22,it,Episodi conclusivi
+Gios_23,210,Gios,6,23,en,Joshua’s Final Plea
+Gios_23,210,Gios,6,23,it,Discorso d'addio di Giosuè
+Gios_24,211,Gios,6,24,en,Covenant Ceremony
+Gios_24,211,Gios,6,24,it,Solenne alleanza di Sichem
+Gdc_1,212,Gdc,7,1,en,Canaanites in Palestine
+Gdc_1,212,Gdc,7,1,it,Due introduzioni
+Gdc_2,213,Gdc,7,2,en,Infidelities of the Israelites
+Gdc_2,213,Gdc,7,2,it,Condotta d'Israele nel tempo dei giudici
+Gdc_3,214,Gdc,7,3,en,Othniel
+Gdc_3,214,Gdc,7,3,it,Storia dei giudici
+Gdc_4,215,Gdc,7,4,en,Deborah and Barak
+Gdc_4,215,Gdc,7,4,it,Dèbora e Barak
+Gdc_5,216,Gdc,7,5,en,Song of Deborah
+Gdc_5,216,Gdc,7,5,it,Cantico di Dèbora
+Gdc_6,217,Gdc,7,6,en,The Call of Gideon
+Gdc_6,217,Gdc,7,6,it,Gedeone
+Gdc_7,218,Gdc,7,7,en,Defeat of Midian
+Gdc_7,218,Gdc,7,7,it,Il Signore riduce l'esercito di Gedeone
+Gdc_8,219,Gdc,7,8,en,Gideon’s Son Abimelech
+Gdc_8,219,Gdc,7,8,it,Suscettibilità degli Efraimiti
+Gdc_9,220,Gdc,7,9,en,False King Abimelech
+Gdc_9,220,Gdc,7,9,it,Il regno di Abimèlech
+Gdc_10,221,Gdc,7,10,en,Tola
+Gdc_10,221,Gdc,7,10,it,Tola e Iair
+Gdc_11,222,Gdc,7,11,en,Jephthah
+Gdc_11,222,Gdc,7,11,it,Iefte pone le condizioni
+Gdc_12,223,Gdc,7,12,en,The Shibboleth Incident
+Gdc_12,223,Gdc,7,12,it,Tre giudici minori
+Gdc_13,224,Gdc,7,13,en,The Birth of Samson
+Gdc_13,224,Gdc,7,13,it,Sansone
+Gdc_14,225,Gdc,7,14,en,Marriage of Samson
+Gdc_14,225,Gdc,7,14,it,Il matrimonio di Sansone
+Gdc_15,226,Gdc,7,15,en,Samson Defeats the Philistines
+Gdc_15,226,Gdc,7,15,it,Sansone brucia le messi dei Filistei
+Gdc_16,227,Gdc,7,16,en,Samson and Delilah
+Gdc_16,227,Gdc,7,16,it,L'episodio delle porte di Gaza
+Gdc_17,228,Gdc,7,17,en,Micah and the Levite
+Gdc_17,228,Gdc,7,17,it,Due appendici
+Gdc_18,229,Gdc,7,18,en,Migration of the Danites
+Gdc_18,229,Gdc,7,18,it,I Daniti alla ricerca di un territorio
+Gdc_19,230,Gdc,7,19,en,The Levite from Ephraim
+Gdc_19,230,Gdc,7,19,it,Il delitto di Gàbaa e la guerra contro Beniamino
+Gdc_20,231,Gdc,7,20,en,Assembly of Israelites
+Gdc_20,231,Gdc,7,20,it,Gli Israeliti si impegnano a vendicare il delitto di Gànaa
+Gdc_21,232,Gdc,7,21,en,Ensuring a Future for Benjamin
+Gdc_21,232,Gdc,7,21,it,I rimpianti degli Israeliti
+Rut_1,233,Rut,8,1,en,Naomi in Moab
+Rut_1,233,Rut,8,1,it,Elimelec e noemi nel paese di moab
+Rut_2,234,Rut,8,2,en,The Meeting
+Rut_2,234,Rut,8,2,it,"Rut, la spigolatrice, nei campi di booz"
+Rut_3,235,Rut,8,3,en,Ruth Again Presents Herself
+Rut_3,235,Rut,8,3,it,Rut e booz: l'incontro decisivo
+Rut_4,236,Rut,8,4,en,Boaz Marries Ruth
+Rut_4,236,Rut,8,4,it,Il riscatto e le nozze
+1Sam_1,237,1Sam,9,1,en,Elkanah and His Family at Shiloh
+1Sam_1,237,1Sam,9,1,it,Samuele e i figli di eli
+1Sam_2,238,1Sam,9,2,en,Wickedness of Eli’s Sons
+1Sam_2,238,1Sam,9,2,it,Cantico di Anna
+1Sam_3,239,1Sam,9,3,en,Revelation to Samuel
+1Sam_3,239,1Sam,9,3,it,Vocazione di Samuele
+1Sam_4,240,1Sam,9,4,en,Defeat of the Israelites
+1Sam_4,240,1Sam,9,4,it,Vicende dell'arca
+1Sam_5,241,1Sam,9,5,en,The Ark in the Temple of Dagon
+1Sam_5,241,1Sam,9,5,it,L'arca nel tempio di Dagon
+1Sam_6,242,1Sam,9,6,en,The Ark Is Returned
+1Sam_6,242,1Sam,9,6,it,Ritorno dell'arca
+1Sam_7,243,1Sam,9,7,en,Samuel the Judge
+1Sam_7,243,1Sam,9,7,it,Samuele giudice di Israele
+1Sam_8,244,1Sam,9,8,en,Request for a King
+1Sam_8,244,1Sam,9,8,it,"Saul, primo re d'israele"
+1Sam_9,245,1Sam,9,9,en,Saul
+1Sam_9,245,1Sam,9,9,it,Incontro di Saul con Samuele
+1Sam_10,246,1Sam,9,10,en,The Signs Foretold
+1Sam_10,246,1Sam,9,10,it,Saul viene designato re dalla sorte
+1Sam_11,247,1Sam,9,11,en,Defeat of the Ammonites
+1Sam_11,247,1Sam,9,11,it,Prima vittoria militare di Saul
+1Sam_12,248,1Sam,9,12,en,Samuel’s Integrity
+1Sam_12,248,1Sam,9,12,it,Discorso di Samuele
+1Sam_13,249,1Sam,9,13,en,Saul Offers Sacrifice
+1Sam_13,249,1Sam,9,13,it,Saul e Giònata sconfiggono i Filistei
+1Sam_14,250,1Sam,9,14,en,Rout of the Philistines
+1Sam_14,250,1Sam,9,14,it,Gionata attacca l'appostamento
+1Sam_15,251,1Sam,9,15,en,Disobedience of Saul
+1Sam_15,251,1Sam,9,15,it,Saul è rifiutato come re
+1Sam_16,252,1Sam,9,16,en,Samuel Is Sent to Bethlehem
+1Sam_16,252,1Sam,9,16,it,Tramonto di saul e ascesa di davide
+1Sam_17,253,1Sam,9,17,en,The Challenge of Goliath
+1Sam_17,253,1Sam,9,17,it,Davide sconfigge Golia
+1Sam_18,254,1Sam,9,18,en,David and Jonathan
+1Sam_18,254,1Sam,9,18,it,Rottura tra Saul e Davide
+1Sam_19,255,1Sam,9,19,en,Persecution of David
+1Sam_19,255,1Sam,9,19,it,Gionata intercede per Davide
+1Sam_20,256,1Sam,9,20,en,David Consults with Jonathan
+1Sam_20,256,1Sam,9,20,it,Gionata favorisce la partenza di Davide
+1Sam_21,257,1Sam,9,21,en,The Holy Bread
+1Sam_21,257,1Sam,9,21,it,Fuga di Davide
+1Sam_22,258,1Sam,9,22,en,Doeg Betrays Ahimelech
+1Sam_22,258,1Sam,9,22,it,Saul massacra i sacerdoti di Nob
+1Sam_23,259,1Sam,9,23,en,Keilah Liberated
+1Sam_23,259,1Sam,9,23,it,Davide sfugge a Saul
+1Sam_24,260,1Sam,9,24,en,David Spares Saul
+1Sam_24,260,1Sam,9,24,it,Davide risparmia Saul
+1Sam_25,261,1Sam,9,25,en,Death of Samuel
+1Sam_25,261,1Sam,9,25,it,"Nabal, Abigàil e Davide"
+1Sam_26,262,1Sam,9,26,en,David Spares Saul Again
+1Sam_26,262,1Sam,9,26,it,Davide risparmia ancora la vita di Saul
+1Sam_27,263,1Sam,9,27,en,David Flees to the Philistines
+1Sam_27,263,1Sam,9,27,it,Davide al servizio di un re filisteo
+1Sam_28,264,1Sam,9,28,en,Saul in Despair
+1Sam_28,264,1Sam,9,28,it,Saul e la chiromante di Endor
+1Sam_29,265,1Sam,9,29,en,David’s Aid Rejected
+1Sam_29,265,1Sam,9,29,it,Davide è congedato dai capi filistei
+1Sam_30,266,1Sam,9,30,en,Ziklag in Ruins
+1Sam_30,266,1Sam,9,30,it,Davide sconfigge gli Amaleciti
+1Sam_31,267,1Sam,9,31,en,Death of Saul and His Sons
+1Sam_31,267,1Sam,9,31,it,Sconfitta d'Israele e morte di Saul
+2Sam_1,268,2Sam,10,1,en,Report of Saul’s Death
+2Sam_1,268,2Sam,10,1,it,Davide apprende della sconfitta d'Israele
+2Sam_2,269,2Sam,10,2,en,David Is Anointed King
+2Sam_2,269,2Sam,10,2,it,Davide diventa re su giuda e israele
+2Sam_3,270,2Sam,10,3,en,Sons Born in Hebron
+2Sam_3,270,2Sam,10,3,it,Negoziati e uccisione di Abner
+2Sam_4,271,2Sam,10,4,en,Death of Ishbaal
+2Sam_4,271,2Sam,10,4,it,Assassinio di Is-Baal
+2Sam_5,272,2Sam,10,5,en,David King of Israel
+2Sam_5,272,2Sam,10,5,it,"Davide re di Giuda e d'Israele: conquista di Gerusalemme, disfatta dei Filistei"
+2Sam_6,273,2Sam,10,6,en,The Ark Brought to Jerusalem
+2Sam_6,273,2Sam,10,6,it,Davide introduce l'arca a Gerusalemme
+2Sam_7,274,2Sam,10,7,en,The Oracle of Nathan
+2Sam_7,274,2Sam,10,7,it,Oracolo di Natan e preghiera di Davide
+2Sam_8,275,2Sam,10,8,en,Summary of David’s Wars
+2Sam_8,275,2Sam,10,8,it,Vittorie militari di Davide
+2Sam_9,276,2Sam,10,9,en,David and Meribbaal
+2Sam_9,276,2Sam,10,9,it,Storia della successione di davide
+2Sam_10,277,2Sam,10,10,en,Campaigns Against Ammon
+2Sam_10,277,2Sam,10,10,it,Peccato di Davide
+2Sam_11,278,2Sam,10,11,en,David’s Sin
+2Sam_11,278,2Sam,10,11,it,Seconda campagna ammonita. Il peccato di Davide
+2Sam_12,279,2Sam,10,12,en,Nathan’s Parable
+2Sam_12,279,2Sam,10,12,it,Rimproveri di Natan. Pentimento di Davide
+2Sam_13,280,2Sam,10,13,en,Amnon’s Rape of Tamar
+2Sam_13,280,2Sam,10,13,it,Uccisione di Amnon e fuga di Assalonne
+2Sam_14,281,2Sam,10,14,en,The Wise Woman of Tekoa
+2Sam_14,281,2Sam,10,14,it,Ritorno di Assalonne
+2Sam_15,282,2Sam,10,15,en,Absalom’s Ambition
+2Sam_15,282,2Sam,10,15,it,Rivolta di Assalonne
+2Sam_16,283,2Sam,10,16,en,David and Ziba
+2Sam_16,283,2Sam,10,16,it,Davide e Zibà
+2Sam_17,284,2Sam,10,17,en,Counsel of Hushai
+2Sam_17,284,2Sam,10,17,it,Scontro tra gli eserciti e rovina di Assalonne
+2Sam_18,285,2Sam,10,18,en,Preparation for Battle
+2Sam_18,285,2Sam,10,18,it,Disfatta del partito di Assalonne
+2Sam_19,286,2Sam,10,19,en,Joab Reproves David
+2Sam_19,286,2Sam,10,19,it,Ritorno di Davide a Gerusalemme e repressione della rivolta
+2Sam_20,287,2Sam,10,20,en,Sheba’s Rebellion
+2Sam_20,287,2Sam,10,20,it,Rivolta di Sèba
+2Sam_21,288,2Sam,10,21,en,Gibeonite Vengeance
+2Sam_21,288,2Sam,10,21,it,Appendici
+2Sam_22,289,2Sam,10,22,en,Song of Thanksgiving
+2Sam_22,289,2Sam,10,22,it,Il cantico di Davide
+2Sam_23,290,2Sam,10,23,en,The Last Words of David
+2Sam_23,290,2Sam,10,23,it,Le ultime parole di Davide
+2Sam_24,291,2Sam,10,24,en,David’s Census; the Plague
+2Sam_24,291,2Sam,10,24,it,"Censimento, peste, costruzione di un altare"
+1Re_1,292,1Re,11,1,en,David’s Old Age
+1Re_1,292,1Re,11,1,it,Successione di davide
+1Re_2,293,1Re,11,2,en,David’s Last Instructions and Death
+1Re_2,293,1Re,11,2,it,Testamento e morte di Davide
+1Re_3,294,1Re,11,3,en,Early Promise of Solomon’s Reign
+1Re_3,294,1Re,11,3,it,Storia di salomone
+1Re_4,295,1Re,11,4,en,Solomon’s Riches: Domestic Affairs
+1Re_4,295,1Re,11,4,it,I funzionari del regno di Salomone
+1Re_5,296,1Re,11,5,en,Solomon’s Riches: International Affairs
+1Re_5,296,1Re,11,5,it,La sapienza di Salomone
+1Re_6,297,1Re,11,6,en,Building of the Temple
+1Re_6,297,1Re,11,6,it,Costruzione del tempio
+1Re_7,298,1Re,11,7,en,Solomon’s Temple
+1Re_7,298,1Re,11,7,it,Costruzione della reggia
+1Re_8,299,1Re,11,8,en,Dedication of the Temple
+1Re_8,299,1Re,11,8,it,Trasferimento dell'arca dell'alleanza
+1Re_9,300,1Re,11,9,en,Promise and Warning to Solomon
+1Re_9,300,1Re,11,9,it,Nuova apparizione del Signore
+1Re_10,301,1Re,11,10,en,Solomon’s Listening Heart: The Queen of Sheba
+1Re_10,301,1Re,11,10,it,La visita della regina di Saba
+1Re_11,302,1Re,11,11,en,The End of Solomon’s Reign
+1Re_11,302,1Re,11,11,it,Il peccato di Salomone
+1Re_12,303,1Re,11,12,en,Political Disunity
+1Re_12,303,1Re,11,12,it,Scisma politico e religioso
+1Re_13,304,1Re,11,13,en,Prophetic Disunity
+1Re_13,304,1Re,11,13,it,Distruzione dell'altare di Betel
+1Re_14,305,1Re,11,14,en,Ahijah Announces Jeroboam’s Downfall
+1Re_14,305,1Re,11,14,it,I due regni fino a elia
+1Re_15,306,1Re,11,15,en,Reign of Abijam
+1Re_15,306,1Re,11,15,it,"Abiam, re di Giuda"
+1Re_16,307,1Re,11,16,en,Reign of Elah
+1Re_16,307,1Re,11,16,it,"Ela, re d'Israele"
+1Re_17,308,1Re,11,17,en,Elijah Proclaims a Drought
+1Re_17,308,1Re,11,17,it,Ciclo di elia
+1Re_18,309,1Re,11,18,en,Elijah Ends the Drought
+1Re_18,309,1Re,11,18,it,L'incontro di Elia con Abdia e Acab
+1Re_19,310,1Re,11,19,en,Flight to Horeb
+1Re_19,310,1Re,11,19,it,L'incontro con Dio sull'Oreb
+1Re_20,311,1Re,11,20,en,Ahab’s Victories over Aram
+1Re_20,311,1Re,11,20,it,Gli Aramei assediano Samaria
+1Re_21,312,1Re,11,21,en,Seizure of Naboth’s Vineyard
+1Re_21,312,1Re,11,21,it,La vigna di Nabot
+1Re_22,313,1Re,11,22,en,Ahab’s Defeat by Aram
+1Re_22,313,1Re,11,22,it,Nuova guerra aramea e morte di Acab
+2Re_1,314,2Re,12,1,en,"Reign of Ahaziah, Continued"
+2Re_1,314,2Re,12,1,it,Elia e Acazia
+2Re_2,315,2Re,12,2,en,Elijah’s Journey
+2Re_2,315,2Re,12,2,it,Rapimento di Elia
+2Re_3,316,2Re,12,3,en,Reign of Joram of Israel
+2Re_3,316,2Re,12,3,it,"Ioram, re d'Israele"
+2Re_4,317,2Re,12,4,en,The Widow’s Oil
+2Re_4,317,2Re,12,4,it,Eliseo compie vari miracoli
+2Re_5,318,2Re,12,5,en,Elisha Cures Naaman’s Leprosy
+2Re_5,318,2Re,12,5,it,Eliseo guarisce Naaman dalla lebbra
+2Re_6,319,2Re,12,6,en,The Lost Ax
+2Re_6,319,2Re,12,6,it,Il ritrovamento dell'ascia perduta
+2Re_7,320,2Re,12,7,en,Elisha: “You Will Eat!”
+2Re_7,320,2Re,12,7,it,Eliseo predice la liberazione di Samaria
+2Re_8,321,2Re,12,8,en,The Shunammite’s Return
+2Re_8,321,2Re,12,8,it,La Sunammita riacquista i suoi beni
+2Re_9,322,2Re,12,9,en,Elisha and Jehu of Israel
+2Re_9,322,2Re,12,9,it,La storia di Ieu
+2Re_10,323,2Re,12,10,en,Death of the Sons of Ahab of Israel
+2Re_10,323,2Re,12,10,it,Ieu massacra la famiglia reale e i principi di Giuda
+2Re_11,324,2Re,12,11,en,Death of the Heirs of Ahaziah of Judah
+2Re_11,324,2Re,12,11,it,Atalia e il regno di Giuda
+2Re_12,325,2Re,12,12,en,Reign of Joash of Judah
+2Re_12,325,2Re,12,12,it,"Ioas, re di Giuda"
+2Re_13,326,2Re,12,13,en,Reign of Jehoahaz of Israel
+2Re_13,326,2Re,12,13,it,"Ioacàz, re d'Israele"
+2Re_14,327,2Re,12,14,en,Reign of Amaziah of Judah
+2Re_14,327,2Re,12,14,it,Israele e giuda fino alla caduta di samaria
+2Re_15,328,2Re,12,15,en,Reign of Azariah of Judah
+2Re_15,328,2Re,12,15,it,"Azaria, re di Giuda"
+2Re_16,329,2Re,12,16,en,Reign of Ahaz of Judah
+2Re_16,329,2Re,12,16,it,"Acaz, re di Giuda"
+2Re_17,330,2Re,12,17,en,Reign of Hoshea of Israel
+2Re_17,330,2Re,12,17,it,"Osea, ultimo re d'Israele"
+2Re_18,331,2Re,12,18,en,Reign of Hezekiah
+2Re_18,331,2Re,12,18,it,Giuda fino alla caduta di gerusalemme
+2Re_19,332,2Re,12,19,en,Hezekiah and Isaiah
+2Re_19,332,2Re,12,19,it,Nuova minaccia di Sennàcherib
+2Re_20,333,2Re,12,20,en,End of Hezekiah’s Reign
+2Re_20,333,2Re,12,20,it,Malattia e guarigione di Ezechia
+2Re_21,334,2Re,12,21,en,Reign of Manasseh
+2Re_21,334,2Re,12,21,it,"Manasse, re di Giuda"
+2Re_22,335,2Re,12,22,en,Reign of Josiah
+2Re_22,335,2Re,12,22,it,"Giosia, re di Giuda"
+2Re_23,336,2Re,12,23,en,Josiah’s Religious Reform
+2Re_23,336,2Re,12,23,it,Riforma di Giosia in Giuda
+2Re_24,337,2Re,12,24,en,Reign of Jehoiachin
+2Re_24,337,2Re,12,24,it,"Ioiachìn, re di Giuda"
+2Re_25,338,2Re,12,25,en,Governorship of Gedaliah
+2Re_25,338,2Re,12,25,it,"Distruzione del tempio e della città, saccheggio, deportazione"
+1Cr_1,339,1Cr,13,1,en,From Adam to Abraham
+1Cr_1,339,1Cr,13,1,it,Da Adamo ad Abramo
+1Cr_2,340,1Cr,13,2,en,Judah
+1Cr_2,340,1Cr,13,2,it,Discendenza della tribù di Giuda
+1Cr_3,341,1Cr,13,3,en,David
+1Cr_3,341,1Cr,13,3,it,Discendenti di Davide
+1Cr_4,342,1Cr,13,4,en,Simeon
+1Cr_4,342,1Cr,13,4,it,Supplementi genealogici
+1Cr_5,343,1Cr,13,5,en,Reuben
+1Cr_5,343,1Cr,13,5,it,Discendenza della tribù di Ruben
+1Cr_6,344,1Cr,13,6,en,The singing men
+1Cr_6,344,1Cr,13,6,it,Supplementi: i cantori
+1Cr_7,345,1Cr,13,7,en,Issachar
+1Cr_7,345,1Cr,13,7,it,Discendenza della tribù di Issacar
+1Cr_8,346,1Cr,13,8,en,Benjamin
+1Cr_8,346,1Cr,13,8,it,Supplementi: i Beniaminiti
+1Cr_9,347,1Cr,13,9,en,Genealogy of Saul
+1Cr_9,347,1Cr,13,9,it,Abitanti di Gerusalemme
+1Cr_10,348,1Cr,13,10,en,Death of Saul and His Sons
+1Cr_10,348,1Cr,13,10,it,Regno di davide
+1Cr_11,349,1Cr,13,11,en,David Is Made King
+1Cr_11,349,1Cr,13,11,it,Davide re conquista Gerusalemme
+1Cr_12,350,1Cr,13,12,en,David’s Early Followers
+1Cr_12,350,1Cr,13,12,it,Primi seguaci di Davide
+1Cr_13,351,1Cr,13,13,en,Transfer of the Ark
+1Cr_13,351,1Cr,13,13,it,Tentativo di trasportare l'arca
+1Cr_14,352,1Cr,13,14,en,David in Jerusalem
+1Cr_14,352,1Cr,13,14,it,Vittorie sui Filistei
+1Cr_15,353,1Cr,13,15,en,Preparations for Moving the Ark
+1Cr_15,353,1Cr,13,15,it,Trasporto dell'arca a Gerusalemme
+1Cr_16,354,1Cr,13,16,en,David’s Directives for the Levites
+1Cr_16,354,1Cr,13,16,it,Organizzazione del servizio levitico
+1Cr_17,355,1Cr,13,17,en,The Oracle of Nathan
+1Cr_17,355,1Cr,13,17,it,Profezia di Natan
+1Cr_18,356,1Cr,13,18,en,David’s Victories
+1Cr_18,356,1Cr,13,18,it,Campagne militari
+1Cr_19,357,1Cr,13,19,en,Campaigns Against Ammon
+1Cr_19,357,1Cr,13,19,it,Vittorie sugli Ammoniti
+1Cr_20,358,1Cr,13,20,en,Victories over the Philistines
+1Cr_20,358,1Cr,13,20,it,Vittorie sui Filistei
+1Cr_21,359,1Cr,13,21,en,David’s Census; the Plague
+1Cr_21,359,1Cr,13,21,it,Il peccato del censimento
+1Cr_22,360,1Cr,13,22,en,Charge to Solomon
+1Cr_22,360,1Cr,13,22,it,Preparativi per la costruzione del tempio
+1Cr_23,361,1Cr,13,23,en,The Levitical Divisions
+1Cr_23,361,1Cr,13,23,it,Organizzazione dei leviti
+1Cr_24,362,1Cr,13,24,en,The Priestly Divisions
+1Cr_24,362,1Cr,13,24,it,Organizzazione delle classi dei sacerdoti
+1Cr_25,363,1Cr,13,25,en,The Singers
+1Cr_25,363,1Cr,13,25,it,Organizzazione delle classi dei cantori
+1Cr_26,364,1Cr,13,26,en,Divisions of Gatekeepers
+1Cr_26,364,1Cr,13,26,it,Organizzazione delle classi dei portinai
+1Cr_27,365,1Cr,13,27,en,Army Commanders
+1Cr_27,365,1Cr,13,27,it,Organizzazione del regno
+1Cr_28,366,1Cr,13,28,en,The Assembly at Jerusalem
+1Cr_28,366,1Cr,13,28,it,Davide presenta il suo erede
+1Cr_29,367,1Cr,13,29,en,Offerings for the Temple
+1Cr_29,367,1Cr,13,29,it,Offerte per il tempio
+2Cr_1,368,2Cr,14,1,en,Solomon at Gibeon
+2Cr_1,368,2Cr,14,1,it,Regno di salomone
+2Cr_2,369,2Cr,14,2,en,Solomon Builds the Temple
+2Cr_2,369,2Cr,14,2,it,Il patto con il re Curam
+2Cr_3,370,2Cr,14,3,en,Building of the Temple
+2Cr_3,370,2Cr,14,3,it,Costruzione del tempio
+2Cr_4,371,2Cr,14,4,en,Furniture of the Temple
+2Cr_4,371,2Cr,14,4,it,Arredi del tempio
+2Cr_5,372,2Cr,14,5,en,Dedication of the Temple
+2Cr_5,372,2Cr,14,5,it,Trasporto dell'arca nel tempio
+2Cr_6,373,2Cr,14,6,en,Solomon’s Prayer
+2Cr_6,373,2Cr,14,6,it,Discorso al popolo
+2Cr_7,374,2Cr,14,7,en,End of the Dedication
+2Cr_7,374,2Cr,14,7,it,Dedicazione del tempio
+2Cr_8,375,2Cr,14,8,en,Public Works
+2Cr_8,375,2Cr,14,8,it,Sommario sull'attività del re
+2Cr_9,376,2Cr,14,9,en,The Queen of Sheba
+2Cr_9,376,2Cr,14,9,it,Visita della regina di Saba
+2Cr_10,377,2Cr,14,10,en,Division of the Kingdom
+2Cr_10,377,2Cr,14,10,it,I re di giuda
+2Cr_11,378,2Cr,14,11,en,Rehoboam’s Works
+2Cr_11,378,2Cr,14,11,it,"Roboamo, re"
+2Cr_12,379,2Cr,14,12,en,Rehoboam’s Apostasy
+2Cr_12,379,2Cr,14,12,it,Incursione del faraone
+2Cr_13,380,2Cr,14,13,en,War Between Abijah and Jeroboam
+2Cr_13,380,2Cr,14,13,it,Abia re in guerra con Geroboamo
+2Cr_14,381,2Cr,14,14,en,Asa’s Initial Reforms
+2Cr_14,381,2Cr,14,14,it,Asa re
+2Cr_15,382,2Cr,14,15,en,Further Reforms
+2Cr_15,382,2Cr,14,15,it,Riforma religiosa di Asa
+2Cr_16,383,2Cr,14,16,en,Asa’s Infidelity
+2Cr_16,383,2Cr,14,16,it,Alleanza con gli Aramei
+2Cr_17,384,2Cr,14,17,en,Jehoshaphat’s Zeal for the Law
+2Cr_17,384,2Cr,14,17,it,Giòsafat re
+2Cr_18,385,2Cr,14,18,en,Alliance with Israel
+2Cr_18,385,2Cr,14,18,it,Alleanza con il regno del nord contro gli Aramei
+2Cr_19,386,2Cr,14,19,en,Jehoshaphat Rebuked
+2Cr_19,386,2Cr,14,19,it,Riforme religiose e civili
+2Cr_20,387,2Cr,14,20,en,Invasion from Edom
+2Cr_20,387,2Cr,14,20,it,Vittorie sui Moabiti
+2Cr_21,388,2Cr,14,21,en,Jehoram’s Evil Deeds
+2Cr_21,388,2Cr,14,21,it,Ioram re
+2Cr_22,389,2Cr,14,22,en,Ahaziah
+2Cr_22,389,2Cr,14,22,it,Acazia re
+2Cr_23,390,2Cr,14,23,en,Athaliah Overthrown
+2Cr_23,390,2Cr,14,23,it,Ioas incoronato re
+2Cr_24,391,2Cr,14,24,en,The Temple Restored
+2Cr_24,391,2Cr,14,24,it,Restaurazione del tempio
+2Cr_25,392,2Cr,14,25,en,Amaziah’s Good Start
+2Cr_25,392,2Cr,14,25,it,Amasia re
+2Cr_26,393,2Cr,14,26,en,Uzziah’s Projects
+2Cr_26,393,2Cr,14,26,it,Ozia re
+2Cr_27,394,2Cr,14,27,en,Jotham
+2Cr_27,394,2Cr,14,27,it,Iotam re
+2Cr_28,395,2Cr,14,28,en,Ahaz’s Misdeeds
+2Cr_28,395,2Cr,14,28,it,Acaz re
+2Cr_29,396,2Cr,14,29,en,Hezekiah’s Reforms
+2Cr_29,396,2Cr,14,29,it,Ezechia re purifica il tempio
+2Cr_30,397,2Cr,14,30,en,Invitation to Passover
+2Cr_30,397,2Cr,14,30,it,Invito alla celebrazione della Pasqua
+2Cr_31,398,2Cr,14,31,en,Liturgical Reforms
+2Cr_31,398,2Cr,14,31,it,Riorganizzazione del culto
+2Cr_32,399,2Cr,14,32,en,Sennacherib’s Invasion
+2Cr_32,399,2Cr,14,32,it,Invasione degli Assiri
+2Cr_33,400,2Cr,14,33,en,Manasseh’s Impiety
+2Cr_33,400,2Cr,14,33,it,Manasse re
+2Cr_34,401,2Cr,14,34,en,Josiah’s Reforms
+2Cr_34,401,2Cr,14,34,it,Giosia re
+2Cr_35,402,2Cr,14,35,en,The Passover
+2Cr_35,402,2Cr,14,35,it,Celebrazione della Pasqua
+2Cr_36,403,2Cr,14,36,en,Jehoahaz
+2Cr_36,403,2Cr,14,36,it,Ioacàz re
+Esd_1,404,Esd,15,1,en,The Decree of Cyrus
+Esd_1,404,Esd,15,1,it,Primi rimpatriati
+Esd_2,405,Esd,15,2,en,A Census of the Returned Exiles
+Esd_2,405,Esd,15,2,it,Lista dei Sionisti
+Esd_3,406,Esd,15,3,en,Restoration of Worship
+Esd_3,406,Esd,15,3,it,Arrivo e inizio dei lavori
+Esd_4,407,Esd,15,4,en,Outside Interference
+Esd_4,407,Esd,15,4,it,Interruzione dei lavori
+Esd_5,408,Esd,15,5,en,The Work Resumed Under Darius; Further Problems
+Esd_5,408,Esd,15,5,it,Ripresa dei lavori
+Esd_6,409,Esd,15,6,en,The Decree of Darius
+Esd_6,409,Esd,15,6,it,Risposta del re
+Esd_7,410,Esd,15,7,en,"Ezra, Priest and Scribe"
+Esd_7,410,Esd,15,7,it,Ritorno di esdra
+Esd_8,411,Esd,15,8,en,Ezra’s Caravan
+Esd_8,411,Esd,15,8,it,Viaggio di Esdra da Babilonia in Palestina
+Esd_9,412,Esd,15,9,en,The Crisis of Mixed Marriages
+Esd_9,412,Esd,15,9,it,Matrimoni con straniere
+Esd_10,413,Esd,15,10,en,Response to the Crisis
+Esd_10,413,Esd,15,10,it,Le donne straniere vengono allontanate
+Nee_1,414,Nee,16,1,en,Nehemiah Hears Bad News
+Nee_1,414,Nee,16,1,it,Ritorno di neemia
+Nee_2,415,Nee,16,2,en,Appointment by the King
+Nee_2,415,Nee,16,2,it,Ricostruzione delle mura
+Nee_3,416,Nee,16,3,en,List of Workers
+Nee_3,416,Nee,16,3,it,Ostacoli da parte dei nemici
+Nee_4,417,Nee,16,4,en,Opposition in the Rebuilding
+Nee_4,417,Nee,16,4,it,Relazioni presso i nemici dei Giudei
+Nee_5,418,Nee,16,5,en,Social and Economic Problems
+Nee_5,418,Nee,16,5,it,Ostacoli nella comunità
+Nee_6,419,Nee,16,6,en,Plots Against Nehemiah
+Nee_6,419,Nee,16,6,it,Conclusione dei lavori
+Nee_7,420,Nee,16,7,en,Census of the Province
+Nee_7,420,Nee,16,7,it,Lista di ricapitolazione
+Nee_8,421,Nee,16,8,en,Ezra Reads the Law
+Nee_8,421,Nee,16,8,it,Lettura della legge e organizzazione della comunita'
+Nee_9,422,Nee,16,9,en,Public Confession of Sin
+Nee_9,422,Nee,16,9,it,Preghiera
+Nee_10,423,Nee,16,10,en,Signatories to the Pact
+Nee_10,423,Nee,16,10,it,Impegno scritto della comunità
+Nee_11,424,Nee,16,11,en,Resettlement of Jerusalem
+Nee_11,424,Nee,16,11,it,Liste di ricapitolazione
+Nee_12,425,Nee,16,12,en,Priests and Levites at the Time of Zerubbabel
+Nee_12,425,Nee,16,12,it,Dedicazione delle mura di Gerusalemme
+Nee_13,426,Nee,16,13,en,Reform in the Temple
+Nee_13,426,Nee,16,13,it,Neemia verifica gli impegni assunti
+Tob_1,427,Tob,17,1,en,Tobit
+Tob_1,427,Tob,17,1,it,Il dramma di due famiglie
+Tob_2,428,Tob,17,2,en,Tobit’s Blindness
+Tob_2,428,Tob,17,2,it,Il cieco
+Tob_3,429,Tob,17,3,en,Sarah Falsely Accused
+Tob_3,429,Tob,17,3,it,Angustia e preghiera di Sara
+Tob_4,430,Tob,17,4,en,A Father’s Instruction
+Tob_4,430,Tob,17,4,it,L'avventura del viaggio
+Tob_5,431,Tob,17,5,en,The Angel Raphael
+Tob_5,431,Tob,17,5,it,Tobia trova il compagno che lo guiderà
+Tob_6,432,Tob,17,6,en,On the Way to Rages
+Tob_6,432,Tob,17,6,it,Il pesce prodigioso
+Tob_7,433,Tob,17,7,en,At the House of Raguel
+Tob_7,433,Tob,17,7,it,Una doppia guarigione
+Tob_8,434,Tob,17,8,en,Expulsion of the Demon
+Tob_8,434,Tob,17,8,it,La notte nuziale
+Tob_9,435,Tob,17,9,en,The Money Recovered
+Tob_9,435,Tob,17,9,it,Ritiro del denaro da Gabaèl
+Tob_10,436,Tob,17,10,en,Anxiety of the Parents
+Tob_10,436,Tob,17,10,it,Ansia di Tobi e di Anna
+Tob_11,437,Tob,17,11,en,Homeward Journey
+Tob_11,437,Tob,17,11,it,L'arrivo di Tobia dal padre
+Tob_12,438,Tob,17,12,en,Raphael’s Wages
+Tob_12,438,Tob,17,12,it,L'angelo Raffaele si fa riconoscere
+Tob_13,439,Tob,17,13,en,The future of Jerusalem
+Tob_13,439,Tob,17,13,it,Il futuro di Gerusalemme
+Tob_14,440,Tob,17,14,en,Parting Advice
+Tob_14,440,Tob,17,14,it,Le ultime volontà di Tobi
+Gdt_1,441,Gdt,18,1,en,Nebuchadnezzar Against Arphaxad
+Gdt_1,441,Gdt,18,1,it,L'arroganza di nabucodonosor
+Gdt_2,442,Gdt,18,2,en,Revenge Planned Against the Western Nations
+Gdt_2,442,Gdt,18,2,it,Oloferne muove contro l'occidente
+Gdt_3,443,Gdt,18,3,en,Submission of the Vassal Nations
+Gdt_3,443,Gdt,18,3,it,Sottomissione spontanea dei popoli occidentali
+Gdt_4,444,Gdt,18,4,en,Israel Prepares for War
+Gdt_4,444,Gdt,18,4,it,L'assedio di betulia e la sfida alla potenza di Dio
+Gdt_5,445,Gdt,18,5,en,Achior in the Assyrian War Council
+Gdt_5,445,Gdt,18,5,it,Oloferne interroga Achiòr
+Gdt_6,446,Gdt,18,6,en,Achior in Bethulia
+Gdt_6,446,Gdt,18,6,it,Achiòr è fatto precipitare fino a Betùlia
+Gdt_7,447,Gdt,18,7,en,The Campaign Against Israel
+Gdt_7,447,Gdt,18,7,it,Blocco delle fonti idriche di Betùlia
+Gdt_8,448,Gdt,18,8,en,Description of Judith
+Gdt_8,448,Gdt,18,8,it,Iniziativa di Giuditta
+Gdt_9,449,Gdt,18,9,en,The Prayer of Judith
+Gdt_9,449,Gdt,18,9,it,L'impresa di giuditta
+Gdt_10,450,Gdt,18,10,en,Judith Prepares to Depart
+Gdt_10,450,Gdt,18,10,it,Giuditta si reca nel campo nemico
+Gdt_11,451,Gdt,18,11,en,Judith at the enemies' camp
+Gdt_11,451,Gdt,18,11,it,Giuditta è accettata nel campo nemico
+Gdt_12,452,Gdt,18,12,en,Judith at the Banquet of Holofernes
+Gdt_12,452,Gdt,18,12,it,Giuditta si sistema nel campo nemico
+Gdt_13,453,Gdt,18,13,en,Judith Beheads Holofernes
+Gdt_13,453,Gdt,18,13,it,Giuditta uccide Oloferne
+Gdt_14,454,Gdt,18,14,en,Judith’s Plan of Attack
+Gdt_14,454,Gdt,18,14,it,Rivincita degli assediati
+Gdt_15,455,Gdt,18,15,en,Israel Celebrates Judith’s Victory
+Gdt_15,455,Gdt,18,15,it,Tripudio da Betùlia a Gerusalemme
+Gdt_16,456,Gdt,18,16,en,The Renown and Death of Judith
+Gdt_16,456,Gdt,18,16,it,Fine della vita di Giuditta
+Est_1,457,Est,19,1,en,Dream of Mordecai
+Est_1,457,Est,19,1,it,Presentazione dei personaggi
+Est_2,458,Est,19,2,en,The Search for a New Queen
+Est_2,458,Est,19,2,it,Ester diventa regina
+Est_3,459,Est,19,3,en,Mordecai Refuses to Honor Haman
+Est_3,459,Est,19,3,it,Conflitto tra Aman e Mardocheo
+Est_4,460,Est,19,4,en,Mordecai Exhorts Esther
+Est_4,460,Est,19,4,it,Impegno di Mardocheo e di Ester per salvare gli Ebrei
+Est_5,461,Est,19,5,en,First Banquet of Esther
+Est_5,461,Est,19,5,it,Ester si presenta al re
+Est_6,462,Est,19,6,en,Mordecai’s Reward from the King
+Est_6,462,Est,19,6,it,Rivincita degli ebrei
+Est_7,463,Est,19,7,en,Punishment of Haman
+Est_7,463,Est,19,7,it,Condanna di Aman
+Est_8,464,Est,19,8,en,The Second Royal Decree
+Est_8,464,Est,19,8,it,Il favore reale passa ai Giudei
+Est_9,465,Est,19,9,en,The Massacre Reversed
+Est_9,465,Est,19,9,it,Vendetta e festa
+Est_10,466,Est,19,10,en,The Rise of Mordecai Completed
+Est_10,466,Est,19,10,it,Elogio di Mardocheo
+1Mac_1,467,1Mac,20,1,en,From Alexander to Antiochus
+1Mac_1,467,1Mac,20,1,it,Introduzione
+1Mac_2,468,1Mac,20,2,en,Mattathias and His Sons
+1Mac_2,468,1Mac,20,2,it,L'inizio della rivolta maccabaica
+1Mac_3,469,1Mac,20,3,en,Judas and His Early Victories
+1Mac_3,469,1Mac,20,3,it,Storia di giuda maccabeo
+1Mac_4,470,1Mac,20,4,en,Victory over Gorgias
+1Mac_4,470,1Mac,20,4,it,La purificazione del tempio
+1Mac_5,471,1Mac,20,5,en,Victories over Hostile Neighbors
+1Mac_5,471,1Mac,20,5,it,Spedizioni di Giuda e dei fratelli
+1Mac_6,472,1Mac,20,6,en,Siege of the Citadel
+1Mac_6,472,1Mac,20,6,it,Morte e successione di Antioco Epìfane
+1Mac_7,473,1Mac,20,7,en,Expedition of Bacchides and Alcimus
+1Mac_7,473,1Mac,20,7,it,Alcimo e Nicànore contro Giuda
+1Mac_8,474,1Mac,20,8,en,Eulogy of the Romans
+1Mac_8,474,1Mac,20,8,it,Giuda e la potenza dei Romani
+1Mac_9,475,1Mac,20,9,en,Death of Judas
+1Mac_9,475,1Mac,20,9,it,Morte di Giuda
+1Mac_10,476,1Mac,20,10,en,Jonathan Becomes High Priest
+1Mac_10,476,1Mac,20,10,it,"Giònata sommo sacerdote, stratega e governatore"
+1Mac_11,477,1Mac,20,11,en,Alliance of Ptolemy and Demetrius II
+1Mac_11,477,1Mac,20,11,it,Tolomeo VI sostiene Demetrio II e muore con Alessandro Balas
+1Mac_12,478,1Mac,20,12,en,Alliances with Rome and Sparta
+1Mac_12,478,1Mac,20,12,it,Alleanze di Giònata con Roma e Sparta
+1Mac_13,479,1Mac,20,13,en,Simon as Leader
+1Mac_13,479,1Mac,20,13,it,Storia di simone maccabeo
+1Mac_14,480,1Mac,20,14,en,Capture of Demetrius II
+1Mac_14,480,1Mac,20,14,it,Elogio di Simone
+1Mac_15,481,1Mac,20,15,en,Letter of Antiochus VII
+1Mac_15,481,1Mac,20,15,it,Alleanze e vittorie di Simone
+1Mac_16,482,1Mac,20,16,en,Murder of Simon and His Sons
+1Mac_16,482,1Mac,20,16,it,Morte di Simone
+2Mac_1,483,2Mac,21,1,en,Letter 1: 124 B.C
+2Mac_1,483,2Mac,21,1,it,Introduzione
+2Mac_2,484,2Mac,21,2,en,Prefaction of the author
+2Mac_2,484,2Mac,21,2,it,Prefazione dell'autore
+2Mac_3,485,2Mac,21,3,en,Heliodorus’ Arrival in Jerusalem
+2Mac_3,485,2Mac,21,3,it,Il sommo sacerdozio e il tempio
+2Mac_4,486,2Mac,21,4,en,Simon Accuses Onias
+2Mac_4,486,2Mac,21,4,it,Lotte per il sommo sacerdozio e rovina del tempio
+2Mac_5,487,2Mac,21,5,en,Jason’s Revolt
+2Mac_5,487,2Mac,21,5,it,La persecuzione di antioco epifane
+2Mac_6,488,2Mac,21,6,en,Abolition of Judaism
+2Mac_6,488,2Mac,21,6,it,Fedeltà alla legge è scelta del martirio
+2Mac_7,489,2Mac,21,7,en,Martyrdom of a Mother and Her Seven Sons
+2Mac_7,489,2Mac,21,7,it,Il martirio dei sette fratelli
+2Mac_8,490,2Mac,21,8,en,Resistance from Judas Maccabeus
+2Mac_8,490,2Mac,21,8,it,Storia di giuda maccabeo
+2Mac_9,491,2Mac,21,9,en,Punishment and Death of Antiochus IV
+2Mac_9,491,2Mac,21,9,it,Morte di Antioco Epìfane
+2Mac_10,492,2Mac,21,10,en,Purification of the Temple
+2Mac_10,492,2Mac,21,10,it,Avvenimenti sotto Antioco V Eupàtore
+2Mac_11,493,2Mac,21,11,en,Defeat of Lysias
+2Mac_11,493,2Mac,21,11,it,Scambi epistolari
+2Mac_12,494,2Mac,21,12,en,Incidents at Joppa and Jamnia
+2Mac_12,494,2Mac,21,12,it,Nuove azioni militari di Giuda
+2Mac_13,495,2Mac,21,13,en,Death of Menelaus
+2Mac_13,495,2Mac,21,13,it,Spedizione e ritirata di Antioco Eupàtore
+2Mac_14,496,2Mac,21,14,en,Dealings with Nicanor
+2Mac_14,496,2Mac,21,14,it,Missione e fine di Nicànore
+2Mac_15,497,2Mac,21,15,en,Nicanor’s Arrogance
+2Mac_15,497,2Mac,21,15,it,Epilogo
+Gb_1,498,Gb,22,1,en,Job’s Piety
+Gb_1,498,Gb,22,1,it,Prologo
+Gb_2,499,Gb,22,2,en,The Second Interview
+Gb_2,499,Gb,22,2,it,La corte celeste
+Gb_3,500,Gb,22,3,en,Job’s Complaint
+Gb_3,500,Gb,22,3,it,"Dialogo tra giobbe e i suoi tre amici: elifaz, bildad e sofar"
+Gb_4,501,Gb,22,4,en,Eliphaz’s First Speech
+Gb_4,501,Gb,22,4,it,Primo discorso di elifaz
+Gb_5,502,Gb,22,5,en,Eliphaz’s First Prosecution
+Gb_5,502,Gb,22,5,it,Lorigine del male
+Gb_6,503,Gb,22,6,en,Job’s First Reply
+Gb_6,503,Gb,22,6,it,Risposta di Giobbe a Elifaz
+Gb_7,504,Gb,22,7,en,Job’s First Defense
+Gb_7,504,Gb,22,7,it,La vita è un duro servizio
+Gb_8,505,Gb,22,8,en,Bildad’s First Speech
+Gb_8,505,Gb,22,8,it,Primo discorso di bildad
+Gb_9,506,Gb,22,9,en,Job’s Second Reply
+Gb_9,506,Gb,22,9,it,Risposta di giobbe a bildad
+Gb_10,507,Gb,22,10,en,Job’s Second Defense
+Gb_10,507,Gb,22,10,it,Giobbe si sente colpito da Dio senza motivo
+Gb_11,508,Gb,22,11,en,Zophar’s First Speech
+Gb_11,508,Gb,22,11,it,Primo discorso di sofar
+Gb_12,509,Gb,22,12,en,Job’s Third Reply
+Gb_12,509,Gb,22,12,it,Risposta di giobbe a sofar
+Gb_13,510,Gb,22,13,en,Job’s Third Defense
+Gb_13,510,Gb,22,13,it,Giobbe vuole difendere la sua causa davanti a Dio
+Gb_14,511,Gb,22,14,en,Job’s Third Defense
+Gb_14,511,Gb,22,14,it,Il triste destino della condizione umana
+Gb_15,512,Gb,22,15,en,Second Speech of Eliphaz
+Gb_15,512,Gb,22,15,it,Secondo discorso di elifaz
+Gb_16,513,Gb,22,16,en,Job’s Fourth Reply
+Gb_16,513,Gb,22,16,it,Risposta di giobbe a elifaz
+Gb_17,514,Gb,22,17,en,Job’s Fourth Defense
+Gb_17,514,Gb,22,17,it,Accorato lamento di Giobbe
+Gb_18,515,Gb,22,18,en,Bildad’s Second Speech
+Gb_18,515,Gb,22,18,it,Secondo discorso di bildad
+Gb_19,516,Gb,22,19,en,Job’s Fifth Reply
+Gb_19,516,Gb,22,19,it,Risposta di giobbe a bildad
+Gb_20,517,Gb,22,20,en,Zophar’s Second Speech
+Gb_20,517,Gb,22,20,it,Secondo discorso di sofar
+Gb_21,518,Gb,22,21,en,Job’s Sixth Reply
+Gb_21,518,Gb,22,21,it,Risposta di giobbe a sofar
+Gb_22,519,Gb,22,22,en,Eliphaz’s Third Speech
+Gb_22,519,Gb,22,22,it,Terzo discorso di elifaz
+Gb_23,520,Gb,22,23,en,Job’s Seventh Reply
+Gb_23,520,Gb,22,23,it,Risposta di giobbe a elifaz
+Gb_24,521,Gb,22,24,en,Job’s Seventh Defense
+Gb_24,521,Gb,22,24,it,Le opere malvagie degli empi e il silenzio di Dio
+Gb_25,522,Gb,22,25,en,Bildad’s Third Speech
+Gb_25,522,Gb,22,25,it,Terzo discorso di bildad
+Gb_26,523,Gb,22,26,en,Job’s Reply
+Gb_26,523,Gb,22,26,it,Risposta di giobbe a bildad
+Gb_27,524,Gb,22,27,en,Job’s Reply
+Gb_27,524,Gb,22,27,it,Ultimi discorsi di giobbe
+Gb_28,525,Gb,22,28,en,Job’s Defense
+Gb_28,525,Gb,22,28,it,Intermezzo
+Gb_29,526,Gb,22,29,en,Job’s Defense
+Gb_29,526,Gb,22,29,it,Ultimi discorsi di giobbe
+Gb_30,527,Gb,22,30,en,Job’s Defense
+Gb_30,527,Gb,22,30,it,Giobbe rievoca la sua attuale situazione di infelicità
+Gb_31,528,Gb,22,31,en,Job’s Defense
+Gb_31,528,Gb,22,31,it,"Sicuro della propria innocenza, Giobbe si appella a Dio"
+Gb_32,529,Gb,22,32,en,The Speech of Elihu
+Gb_32,529,Gb,22,32,it,Discorso di eliu
+Gb_33,530,Gb,22,33,en,The Speech of Elihu
+Gb_33,530,Gb,22,33,it,Eliu disapprova Giobbe
+Gb_34,531,Gb,22,34,en,The Speech of Elihu
+Gb_34,531,Gb,22,34,it,Gli errori di Giobbe
+Gb_35,532,Gb,22,35,en,The Speech of Elihu
+Gb_35,532,Gb,22,35,it,Eliu esorta Giobbe a ricercare Dio
+Gb_36,533,Gb,22,36,en,The Speech of Elihu
+Gb_36,533,Gb,22,36,it,La sorte dei giusti e dei perversi
+Gb_37,534,Gb,22,37,en,The Speech of Elihu
+Gb_37,534,Gb,22,37,it,Celebrazione delle opere di Dio nel creato
+Gb_38,535,Gb,22,38,en,God Talks to Job
+Gb_38,535,Gb,22,38,it,La grande teofania
+Gb_39,536,Gb,22,39,en,God Talks to Job
+Gb_39,536,Gb,22,39,it,L'asino selvatico
+Gb_40,537,Gb,22,40,en,God Talks to Job
+Gb_40,537,Gb,22,40,it,Giobbe si dichiara incapace di rispondere
+Gb_41,538,Gb,22,41,en,God Talks to Job
+Gb_41,538,Gb,22,41,it,Leviatan
+Gb_42,539,Gb,22,42,en,Job’s Restoration
+Gb_42,539,Gb,22,42,it,Giobbe si dichiara vinto e chiede perdono
+Sal_1,540,Sal,23,1,en,The Blessed Man
+Sal_1,540,Sal,23,1,it,La beatitudine del giusto
+Sal_2,541,Sal,23,2,en,The King Rejected but Coming to Reign
+Sal_2,541,Sal,23,2,it,Il Signore sostiene il suo consacrato
+Sal_3,542,Sal,23,3,en,A Psalm in Distress
+Sal_3,542,Sal,23,3,it,La salvezza viene dal Signore
+Sal_4,543,Sal,23,4,en,Prayer in Trouble
+Sal_4,543,Sal,23,4,it,Preghiera della sera
+Sal_5,544,Sal,23,5,en,Sharing God’s Attitude Toward Sin
+Sal_5,544,Sal,23,5,it,Preghiera del mattino
+Sal_6,545,Sal,23,6,en,Praying in Deepest Distress
+Sal_6,545,Sal,23,6,it,Invocazione a Dio nel dolore
+Sal_7,546,Sal,23,7,en,The Slandered Saint Psalm
+Sal_7,546,Sal,23,7,it, Preghiera del giusto perseguitato
+Sal_8,547,Sal,23,8,en,The Son of Man Reigning
+Sal_8,547,Sal,23,8,it,La gloria di Dio e la dignità dell'uomo
+Sal_9,548,Sal,23,9,en,Praise for Righteous Judgment
+Sal_9,548,Sal,23,9,it,Inno alla giustizia di Dio
+Sal_10,549,Sal,23,10,en,A Psalm Concerning the Wicked
+Sal_10,549,Sal,23,10,it,Dio abbatte l'arroganza dell'empio
+Sal_11,550,Sal,23,11,en,The Psalm of the Steadfast
+Sal_11,550,Sal,23,11,it, Fiducia in Dio
+Sal_12,551,Sal,23,12,en,Liars Against the Truth
+Sal_12,551,Sal,23,12,it,Contro la menzogna e l'arroganza
+Sal_13,552,Sal,23,13,en,The “How Long” Psalm
+Sal_13,552,Sal,23,13,it,Implorazione a Dio
+Sal_14,553,Sal,23,14,en,The Psalm of the Fool
+Sal_14,553,Sal,23,14,it, Lo stolto vive come se Dio non esistesse
+Sal_15,554,Sal,23,15,en,The Regenerate Described
+Sal_15,554,Sal,23,15,it, Il giusto vive alla presenza del Signore
+Sal_16,555,Sal,23,16,en,Death and Resurrection
+Sal_16,555,Sal,23,16,it,Il Signore è l'unico vero bene
+Sal_17,556,Sal,23,17,en,A Prayer of David Against the Wicked
+Sal_17,556,Sal,23,17,it,Invocazione a Dio nella persecuzione
+Sal_18,557,Sal,23,18,en,David’s Psalm of Deliverance
+Sal_18,557,Sal,23,18,it,Inno di lode e di ringraziamento a Dio
+Sal_19,558,Sal,23,19,en,The Witness of Creation and Revelation
+Sal_19,558,Sal,23,19,it,Rivelazione di Dio
+Sal_20,559,Sal,23,20,en,A Psalm for a Day of Trouble
+Sal_20,559,Sal,23,20,it,"In preghiera per il re, il consacrato del Signore"
+Sal_21,560,Sal,23,21,en,Victorious King Psalm
+Sal_21,560,Sal,23,21,it,Ringraziamento per la preghiera esaudita
+Sal_22,561,Sal,23,22,en,The Good Shepherd (Crucified)
+Sal_22,561,Sal,23,22,it,Le sofferenze e la gloria del giusto
+Sal_23,562,Sal,23,23,en,The Great Shepherd (Risen)
+Sal_23,562,Sal,23,23,it,Il Signore è il mio pastore
+Sal_24,563,Sal,23,24,en,The Chief Shepherd (Coming)
+Sal_24,563,Sal,23,24,it,"Il Signore, re della gloria, entra nel suo tempio"
+Sal_25,564,Sal,23,25,en,Trust in the Midst of Trouble
+Sal_25,564,Sal,23,25,it,Inno alla bontà di Dio
+Sal_26,565,Sal,23,26,en,How to Avoid Backsliding
+Sal_26,565,Sal,23,26,it,Preghiera dell'innocente
+Sal_27,566,Sal,23,27,en,One Desire in Time of Trouble
+Sal_27,566,Sal,23,27,it,"Nelle prove, il Signore è rifugio sicuro"
+Sal_28,567,Sal,23,28,en,A Cry for Judgment
+Sal_28,567,Sal,23,28,it,"Contro i nemici, il Signore è forza e scudo"
+Sal_29,568,Sal,23,29,en,The Judgment Storm
+Sal_29,568,Sal,23,29,it,Inno all'onnipotenza di Dio
+Sal_30,569,Sal,23,30,en,A Psalm of Dedication
+Sal_30,569,Sal,23,30,it,Inno di ringraziamento per la salvezza ricevuta
+Sal_31,570,Sal,23,31,en,A Psalm of Trouble and Trust
+Sal_31,570,Sal,23,31,it,Preghiera fiduciosa nella prova
+Sal_32,571,Sal,23,32,en,David’s Testimony of Confession
+Sal_32,571,Sal,23,32,it,La gioia del peccatore perdonato
+Sal_33,572,Sal,23,33,en,"Praise for Creation, Providence, Grace"
+Sal_33,572,Sal,23,33,it,"Inno a Dio, creatore e Signore della storia"
+Sal_34,573,Sal,23,34,en,Appreciation for Deliverance
+Sal_34,573,Sal,23,34,it,"Inno a Dio, sorgente di gioia e di pace"
+Sal_35,574,Sal,23,35,en,A Prayer for Intercessors
+Sal_35,574,Sal,23,35,it,Implorazione del giusto perseguitato
+Sal_36,575,Sal,23,36,en,Wicked Way and God’s Way Contrasted
+Sal_36,575,Sal,23,36,it,La malvagità dell'empio e la bontà di Dio
+Sal_37,576,Sal,23,37,en,“Fret Not” Psalm
+Sal_37,576,Sal,23,37,it,La sorte del giusto e dell'empio
+Sal_38,577,Sal,23,38,en,"David, Out of Fellowship, In at End"
+Sal_38,577,Sal,23,38,it,"Richiesta di perdono, di liberazione e di salvezza"
+Sal_39,578,Sal,23,39,en,Prayer for Wisdom
+Sal_39,578,Sal,23,39,it,La vita dell'uomo è solo un soffio
+Sal_40,579,Sal,23,40,en,"The Obedience of Christ, New Song"
+Sal_40,579,Sal,23,40,it,Inno di ringraziamento a Dio
+Sal_41,580,Sal,23,41,en,Prophesied Betrayal by Judas
+Sal_41,580,Sal,23,41,it,"Preghiera di un malato, abbandonato da tutti"
+Sal_42,581,Sal,23,42,en,“Hope Thou in God” Psalm
+Sal_42,581,Sal,23,42,it,Lamento e nostalgia dell'esule
+Sal_43,582,Sal,23,43,en,Enemies Bug Me
+Sal_43,582,Sal,23,43,it,Lamento e nostalgia dell'esule
+Sal_44,583,Sal,23,44,en,Undeserved Suffering
+Sal_44,583,Sal,23,44,it,Lamento e preghiera d'Israele oppresso
+Sal_45,584,Sal,23,45,en,Royal Wedding Psalm
+Sal_45,584,Sal,23,45,it,Canto nuziale per il re e la regina
+Sal_46,585,Sal,23,46,en,Triumph in the Great Tribulation Period
+Sal_46,585,Sal,23,46,it,"Dio, nostro rifugio e nostra forza"
+Sal_47,586,Sal,23,47,en,The Lord Reigning
+Sal_47,586,Sal,23,47,it,"Lode a Dio, re di tutta la terra"
+Sal_48,587,Sal,23,48,en,Jerusalem
+Sal_48,587,Sal,23,48,it,"Il monte Sion, dimora del Signore"
+Sal_49,588,Sal,23,49,en,The Folly of Unbelief
+Sal_49,588,Sal,23,49,it,La ricchezza non preserva dalla morte
+Sal_50,589,Sal,23,50,en,The Nature of True Worship
+Sal_50,589,Sal,23,50,it,Il vero culto
+Sal_51,590,Sal,23,51,en,David’s Sin Acknowledged
+Sal_51,590,Sal,23,51,it,Salmo di pentimento
+Sal_52,591,Sal,23,52,en,“Green Olive Tree” Psalm
+Sal_52,591,Sal,23,52,it,La sorte del prepotente
+Sal_53,592,Sal,23,53,en,The Psalm of the Fool
+Sal_53,592,Sal,23,53,it,La condotta dei malvagi
+Sal_54,593,Sal,23,54,en,“Mine Helper” Psalm
+Sal_54,593,Sal,23,54,it,Invocazione al nome di Dio
+Sal_55,594,Sal,23,55,en,Escape From Tribulation
+Sal_55,594,Sal,23,55,it,Preghiera di un uomo tradito e umiliato
+Sal_56,595,Sal,23,56,en,A Prayer of the Hunted One
+Sal_56,595,Sal,23,56,it,Fiducia in Dio e nella sua parola
+Sal_57,596,Sal,23,57,en,Refuge in Trouble
+Sal_57,596,Sal,23,57,it,Preghiera a Dio nel pericolo
+Sal_58,597,Sal,23,58,en,Imprecatory Psalm
+Sal_58,597,Sal,23,58,it,Contro i giudici iniqui
+Sal_59,598,Sal,23,59,en,Prayer for Deliverance and Judgment
+Sal_59,598,Sal,23,59,it,Invocazione di aiuto
+Sal_60,599,Sal,23,60,en,Through Defeat to Victory
+Sal_60,599,Sal,23,60,it,Preghiera dopo la sconfitta
+Sal_61,600,Sal,23,61,en,Refuge in the Rock
+Sal_61,600,Sal,23,61,it,Preghiera di un esiliato
+Sal_62,601,Sal,23,62,en,Confidence in God the Rock
+Sal_62,601,Sal,23,62,it,Dio solo è rifugio e salvezza
+Sal_63,602,Sal,23,63,en,“Most Beautiful” Psalm
+Sal_63,602,Sal,23,63,it,Fame e sete di Dio
+Sal_64,603,Sal,23,64,en,Wicked vs. the Righteous
+Sal_64,603,Sal,23,64,it,Invocazione del giusto perseguitato
+Sal_65,604,Sal,23,65,en,Thanksgiving Psalm
+Sal_65,604,Sal,23,65,it,Inno di ringraziamento a Dio per la sua bontà
+Sal_66,605,Sal,23,66,en,Worthy Worship Psalm
+Sal_66,605,Sal,23,66,it,Invito a lodare Dio per le sue grandi opere
+Sal_67,606,Sal,23,67,en,Future Kingdom Blessing
+Sal_67,606,Sal,23,67,it,Lode a Dio per la sua provvidenza
+Sal_68,607,Sal,23,68,en,Victorious Procession of God
+Sal_68,607,Sal,23,68,it,Canto di trionfo e di gloria
+Sal_69,608,Sal,23,69,en,The Sufferings of Christ
+Sal_69,608,Sal,23,69,it,Invocazione di aiuto
+Sal_70,609,Sal,23,70,en,Memorial Psalm
+Sal_70,609,Sal,23,70,it,Implorazione nell'angustia
+Sal_71,610,Sal,23,71,en,Aged Saint Psalm
+Sal_71,610,Sal,23,71,it,Fiducia in Dio in ogni situazione della vita
+Sal_72,611,Sal,23,72,en,King and the Kingdom
+Sal_72,611,Sal,23,72,it,La gloria del regno messianico
+Sal_73,612,Sal,23,73,en,Envious at the Prosperity of the Wicked
+Sal_73,612,Sal,23,73,it,La fede del giusto messa alla prova
+Sal_74,613,Sal,23,74,en,The Enemy in Possession
+Sal_74,613,Sal,23,74,it,Supplica per il tempio distrutto
+Sal_75,614,Sal,23,75,en,The Lord’s Cup of Judgment
+Sal_75,614,Sal,23,75,it,"Inno di lode a Dio, giusto giudice"
+Sal_76,615,Sal,23,76,en,When God Reigns in Zion
+Sal_76,615,Sal,23,76,it,Canto di vittoria
+Sal_77,616,Sal,23,77,en,The Troubled Saint
+Sal_77,616,Sal,23,77,it,Meditazione sul passato d'Israele
+Sal_78,617,Sal,23,78,en,The History of God’s Grace With Israel
+Sal_78,617,Sal,23,78,it,L'insegnamento della storia d'Israele
+Sal_79,618,Sal,23,79,en,A Prayer With Jerusalem in Ruins!
+Sal_79,618,Sal,23,79,it,Lamento su Gerusalemme ridotta in macerie
+Sal_80,619,Sal,23,80,en,"Christ, the Strong Man"
+Sal_80,619,Sal,23,80,it,Preghiera per la rinascita d'Israele
+Sal_81,620,Sal,23,81,en,God Bares the Heart
+Sal_81,620,Sal,23,81,it,Invito ad ascoltare il Signore
+Sal_82,621,Sal,23,82,en,God is the Judge
+Sal_82,621,Sal,23,82,it,Condanna dei giudici corrotti
+Sal_83,622,Sal,23,83,en,Afflicted to Learn!
+Sal_83,622,Sal,23,83,it,Preghiera contro i nemici d'Israele
+Sal_84,623,Sal,23,84,en,“Sons of Grace” Psalm
+Sal_84,623,Sal,23,84,it,Canto di pellegrinaggio
+Sal_85,624,Sal,23,85,en,“Revival Prayer” Psalm
+Sal_85,624,Sal,23,85,it,Supplica per la pace e la giustizia
+Sal_86,625,Sal,23,86,en,Poor and Needy Prayer
+Sal_86,625,Sal,23,86,it,Preghiera nei pericoli e nelle prove
+Sal_87,626,Sal,23,87,en,A Song of Zion
+Sal_87,626,Sal,23,87,it,"Sion, madre di tutti i popoli"
+Sal_88,627,Sal,23,88,en,“Deepest Distress” Psalm
+Sal_88,627,Sal,23,88,it,Preghiera a Dio dal profondo dell'angoscia
+Sal_89,628,Sal,23,89,en,“Davidic Covenant” Psalm
+Sal_89,628,Sal,23,89,it,"Inno di lode a Dio, fedele alle sue promesse"
+Sal_90,629,Sal,23,90,en,The Psalm of Death (First Adam)
+Sal_90,629,Sal,23,90,it,Eternità di Dio e brevità della vita dell'uomo
+Sal_91,630,Sal,23,91,en,The Psalm of Life (Last Adam)
+Sal_91,630,Sal,23,91,it,La protezione divina
+Sal_92,631,Sal,23,92,en,Sabbath Palm (of rest)
+Sal_92,631,Sal,23,92,it,Inno di lode del giusto
+Sal_93,632,Sal,23,93,en,The King and His Throne
+Sal_93,632,Sal,23,93,it,"Inno a Dio, re"
+Sal_94,633,Sal,23,94,en,A Prayer for Vengeance
+Sal_94,633,Sal,23,94,it,"Inno a Dio, giusto giudice"
+Sal_95,634,Sal,23,95,en,A Psalm of Praise and Warning
+Sal_95,634,Sal,23,95,it,Invito all'adorazione
+Sal_96,635,Sal,23,96,en,Praise and Testimony in View of the Second Advent
+Sal_96,635,Sal,23,96,it,Inno alla grandezza e alla gloria di Dio
+Sal_97,636,Sal,23,97,en,“The Lord Reigneth” Psalm
+Sal_97,636,Sal,23,97,it,La gloria del Signore
+Sal_98,637,Sal,23,98,en,A New Song of Victory
+Sal_98,637,Sal,23,98,it,"Inno a Dio, salvatore"
+Sal_99,638,Sal,23,99,en,Righteous Judgment & Trembling
+Sal_99,638,Sal,23,99,it,"Inno a Dio, re giusto e santo"
+Sal_100,639,Sal,23,100,en,The Old Hundreth (Thanksgiving)
+Sal_100,639,Sal,23,100,it,Invito alla lode
+Sal_101,640,Sal,23,101,en,The King and His Subjects
+Sal_101,640,Sal,23,101,it,Solenne impegno del re per la giustizia
+Sal_102,641,Sal,23,102,en,A Prayer in Humiliation
+Sal_102,641,Sal,23,102,it,Preghiera durante la prova
+Sal_103,642,Sal,23,103,en,"Bless the Lord, O My Soul"
+Sal_103,642,Sal,23,103,it,Inno alla bontà e all'amore di Dio
+Sal_104,643,Sal,23,104,en,The Praise of His Works
+Sal_104,643,Sal,23,104,it,"Inno a Dio, creatore"
+Sal_105,644,Sal,23,105,en,Israel’s History & God’s Mercy
+Sal_105,644,Sal,23,105,it,"Inno di lode a Dio, fedele verso Israele"
+Sal_106,645,Sal,23,106,en,Israel’s Failure & God’s Grace
+Sal_106,645,Sal,23,106,it,La fedeltà di Dio e l'infedeltà d'Israele
+Sal_107,646,Sal,23,107,en,Thanksgiving for Affliction
+Sal_107,646,Sal,23,107,it,Inno di ringraziamento
+Sal_108,647,Sal,23,108,en,Praise for Victory
+Sal_108,647,Sal,23,108,it,"Inno a Dio, re vittorioso"
+Sal_109,648,Sal,23,109,en,“Satanic Power” Psalm
+Sal_109,648,Sal,23,109,it,Supplica a Dio contro gli empi
+Sal_110,649,Sal,23,110,en,Christ as King and Priest
+Sal_110,649,Sal,23,110,it,"Il messia, re e sacerdote"
+Sal_111,650,Sal,23,111,en,“Reverend is His Name” Psalm
+Sal_111,650,Sal,23,111,it,Inno di lode a Dio
+Sal_112,651,Sal,23,112,en,God’s Plan is Greater than
+Sal_112,651,Sal,23,112,it,Inno di elogio del giusto
+Sal_113,652,Sal,23,113,en,the Pressures of Life
+Sal_113,652,Sal,23,113,it,"Inno a Dio, amorevole verso i poveri"
+Sal_114,653,Sal,23,114,en,From Dunghill to Ruler
+Sal_114,653,Sal,23,114,it,Le meraviglie dell'esodo dall'Egitto
+Sal_115,654,Sal,23,115,en,When Israel Went Out of Egypt
+Sal_115,654,Sal,23,115,it,L'unico vero Dio e i falsi idoli
+Sal_116,655,Sal,23,116,en,God Compared With Idols
+Sal_116,655,Sal,23,116,it,Lode a Dio per la salvezza ricevuta
+Sal_117,656,Sal,23,117,en,“Dying Grace” Psalm
+Sal_117,656,Sal,23,117,it,"Da tutti i popoli, lode al Signore"
+Sal_118,657,Sal,23,118,en,The Shortest Psalm (praise)
+Sal_118,657,Sal,23,118,it,Inno di ringraziamento
+Sal_119,658,Sal,23,119,en,The Exalted Christ
+Sal_119,658,Sal,23,119,it,Meditazione sulla legge del Signore
+Sal_120,659,Sal,23,120,en,“The Word of God” Psalm
+Sal_120,659,Sal,23,120,it,Invocazioni per la pace
+Sal_121,660,Sal,23,121,en,Prayer Against a Lying Tongue
+Sal_121,660,Sal,23,121,it,"Lode a Dio, custode d'Israele"
+Sal_122,661,Sal,23,122,en,The Traveler’s Psalm
+Sal_122,661,Sal,23,122,it,"Saluto a Gerusalemme, città di pace"
+Sal_123,662,Sal,23,123,en,Jerusalem and Peace
+Sal_123,662,Sal,23,123,it,Preghiera fiduciosa a Dio
+Sal_124,663,Sal,23,124,en,Waiting in Faith
+Sal_124,663,Sal,23,124,it,"Dio, nostro aiuto e nostro liberatore"
+Sal_125,664,Sal,23,125,en,Lord on our Side
+Sal_125,664,Sal,23,125,it,"Dio, nostra salda protezione"
+Sal_126,665,Sal,23,126,en,Security for the Trusting
+Sal_126,665,Sal,23,126,it,La gioia del ritorno
+Sal_127,666,Sal,23,127,en,A Psalm of Freedom
+Sal_127,666,Sal,23,127,it,La forza di Dio sorregge le fatiche dell'uomo
+Sal_128,667,Sal,23,128,en,Safety in the Lord
+Sal_128,667,Sal,23,128,it,Felicità della famiglia benedetta dal Signore
+Sal_129,668,Sal,23,129,en,Earthly Blessings
+Sal_129,668,Sal,23,129,it,Invocazione a Dio contro i nemici d'Israele
+Sal_130,669,Sal,23,130,en,Comfort in Affliction
+Sal_130,669,Sal,23,130,it,Attesa del perdono e della salvezza del Signore
+Sal_131,670,Sal,23,131,en,Who Shall Stand?
+Sal_131,670,Sal,23,131,it,Abbandono fiducioso in Dio
+Sal_132,671,Sal,23,132,en,Childlike Trust
+Sal_132,671,Sal,23,132,it,La fedeltà di Dio alle promesse fatte a Davide
+Sal_133,672,Sal,23,133,en,Davidic Covenant Psalm
+Sal_133,672,Sal,23,133,it,Inno all' amore e alla concordia
+Sal_134,673,Sal,23,134,en,A Psalm of Fellowship
+Sal_134,673,Sal,23,134,it,Invito alla lode
+Sal_135,674,Sal,23,135,en,Worship at Night
+Sal_135,674,Sal,23,135,it,Potenza del vero Dio e inconsistenza degli idoli
+Sal_136,675,Sal,23,136,en,Priestly Praise Psalm
+Sal_136,675,Sal,23,136,it,Inno all'amore e alla bontà di Dio
+Sal_137,676,Sal,23,137,en,His Mercy Endureth Forever
+Sal_137,676,Sal,23,137,it,Il canto dell'esule
+Sal_138,677,Sal,23,138,en,Babylon Captivity Weeping
+Sal_138,677,Sal,23,138,it,Inno di ringraziamento
+Sal_139,678,Sal,23,139,en,“Magnified Thy Word Above Thy Name” Psalm
+Sal_139,678,Sal,23,139,it,"Inno a Dio, che tutto conosce"
+Sal_140,679,Sal,23,140,en,Spiritual Life Psalm
+Sal_140,679,Sal,23,140,it,Invocazione a Dio nella persecuzione
+Sal_141,680,Sal,23,141,en,Opposition from Evil
+Sal_141,680,Sal,23,141,it,Invocazione a Dio contro il peccato
+Sal_142,681,Sal,23,142,en,“Guard My Speech” Psalm
+Sal_142,681,Sal,23,142,it,Invocazione a Dio nella tribolazione
+Sal_143,682,Sal,23,143,en,The Prisoner’s Psalm
+Sal_143,682,Sal,23,143,it,Supplica umile e fiduciosa dell'oppresso
+Sal_144,683,Sal,23,144,en,A Prayer for Mercy in Persecution
+Sal_144,683,Sal,23,144,it,Inno di lode a Dio
+Sal_145,684,Sal,23,145,en,Military Strength Psalm
+Sal_145,684,Sal,23,145,it,Inno alla potenza e alla provvidenza di Dio
+Sal_146,685,Sal,23,146,en,Pure Praise Psalm
+Sal_146,685,Sal,23,146,it,Invito a confidare nel Signore
+Sal_147,686,Sal,23,147,en,Praise and Trust
+Sal_147,686,Sal,23,147,it,Inno alla bontà di Dio verso gli uomini e verso Israele
+Sal_148,687,Sal,23,148,en,Praise for God’s Grace to Israel
+Sal_148,687,Sal,23,148,it,"Lode alla grandezza di Dio, Signore del creato"
+Sal_149,688,Sal,23,149,en,Praise from all Creation
+Sal_149,688,Sal,23,149,it,Inno di lode a Dio per le sue vittorie
+Sal_150,689,Sal,23,150,en,A New Song of Praise
+Sal_150,689,Sal,23,150,it,Da tutto il creato salga la lode a Dio
+Prv_1,690,Prv,24,1,en,Purpose of the Proverbs of Solomon
+Prv_1,690,Prv,24,1,it,Introduzione
+Prv_2,691,Prv,24,2,en,The Blessings of Wisdom
+Prv_2,691,Prv,24,2,it,La sapienza è dono di Dio
+Prv_3,692,Prv,24,3,en,Confidence in God Leads to Prosperity
+Prv_3,692,Prv,24,3,it,I benefici della sapienza
+Prv_4,693,Prv,24,4,en,The Teacher as Model Disciple
+Prv_4,693,Prv,24,4,it,La sapienza si trasmette di padre in figlio
+Prv_5,694,Prv,24,5,en,Warning Against Adultery
+Prv_5,694,Prv,24,5,it,Ammonimenti contro l'adulterio
+Prv_6,695,Prv,24,6,en,Miscellaneous Proverbs
+Prv_6,695,Prv,24,6,it,Non farti garante di nessuno
+Prv_7,696,Prv,24,7,en,The Seduction
+Prv_7,696,Prv,24,7,it,Invito alla sapienza
+Prv_8,697,Prv,24,8,en,The Discourse of Wisdom
+Prv_8,697,Prv,24,8,it,La sapienza esorta gli uomini e i governanti ad ascoltarla
+Prv_9,698,Prv,24,9,en,The Two Women Invite Passersby to Their Banquets
+Prv_9,698,Prv,24,9,it,Il contrasto tra sapienza e stoltezza
+Prv_10,699,Prv,24,10,en,Application of Bible Doctrine to Experience
+Prv_10,699,Prv,24,10,it,Proverbi di salomone
+Prv_11,700,Prv,24,11,en,Application of Bible Doctrine to Experience
+Prv_11,700,Prv,24,11,it,Giustizia e malvagità
+Prv_12,701,Prv,24,12,en,Application of Bible Doctrine to Experience
+Prv_12,701,Prv,24,12,it,"Avvedutezza e laboriosità, verità e inganno"
+Prv_13,702,Prv,24,13,en,Application of Bible Doctrine to Experience
+Prv_13,702,Prv,24,13,it,Ricchezza e povertà
+Prv_14,703,Prv,24,14,en,Application of Bible Doctrine to Experience
+Prv_14,703,Prv,24,14,it,Il comportamento del saggio e il comportamento dello stolto
+Prv_15,704,Prv,24,15,en,Application of Bible Doctrine to Experience
+Prv_15,704,Prv,24,15,it,Ciò che il Signore gradisce e ciò che detesta
+Prv_16,705,Prv,24,16,en,Application of Bible Doctrine to Experience
+Prv_16,705,Prv,24,16,it,E' il Signore che guida la vita dell'uomo
+Prv_17,706,Prv,24,17,en,Application of Bible Doctrine to Experience
+Prv_17,706,Prv,24,17,it,Prudenza nel parlare e nell'agire
+Prv_18,707,Prv,24,18,en,Application of Bible Doctrine to Experience
+Prv_18,707,Prv,24,18,it,Importanza della parola
+Prv_19,708,Prv,24,19,en,Application of Bible Doctrine to Experience
+Prv_19,708,Prv,24,19,it,Sentenze varie
+Prv_20,709,Prv,24,20,en,Application of Bible Doctrine to Experience
+Prv_20,709,Prv,24,20,it,Altre sentenze e massime per la vita quotidiana
+Prv_21,710,Prv,24,21,en,Application of Bible Doctrine to Experience
+Prv_21,710,Prv,24,21,it,L'agire del giusto e dell'empio
+Prv_22,711,Prv,24,22,en,Application of Bible Doctrine to Experience
+Prv_22,711,Prv,24,22,it,Raccomandazioni varie
+Prv_23,712,Prv,24,23,en,Application of Bible Doctrine to Experience
+Prv_23,712,Prv,24,23,it,Vincere la golosità
+Prv_24,713,Prv,24,24,en,Application of Bible Doctrine to Experience
+Prv_24,713,Prv,24,24,it,Massime di vita pratica
+Prv_25,714,Prv,24,25,en,Proverbs Concerning the Fool
+Prv_25,714,Prv,24,25,it,"Altri proverbi di salomone raccolti dagli uomini di ezechia, re di giuda"
+Prv_26,715,Prv,24,26,en,Proverbs Concerning the Fool
+Prv_26,715,Prv,24,26,it,Il ritratto dello stolto...
+Prv_27,716,Prv,24,27,en,Proverbs Concerning the Fool
+Prv_27,716,Prv,24,27,it,"Vanità, ira e gelosia"
+Prv_28,717,Prv,24,28,en,Proverbs Concerning the Fool
+Prv_28,717,Prv,24,28,it,L'empio e il giusto
+Prv_29,718,Prv,24,29,en,Proverbs Concerning the Fool
+Prv_29,718,Prv,24,29,it,Vale la pena essere saggi
+Prv_30,719,Prv,24,30,en,Words of Agur
+Prv_30,719,Prv,24,30,it,Insegnamenti di altri saggi
+Prv_31,720,Prv,24,31,en,A Virtuous Woman
+Prv_31,720,Prv,24,31,it,Insegnamenti di Lemuèl
+Qo_1,721,Qo,25,1,en,Twofold Introduction
+Qo_1,721,Qo,25,1,it,Titolo del libro
+Qo_2,722,Qo,25,2,en,Study of Pleasure-seeking
+Qo_2,722,Qo,25,2,it,"Vanità dei piaceri, delle ricchezze e del lavoro"
+Qo_3,723,Qo,25,3,en,The Problem of Retribution
+Qo_3,723,Qo,25,3,it,Per tutte le cose c'è un tempo fissato da Dio
+Qo_4,724,Qo,25,4,en,Vanity of Toil
+Qo_4,724,Qo,25,4,it,L'oppressione
+Qo_5,725,Qo,25,5,en,Gain and Loss of Goods
+Qo_5,725,Qo,25,5,it,"L'autorità, la ricchezza e i loro rischi"
+Qo_6,726,Qo,25,6,en,Limited Worth of Enjoyment
+Qo_6,726,Qo,25,6,it,L'uomo è sempre insoddisfatto
+Qo_7,727,Qo,25,7,en,Critique of Sages on Justice and Wickedness
+Qo_7,727,Qo,25,7,it,La sapienza umana e il suo fallimento
+Qo_8,728,Qo,25,8,en,The Problem of Retribution
+Qo_8,728,Qo,25,8,it,"L'uomo non può conoscere il senso delle cose, nè la propria sorte"
+Qo_9,729,Qo,25,9,en,The Time of Misfortune Is Not Known
+Qo_9,729,Qo,25,9,it,Tutto è nelle mani di Dio
+Qo_10,730,Qo,25,10,en,Get Back in Fellowship & Walk with the Lor
+Qo_10,730,Qo,25,10,it,"Sapienza, follia e stoltezza"
+Qo_11,731,Qo,25,11,en,Poem on Youth and Old Age
+Qo_11,731,Qo,25,11,it,Invito ad agire
+Qo_12,732,Qo,25,12,en,Epilogue
+Qo_12,732,Qo,25,12,it,La vecchiaia e la morte
+Cant_1,733,Cant,26,1,en,The Woman Speaks of Her Lover
+Cant_1,733,Cant,26,1,it,Prologo
+Cant_2,734,Cant,26,2,en,Her Lover’s Visit Remembered
+Cant_2,734,Cant,26,2,it,Secondo poema
+Cant_3,735,Cant,26,3,en,Loss and Discovery
+Cant_3,735,Cant,26,3,it,La sposa cerca l'amato del suo cuore
+Cant_4,736,Cant,26,4,en,The Beauty of the Woman
+Cant_4,736,Cant,26,4,it,La bellezza della sposa
+Cant_5,737,Cant,26,5,en,A Fruitless Search
+Cant_5,737,Cant,26,5,it,Quarto poema
+Cant_6,738,Cant,26,6,en,The Lost Lover Found
+Cant_6,738,Cant,26,6,it,Io sono del mio amato e il mio amato è mio
+Cant_7,739,Cant,26,7,en,The Beauty of the Beloved
+Cant_7,739,Cant,26,7,it,Nella sposa tutto è bellezza e armonia
+Cant_8,740,Cant,26,8,en,The Return from the Desert
+Cant_8,740,Cant,26,8,it,Desiderio dell'unione
+Sap_1,741,Sap,27,1,en,"Exhortation to Righteousness, the Key to Life"
+Sap_1,741,Sap,27,1,it,La sapienza e il destino dell'uomo
+Sap_2,742,Sap,27,2,en,The choices of the wicked
+Sap_2,742,Sap,27,2,it,Le scelte degli empi
+Sap_3,743,Sap,27,3,en,The Hidden Counsels of God
+Sap_3,743,Sap,27,3,it,La sorte dei giusti
+Sap_4,744,Sap,27,4,en,The Judgment of the Wicked
+Sap_4,744,Sap,27,4,it,La virtù e il vizio
+Sap_5,745,Sap,27,5,en,The righteous and the wicked before the final judgment
+Sap_5,745,Sap,27,5,it,I giusti e gli empi di fronte al giudizio finale
+Sap_6,746,Sap,27,6,en,Exhortation to Seek Wisdom
+Sap_6,746,Sap,27,6,it,La ricerca della sapienza
+Sap_7,747,Sap,27,7,en,Solomon Is Like All Others
+Sap_7,747,Sap,27,7,it,Discorso di Salomone sulla sapienza
+Sap_8,748,Sap,27,8,en,"Wisdom, the Source of Blessings"
+Sap_8,748,Sap,27,8,it,I vantaggi della sapienza
+Sap_9,749,Sap,27,9,en,Solomon’s Prayer
+Sap_9,749,Sap,27,9,it,La preghiera di Salomone per ottenere la sapienza
+Sap_10,750,Sap,27,10,en,Wisdom Preserves Her Followers
+Sap_10,750,Sap,27,10,it,La sapienza nella storia d'israele
+Sap_11,751,Sap,27,11,en,Introduction
+Sap_11,751,Sap,27,11,it,La sapienza ha guidato Israele nel deserto
+Sap_12,752,Sap,27,12,en,Second Example Resumed
+Sap_12,752,Sap,27,12,it,La moderazione di Dio verso i Cananei
+Sap_13,753,Sap,27,13,en,Digression on False Worship
+Sap_13,753,Sap,27,13,it,Critica al culto della natura
+Sap_14,754,Sap,27,14,en,The Origin and Evils of Idolatry
+Sap_14,754,Sap,27,14,it,La salvezza di chi naviga viene solo da Dio
+Sap_15,755,Sap,27,15,en,The Potter’s Clay Idols
+Sap_15,755,Sap,27,15,it,La fedeltà di Israele all'unico vero Dio
+Sap_16,756,Sap,27,16,en,Third Example: A Rain of Manna for Israel Instead of the Plague of Storms
+Sap_16,756,Sap,27,16,it,Le creature come castigo e beneficio: le quaglie
+Sap_17,757,Sap,27,17,en,"Fourth Example: Darkness Afflicts the Egyptians, While the Israelites Have Light"
+Sap_17,757,Sap,27,17,it,Le tenebre come castigo degli Egiziani
+Sap_18,758,Sap,27,18,en,Fifth Example: Death of the Egyptian Firstborn; the Israelites Are Spared
+Sap_18,758,Sap,27,18,it,La luce illumina il cammino degli Israeliti
+Sap_19,759,Sap,27,19,en,The crossing of the Red Sea and the defeat of the Egyptians
+Sap_19,759,Sap,27,19,it,Il passaggio del Mar Rosso e la disfatta degli Egiziani
+Sir_1,760,Sir,28,1,en,God’s Gift of Wisdom
+Sir_1,760,Sir,28,1,it,La sapienza guida la vita dell'uomo
+Sir_2,761,Sir,28,2,en,Trust in God
+Sir_2,761,Sir,28,2,it,Pazienza e fiducia nelle prove
+Sir_3,762,Sir,28,3,en,Responsibilities to Parents
+Sir_3,762,Sir,28,3,it,Onorare il padre e la madre
+Sir_4,763,Sir,28,4,en,Social Conduct
+Sir_4,763,Sir,28,4,it,Invito ad aiutare i poveri
+Sir_5,764,Sir,28,5,en,Against Presumption
+Sir_5,764,Sir,28,5,it,Non sfidare la pazienza e la bontà di Dio
+Sir_6,765,Sir,28,6,en,Unruly Passions
+Sir_6,765,Sir,28,6,it,Il dominio delle passioni
+Sir_7,766,Sir,28,7,en,Conduct Toward God and Neighbor
+Sir_7,766,Sir,28,7,it,Consigli vari sulla vita morale e sociale
+Sir_8,767,Sir,28,8,en,Prudence in Dealing with Others
+Sir_8,767,Sir,28,8,it,Atteggiamenti sconsigliati
+Sir_9,768,Sir,28,9,en,Advice Concerning Women
+Sir_9,768,Sir,28,9,it,Come comportarsi con le donne
+Sir_10,769,Sir,28,10,en,The Sin of Pride
+Sir_10,769,Sir,28,10,it,L'arte del governo
+Sir_11,770,Sir,28,11,en,Moderation and Patience
+Sir_11,770,Sir,28,11,it,Non fidarsi delle apparenze
+Sir_12,771,Sir,28,12,en,To who you should be good
+Sir_12,771,Sir,28,12,it,A chi bisogna fare il bene
+Sir_13,772,Sir,28,13,en,Caution Regarding Associates
+Sir_13,772,Sir,28,13,it,Non essere ingenuo con i ricchi e i potenti
+Sir_14,773,Sir,28,14,en,The Use of Wealth
+Sir_14,773,Sir,28,14,it,La serenità di coscienza
+Sir_15,774,Sir,28,15,en,Free Will
+Sir_15,774,Sir,28,15,it,La sapienza madre e sposa
+Sir_16,775,Sir,28,16,en,God’s Punishment of Sinners
+Sir_16,775,Sir,28,16,it,Il valore dei figli
+Sir_17,776,Sir,28,17,en,Creation of Human Beings
+Sir_17,776,Sir,28,17,it,I doni di Dio all'uomo
+Sir_18,777,Sir,28,18,en,The Divine Power and Mercy
+Sir_18,777,Sir,28,18,it,Le grandezze di Dio
+Sir_19,778,Sir,28,19,en,The Proper Use of Speech
+Sir_19,778,Sir,28,19,it,Contro l'ubriachezza
+Sir_20,779,Sir,28,20,en,Conduct of the Wise and the Foolish
+Sir_20,779,Sir,28,20,it,La preziosità del silenzio
+Sir_21,780,Sir,28,21,en,Dangers from Sin
+Sir_21,780,Sir,28,21,it,Fuggire il peccato
+Sir_22,781,Sir,28,22,en,On Laziness and Foolishness
+Sir_22,781,Sir,28,22,it,Il pigro
+Sir_23,782,Sir,28,23,en,Proper Use of the Tongue
+Sir_23,782,Sir,28,23,it,Esortazione a custodire la lingua
+Sir_24,783,Sir,28,24,en,Praise of Wisdom
+Sir_24,783,Sir,28,24,it,L'elogio della sapienza
+Sir_25,784,Sir,28,25,en,Those Who Are Worthy of Praise
+Sir_25,784,Sir,28,25,it,Proverbi numerici
+Sir_26,785,Sir,28,26,en,Dangers to Integrity and Friendship
+Sir_26,785,Sir,28,26,it,La donna virtuosa
+Sir_27,786,Sir,28,27,en,"Malice, Anger and Vengeance"
+Sir_27,786,Sir,28,27,it,La parola
+Sir_28,787,Sir,28,28,en,The Evil Tongue
+Sir_28,787,Sir,28,28,it,Evita le liti
+Sir_29,788,Sir,28,29,en,"Loans, Alms and Surety"
+Sir_29,788,Sir,28,29,it,Il prestito
+Sir_30,789,Sir,28,30,en,The Training of Children
+Sir_30,789,Sir,28,30,it,L'educazione dei figli
+Sir_31,790,Sir,28,31,en,The Proper Attitude Toward Riches
+Sir_31,790,Sir,28,31,it,Ambiguità della ricchezza
+Sir_32,791,Sir,28,32,en,The Providence of God
+Sir_32,791,Sir,28,32,it,Come comportarsi nei banchetti
+Sir_33,792,Sir,28,33,en,Property and Servants
+Sir_33,792,Sir,28,33,it,Il saggio e lo stolto
+Sir_34,793,Sir,28,34,en,Trust in the Lord and Not in Dreams
+Sir_34,793,Sir,28,34,it,Cautela verso i sogni
+Sir_35,794,Sir,28,35,en,What is pleasing to God
+Sir_35,794,Sir,28,35,it,Che cosa è gradito a Dio
+Sir_36,795,Sir,28,36,en,A Prayer for God’s People
+Sir_36,795,Sir,28,36,it,Preghiera per la salvezza d'Israele
+Sir_37,796,Sir,28,37,en,Wisdom and Temperance
+Sir_37,796,Sir,28,37,it,Gli amici e i consiglieri
+Sir_38,797,Sir,28,38,en,Sickness and Death
+Sir_38,797,Sir,28,38,it,Il medico e la medicina
+Sir_39,798,Sir,28,39,en,Praise of God the Creator
+Sir_39,798,Sir,28,39,it,Elogio di chi si applica allo studio della legge del Signore
+Sir_40,799,Sir,28,40,en,Joys and Miseries of Life
+Sir_40,799,Sir,28,40,it,La misera condizione dell'uomo
+Sir_41,800,Sir,28,41,en,True and False Shame
+Sir_41,800,Sir,28,41,it,La morte
+Sir_42,801,Sir,28,42,en,A Father’s Care for His Daughter
+Sir_42,801,Sir,28,42,it,Azioni di cui ci si può vantare
+Sir_43,802,Sir,28,43,en,The wonders of God in creation: the sun
+Sir_43,802,Sir,28,43,it,Le meraviglie di Dio nel creato: il sole
+Sir_44,803,Sir,28,44,en,Praise of Israel’s Great Ancestors
+Sir_44,803,Sir,28,44,it,La sapienza di Dio nella storia d'israele
+Sir_45,804,Sir,28,45,en,"Praise of Moses, Aaron, and Phinehas"
+Sir_45,804,Sir,28,45,it,Aronne
+Sir_46,805,Sir,28,46,en,"Joshua, Caleb, the Judges, and Samuel"
+Sir_46,805,Sir,28,46,it,Giosuè e Caleb
+Sir_47,806,Sir,28,47,en,"Nathan, David, and Solomon"
+Sir_47,806,Sir,28,47,it,Natan e Davide
+Sir_48,807,Sir,28,48,en,Judah
+Sir_48,807,Sir,28,48,it,Elia
+Sir_49,808,Sir,28,49,en,Josiah and the Prophets
+Sir_49,808,Sir,28,49,it,Giosia e Geremia
+Sir_50,809,Sir,28,50,en,"Simeon, Son of Jochanan"
+Sir_50,809,Sir,28,50,it,Il sommo sacerdote Simone
+Sir_51,810,Sir,28,51,en,A Prayer of Thanksgiving
+Sir_51,810,Sir,28,51,it,Preghiera di Gesù figlio di sira
+Is_1,811,Is,29,1,en,Accusation and Appeal
+Is_1,811,Is,29,1,it,Prima parte del libro di isaia
+Is_2,812,Is,29,2,en,"Zion, the Royal City of God"
+Is_2,812,Is,29,2,it,La pace universale alla fine dei giorni
+Is_3,813,Is,29,3,en,Judgment on Jerusalem and Judah
+Is_3,813,Is,29,3,it,Confusione politica e sociale a Gerusalemme
+Is_4,814,Is,29,4,en,Jerusalem Purified
+Is_4,814,Is,29,4,it,Il germoglio del Signore
+Is_5,815,Is,29,5,en,The Song of the Vineyard
+Is_5,815,Is,29,5,it,"Israele, la vigna del Signore"
+Is_6,816,Is,29,6,en,The Sending of Isaiah.
+Is_6,816,Is,29,6,it,Investitura e missione di Isaia
+Is_7,817,Is,29,7,en,Crisis in Judah.
+Is_7,817,Is,29,7,it,Invito a confidare nel Signore
+Is_8,818,Is,29,8,en,A Son of Isaiah.
+Is_8,818,Is,29,8,it,Nasce un figlio dal nome simbolico
+Is_9,819,Is,29,9,en,Judgment on the Northern Kingdom
+Is_9,819,Is,29,9,it,Castigo subìto dal regno d'Israele
+Is_10,820,Is,29,10,en,Perversion of Justice
+Is_10,820,Is,29,10,it,Contro l'orgoglio dell'Assiria
+Is_11,821,Is,29,11,en,The Ideal Davidic King
+Is_11,821,Is,29,11,it,Il Messia re di pace
+Is_12,822,Is,29,12,en,Song of Thanksgiving
+Is_12,822,Is,29,12,it,Canto di ringraziamento e di lode
+Is_13,823,Is,29,13,en,Babylon.
+Is_13,823,Is,29,13,it,Oracoli contro le nazioni
+Is_14,824,Is,29,14,en,Restoration of Israel.
+Is_14,824,Is,29,14,it,Liberazione di Israele dalla schiavitù babilonese e canto sul re di Babilonia
+Is_15,825,Is,29,15,en,Moab
+Is_15,825,Is,29,15,it,Distruzione di Moab
+Is_16,826,Is,29,16,en,Appeal to Judas
+Is_16,826,Is,29,16,it,La richiesta dei Moabiti
+Is_17,827,Is,29,17,en,Damascus
+Is_17,827,Is,29,17,it,Parole di condanna per il regno di Damasco e il regno settentrionale d'Israele
+Is_18,828,Is,29,18,en,Ethiopia
+Is_18,828,Is,29,18,it,Oracolo contro l'Etiopia
+Is_19,829,Is,29,19,en,Egypt
+Is_19,829,Is,29,19,it,Condanna dell'Egitto
+Is_20,830,Is,29,20,en,Isaiah’s Warning Against Trust in Egypt and Ethiopia.
+Is_20,830,Is,29,20,it,Un gesto di Isaia spiega la sorte dell'Egitto
+Is_21,831,Is,29,21,en,Fall of Babylon
+Is_21,831,Is,29,21,it,Caduta di Babilonia
+Is_22,832,Is,29,22,en,The Valley of Vision
+Is_22,832,Is,29,22,it,Distruzione di Gerusalemme che non si è convertita
+Is_23,833,Is,29,23,en,Tyre and Sidon
+Is_23,833,Is,29,23,it,Oracolo contro la città di Tito
+Is_24,834,Is,29,24,en,Judgment upon the World and the Lord’s Enthronement on Mount Zion
+Is_24,834,Is,29,24,it,Giudizio contro la citta' del nulla e restaurazione d'israele
+Is_25,835,Is,29,25,en,Praise for God’s Deliverance and the Celebration in Zion
+Is_25,835,Is,29,25,it,Inno di lode per la liberazione dei miseri
+Is_26,836,Is,29,26,en,Judah’s Praise and Prayer for Deliverance.
+Is_26,836,Is,29,26,it,Canto di ringraziamento per la salvezza donata da Dio
+Is_27,837,Is,29,27,en,The Judgment and Deliverance of Israel
+Is_27,837,Is,29,27,it,Futuro di salvezza per Israele
+Is_28,838,Is,29,28,en,The Fate of Samaria
+Is_28,838,Is,29,28,it,Oracoli su israele e giuda
+Is_29,839,Is,29,29,en,Judgment and Deliverance of Jerusalem
+Is_29,839,Is,29,29,it,Assedio e liberazione di Gerusalemme
+Is_30,840,Is,29,30,en,Oracle on the Futility of an Alliance with Egypt
+Is_30,840,Is,29,30,it,Contro la politica di alleanze militari
+Is_31,841,Is,29,31,en,Against the Egyptian Alliance
+Is_31,841,Is,29,31,it,Dio proteggerà Sion
+Is_32,842,Is,29,32,en,The Kingdom of Justice
+Is_32,842,Is,29,32,it,Un re Giusto
+Is_33,843,Is,29,33,en,Overthrow of Assyria
+Is_33,843,Is,29,33,it,Intervento di Dio contro i nemici d'Israele
+Is_34,844,Is,29,34,en,Judgment upon Edom
+Is_34,844,Is,29,34,it,Liberazione di sion e distruzione di edom
+Is_35,845,Is,29,35,en,Israel’s Deliverance
+Is_35,845,Is,29,35,it,Gloria di Gerusalemme
+Is_36,846,Is,29,36,en,Invasion of Sennacherib.
+Is_36,846,Is,29,36,it,Liberazione di gerusalemme dagli eserciti nemici
+Is_37,847,Is,29,37,en,Second Assyrian embassy and new answer of the prophet
+Is_37,847,Is,29,37,it,Seconda ambasciata assira e nuova risposta del profeta
+Is_38,848,Is,29,38,en,Sickness and Recovery of Hezekiah.
+Is_38,848,Is,29,38,it,Malattia e guarigione di Ezechia
+Is_39,849,Is,29,39,en,Embassy from Merodach-baladan.
+Is_39,849,Is,29,39,it,Visita degli ambasciatori babilonesi
+Is_40,850,Is,29,40,en,Promise of Salvation
+Is_40,850,Is,29,40,it,Seconda parte del libro di isaia
+Is_41,851,Is,29,41,en,The Liberator of Israel
+Is_41,851,Is,29,41,it,Dio suscita il liberatore
+Is_42,852,Is,29,42,en,The Servant of the Lord
+Is_42,852,Is,29,42,it,Primo canto del servo
+Is_43,853,Is,29,43,en,Promises of Redemption and Restoration
+Is_43,853,Is,29,43,it,L'amore di Dio fa ritornare Israele
+Is_44,854,Is,29,44,en,The True God and False Gods
+Is_44,854,Is,29,44,it,Benedizione d'Israele
+Is_45,855,Is,29,45,en,Victory of Cyrus
+Is_45,855,Is,29,45,it,Vittoria di Ciro
+Is_46,856,Is,29,46,en,The Gods of Babylon
+Is_46,856,Is,29,46,it,Rovina degli dèi e intervento del Signore
+Is_47,857,Is,29,47,en,The Fall of Babylon
+Is_47,857,Is,29,47,it,Fine di Babilonia
+Is_48,858,Is,29,48,en,Exhortations to the Exiles
+Is_48,858,Is,29,48,it,Dio realizza ciò che annuncia
+Is_49,859,Is,29,49,en,The Servant of the Lord
+Is_49,859,Is,29,49,it,Salvezza di sion
+Is_50,860,Is,29,50,en,Salvation Through the Lord’s Servant
+Is_50,860,Is,29,50,it,Dio non ha ripudiato Israele
+Is_51,861,Is,29,51,en,Exhortation to Trust in the Lord
+Is_51,861,Is,29,51,it,La salvezza divina dura per sempre
+Is_52,862,Is,29,52,en,Let Zion Rejoice
+Is_52,862,Is,29,52,it,Il Signore regna in Sion
+Is_53,863,Is,29,53,en,Fourth song of the Servant of the Lord
+Is_53,863,Is,29,53,it,Quarto canto del servo del Signore
+Is_54,864,Is,29,54,en,The New Zion
+Is_54,864,Is,29,54,it,"Gerusalemme, sposa del Signore"
+Is_55,865,Is,29,55,en,An Invitation to Grace
+Is_55,865,Is,29,55,it,Invito al banchetto della vita
+Is_56,866,Is,29,56,en,Salvation for the Just
+Is_56,866,Is,29,56,it,Terza parte del libro di isaia
+Is_57,867,Is,29,57,en,An Idolatrous People
+Is_57,867,Is,29,57,it,Contro gli idolatri
+Is_58,868,Is,29,58,en,Reasons for Judgment
+Is_58,868,Is,29,58,it,Il digiuno e il sabato
+Is_59,869,Is,29,59,en,Salvation Delayed
+Is_59,869,Is,29,59,it,Peccato e penitenza
+Is_60,870,Is,29,60,en,The Dawning of Divine Glory for Zion
+Is_60,870,Is,29,60,it,Gloria di gerusalemme
+Is_61,871,Is,29,61,en,The Anointed Bearer of Glad Tidings
+Is_61,871,Is,29,61,it,Missione del profeta
+Is_62,872,Is,29,62,en,A New Name for Zion
+Is_62,872,Is,29,62,it,Gerusalemme amata dal Signore
+Is_63,873,Is,29,63,en,The Divine Warrior
+Is_63,873,Is,29,63,it,"Giudizio per i ribelli, salvezza per i servi fedeli"
+Is_64,874,Is,29,64,en,A Final Plea
+Is_64,874,Is,29,64,it,Maledizione sulla storia di Israele
+Is_65,875,Is,29,65,en,Fate of the Just and Unjust in Israel
+Is_65,875,Is,29,65,it,"Castigo degli idolatri, salvezza dei servi del Signore"
+Is_66,876,Is,29,66,en,God Gathers the Nations.
+Is_66,876,Is,29,66,it,Sul tempio e sul culto
+Ger_1,877,Ger,30,1,en,Call of Jeremiah
+Ger_1,877,Ger,30,1,it,Titolo dell'opera e vocazione di geremia
+Ger_2,878,Ger,30,2,en,Infidelity of Israel.
+Ger_2,878,Ger,30,2,it,Oracoli al tempo di giosia
+Ger_3,879,Ger,30,3,en,Judah and Israel.
+Ger_3,879,Ger,30,3,it,Conversione e ritorno
+Ger_4,880,Ger,30,4,en,The Invasion from the North
+Ger_4,880,Ger,30,4,it,L'invasione del nemico dal settentrione
+Ger_5,881,Ger,30,5,en,Universal Corruption
+Ger_5,881,Ger,30,5,it,Il peccato d'Israele rende inevitabile la punizione
+Ger_6,882,Ger,30,6,en,The Enemy at the Gates
+Ger_6,882,Ger,30,6,it,Assedio di Gerusalemme
+Ger_7,883,Ger,30,7,en,The Temple Sermon.
+Ger_7,883,Ger,30,7,it,Oracoli al tempo di ioiakim
+Ger_8,884,Ger,30,8,en,Israel’s Conduct Incomprehensible
+Ger_8,884,Ger,30,8,it,Rifiuto della conversione
+Ger_9,885,Ger,30,9,en,False Circumcision.
+Ger_9,885,Ger,30,9,it,Israele vive nell'inganno
+Ger_10,886,Ger,30,10,en,The Folly of Idolatry.
+Ger_10,886,Ger,30,10,it,Gli idoli e il Signore
+Ger_11,887,Ger,30,11,en,Plea for Fidelity to the Covenant.
+Ger_11,887,Ger,30,11,it,L'alleanza
+Ger_12,888,Ger,30,12,en,Judah’s Neighbors.
+Ger_12,888,Ger,30,12,it,Devastazione d'Israele
+Ger_13,889,Ger,30,13,en,Judah’s Corruption.
+Ger_13,889,Ger,30,13,it,Gesto simbolico: la cintura
+Ger_14,890,Ger,30,14,en,The Great Drought.
+Ger_14,890,Ger,30,14,it,La grande siccità
+Ger_15,891,Ger,30,15,en,Scene of Tragedy
+Ger_15,891,Ger,30,15,it,Lamento di Geremia
+Ger_16,892,Ger,30,16,en,Jeremiah’s Life a Warning.
+Ger_16,892,Ger,30,16,it,Celibato di Geremia
+Ger_17,893,Ger,30,17,en,Observance of the Sabbath.
+Ger_17,893,Ger,30,17,it,Peccato di Giuda e riflessione sapienziale
+Ger_18,894,Ger,30,18,en,The Potter’s Vessel.
+Ger_18,894,Ger,30,18,it,Geremia presso il vasaio
+Ger_19,895,Ger,30,19,en,Symbol of the Potter’s Flask.
+Ger_19,895,Ger,30,19,it,Gesto simbolico: la brocca spezzata
+Ger_20,896,Ger,30,20,en,Jeremiah’s Interior Crisis
+Ger_20,896,Ger,30,20,it,Geremia sedotto dal Signore
+Ger_21,897,Ger,30,21,en,Fate of Zedekiah and Jerusalem.
+Ger_21,897,Ger,30,21,it,Oracoli al tempo di sedecia
+Ger_22,898,Ger,30,22,en,Jehoahaz
+Ger_22,898,Ger,30,22,it,Appello generale alla casa reale
+Ger_23,899,Ger,30,23,en,A Just Shepherd.
+Ger_23,899,Ger,30,23,it,Il germoglio giusto
+Ger_24,900,Ger,30,24,en,The Two Baskets of Figs.
+Ger_24,900,Ger,30,24,it,Visione dei fichi
+Ger_25,901,Ger,30,25,en,Seventy Years of Exile.
+Ger_25,901,Ger,30,25,it,Annuncio dell'esilio
+Ger_26,902,Ger,30,26,en,Jeremiah Threatened with Death.
+Ger_26,902,Ger,30,26,it,Vicende di geremia negli ultimi anni del regno
+Ger_27,903,Ger,30,27,en,Serve Babylon or Perish.
+Ger_27,903,Ger,30,27,it,Gesto simbolico: il giogo
+Ger_28,904,Ger,30,28,en,The Two Yokes.
+Ger_28,904,Ger,30,28,it,Geremia disputa con Anania
+Ger_29,905,Ger,30,29,en,Letter to the Exiles in Babylon.
+Ger_29,905,Ger,30,29,it,Lettera agli esiliati in Babilonia
+Ger_30,906,Ger,30,30,en,The Restoration.
+Ger_30,906,Ger,30,30,it,Libro della consolazione
+Ger_31,907,Ger,30,31,en,The New Covenant.
+Ger_31,907,Ger,30,31,it,Restaurazione promessa a Israele
+Ger_32,908,Ger,30,32,en,Pledge of Restoration.
+Ger_32,908,Ger,30,32,it,Gesto simbolico: l'acquisto di un campo
+Ger_33,909,Ger,30,33,en,Restoration of Jerusalem.
+Ger_33,909,Ger,30,33,it,Promessa di restaurazione
+Ger_34,910,Ger,30,34,en,Fate of Zedekiah.
+Ger_34,910,Ger,30,34,it,Sorte del re Sedecìa
+Ger_35,911,Ger,30,35,en,The Faithful Rechabites.
+Ger_35,911,Ger,30,35,it,Fedeltà dei Recabiti
+Ger_36,912,Ger,30,36,en,"Baruch, the Scribe of Jeremiah."
+Ger_36,912,Ger,30,36,it,Ioiakìm brucia il rotolo delle profezie di Geremia
+Ger_37,913,Ger,30,37,en,Jeremiah in the Dungeon.
+Ger_37,913,Ger,30,37,it,Sedecìa consulta Geremia
+Ger_38,914,Ger,30,38,en,Jeremiah in the Muddy Cistern.
+Ger_38,914,Ger,30,38,it,Geremia nella cisterna
+Ger_39,915,Ger,30,39,en,The Capture of Jerusalem.
+Ger_39,915,Ger,30,39,it,Presa di Gerusalemme
+Ger_40,916,Ger,30,40,en,Jeremiah Still in Judah.
+Ger_40,916,Ger,30,40,it,Riorganizzazione dei Giudei rimasti nel paese
+Ger_41,917,Ger,30,41,en,Flight to Egypt.
+Ger_41,917,Ger,30,41,it,Fuga in Egitto
+Ger_42,918,Ger,30,42,en,The flight into Egypt
+Ger_42,918,Ger,30,42,it,La fuga in Egitto
+Ger_43,919,Ger,30,43,en,Jeremiah in Egypt.
+Ger_43,919,Ger,30,43,it,Nabucodònosor invaderà l'Egitto
+Ger_44,920,Ger,30,44,en,Jeremiah's dispute with the Jews in Egypt
+Ger_44,920,Ger,30,44,it,Disputa di Geremia con i Giudei in Egitto
+Ger_45,921,Ger,30,45,en,A Message to Baruch.
+Ger_45,921,Ger,30,45,it,Promessa per Baruc
+Ger_46,922,Ger,30,46,en,Against Egypt.
+Ger_46,922,Ger,30,46,it,Oracoli contro le nazioni
+Ger_47,923,Ger,30,47,en,Against the Philistines.
+Ger_47,923,Ger,30,47,it,Contro i Filistei
+Ger_48,924,Ger,30,48,en,Against Moab.
+Ger_48,924,Ger,30,48,it,Contro Moab
+Ger_49,925,Ger,30,49,en,Against the Ammonites.
+Ger_49,925,Ger,30,49,it,Contro Ammon
+Ger_50,926,Ger,30,50,en,The First Oracle Against Babylon.
+Ger_50,926,Ger,30,50,it,Contro Babilonia
+Ger_51,927,Ger,30,51,en,The Prophecy Sent to Babylon.
+Ger_51,927,Ger,30,51,it,Gesto simbolico: la fine di Babilonia
+Ger_52,928,Ger,30,52,en,Capture of Jerusalem.
+Ger_52,928,Ger,30,52,it,Appendice
+Lam_1,929,Lam,31,1,en,The Desolation of Jerusalem
+Lam_1,929,Lam,31,1,it,Prima lamentazione: nessuno consola Gerusalemme
+Lam_2,930,Lam,31,2,en,The Lord’s Wrath and Zion’s Ruin
+Lam_2,930,Lam,31,2,it,Seconda lamentazione: il giorno dell'ira divina
+Lam_3,931,Lam,31,3,en,The Voice of a Suffering Individual
+Lam_3,931,Lam,31,3,it,Terza lamentazione: meditazione sulla sofferenza
+Lam_4,932,Lam,31,4,en,Miseries of the Besieged City
+Lam_4,932,Lam,31,4,it,Quarta lamentazione: il peccato del popolo
+Lam_5,933,Lam,31,5,en,The Community’s Lament to the Lord
+Lam_5,933,Lam,31,5,it,Quinta lamentazione: implorazione a Dio
+Bar_1,934,Bar,32,1,en,Historical Setting
+Bar_1,934,Bar,32,1,it,Prologo storico
+Bar_2,935,Bar,32,2,en,God’s Promises Recalled.
+Bar_2,935,Bar,32,2,it,Supplica al Signore
+Bar_3,936,Bar,32,3,en,Importance of Wisdom
+Bar_3,936,Bar,32,3,it,Inno alla sapienza
+Bar_4,937,Bar,32,4,en,Baruch Addresses Diaspora
+Bar_4,937,Bar,32,4,it,Omelia profetica di consolazione
+Bar_5,938,Bar,32,5,en,Laments and hopes of Jerusalem
+Bar_5,938,Bar,32,5,it,Lamenti e speranze di Gerusalemme
+Bar_6,939,Bar,32,6,en,Letter of Jeremiah
+Bar_6,939,Bar,32,6,it,Lettera di Geremia
+Ez_1,940,Ez,33,1,en,The Vision: God on the Cherubim
+Ez_1,940,Ez,33,1,it,Visioni introduttive
+Ez_2,941,Ez,33,2,en,Eating of the Scroll
+Ez_2,941,Ez,33,2,it,Visione del libro: la chiamata di Ezechiele
+Ez_3,942,Ez,33,3,en,The Prophet as Sentinel
+Ez_3,942,Ez,33,3,it,Missione del profeta
+Ez_4,943,Ez,33,4,en,Acts Symbolic of Siege and Exile
+Ez_4,943,Ez,33,4,it,Oracoli contro giuda e gerusalemme
+Ez_5,944,Ez,33,5,en,Announcement of the siege of Jerusalem
+Ez_5,944,Ez,33,5,it,Annunzio dell'assedio di Gerusalemme
+Ez_6,945,Ez,33,6,en,Against the Mountains of Israel
+Ez_6,945,Ez,33,6,it,Contro i monti d'Israele
+Ez_7,946,Ez,33,7,en,The End Has Come
+Ez_7,946,Ez,33,7,it,Annuncio della fine d'Israele
+Ez_8,947,Ez,33,8,en,Vision of Abominations in the Temple
+Ez_8,947,Ez,33,8,it,Visione del tempio profanato dall'idolatria
+Ez_9,948,Ez,33,9,en,Slaughter of the Idolaters
+Ez_9,948,Ez,33,9,it,Punizione di Gerusalemme
+Ez_10,949,Ez,33,10,en,The glory of God leaves the temple
+Ez_10,949,Ez,33,10,it,La gloria di Dio esce dal tempio
+Ez_11,950,Ez,33,11,en,Death for the Remnant in Jerusalem
+Ez_11,950,Ez,33,11,it,Contro i capi del popolo a Gerusalemme
+Ez_12,951,Ez,33,12,en,Acts Symbolic of the Exile
+Ez_12,951,Ez,33,12,it,Gesto simbolico sulla sorte del re
+Ez_13,952,Ez,33,13,en,Against the Prophets of Peace
+Ez_13,952,Ez,33,13,it,Contro i falsi profeti
+Ez_14,953,Ez,33,14,en,Idolatry and Unfaithfulness
+Ez_14,953,Ez,33,14,it,Contro l'idolatria
+Ez_15,954,Ez,33,15,en,Parable of the Vine
+Ez_15,954,Ez,33,15,it,Parabola della vite
+Ez_16,955,Ez,33,16,en,A Parable of Infidelity
+Ez_16,955,Ez,33,16,it,Gerusalemme sposa infedele
+Ez_17,956,Ez,33,17,en,The Eagles and the Vine
+Ez_17,956,Ez,33,17,it,"Parabola dell'aquila, del cedro e della vite"
+Ez_18,957,Ez,33,18,en,Personal Responsibility
+Ez_18,957,Ez,33,18,it,"Giustizia di Dio, responsabilità degli uomini"
+Ez_19,958,Ez,33,19,en,The Concluding Lamentation
+Ez_19,958,Ez,33,19,it,Lamento sugli ultimi re di Giuda
+Ez_20,959,Ez,33,20,en,Israel’s History of Infidelity
+Ez_20,959,Ez,33,20,it,Rievocazione della storia d'Israele
+Ez_21,960,Ez,33,21,en,The Sword of the Lord
+Ez_21,960,Ez,33,21,it,La spada del Signore
+Ez_22,961,Ez,33,22,en,Crimes of Jerusalem
+Ez_22,961,Ez,33,22,it,Delitti di Gerusalemme
+Ez_23,962,Ez,33,23,en,The Two Sisters
+Ez_23,962,Ez,33,23,it,Storia di Samaria e Gerusalemme
+Ez_24,963,Ez,33,24,en,Allegory of the Pot
+Ez_24,963,Ez,33,24,it,Parabola della pentola
+Ez_25,964,Ez,33,25,en,Against Ammon
+Ez_25,964,Ez,33,25,it,Oracoli contro le nazioni
+Ez_26,965,Ez,33,26,en,Against the City of Tyre
+Ez_26,965,Ez,33,26,it,Contro Tito
+Ez_27,966,Ez,33,27,en,The Ship Tyre
+Ez_27,966,Ez,33,27,it,Lamento per la rovina di Tiro
+Ez_28,967,Ez,33,28,en,The Prince of Tyre
+Ez_28,967,Ez,33,28,it,Contro il re di Tiro
+Ez_29,968,Ez,33,29,en,Egypt the Crocodile
+Ez_29,968,Ez,33,29,it,Contro l'Egitto
+Ez_30,969,Ez,33,30,en,The Day of the Lord Against Egypt
+Ez_30,969,Ez,33,30,it,Rovina dell'Egitto nel giorno del Signore
+Ez_31,970,Ez,33,31,en,Allegory of the Cedar
+Ez_31,970,Ez,33,31,it,Parabola del cedro
+Ez_32,971,Ez,33,32,en,Lament over Pharaoh
+Ez_32,971,Ez,33,32,it,Lamento sul faraone re d'Egitto
+Ez_33,972,Ez,33,33,en,The Prophet as Sentinel
+Ez_33,972,Ez,33,33,it,Oracoli di consolazione e salvezza
+Ez_34,973,Ez,33,34,en,Parable of the Shepherds
+Ez_34,973,Ez,33,34,it,Dio farà sorgere un pastore fedele
+Ez_35,974,Ez,33,35,en,Against Edom
+Ez_35,974,Ez,33,35,it,Oracolo di condanna per il monte Seir
+Ez_36,975,Ez,33,36,en,Regeneration of the Land
+Ez_36,975,Ez,33,36,it,Oracolo di salvezza per i monti d'Israele
+Ez_37,976,Ez,33,37,en,Vision of the Dry Bones
+Ez_37,976,Ez,33,37,it,Visione delle ossa aride
+Ez_38,977,Ez,33,38,en,First Prophecy Against Gog
+Ez_38,977,Ez,33,38,it,Contro Gog
+Ez_39,978,Ez,33,39,en,Third Prophecy Against Gog
+Ez_39,978,Ez,33,39,it,Disfatta dell'armata di Gog
+Ez_40,979,Ez,33,40,en,The Man with a Measure
+Ez_40,979,Ez,33,40,it,Visione del nuovo tempio e della nuova terra
+Ez_41,980,Ez,33,41,en,Interior of the Temple
+Ez_41,980,Ez,33,41,it,Il Santo
+Ez_42,981,Ez,33,42,en,Other Structures
+Ez_42,981,Ez,33,42,it,Descrizione dei fabbricati accessori
+Ez_43,982,Ez,33,43,en,The Glory of the Lord Returns
+Ez_43,982,Ez,33,43,it,Ritorno della gloria del Signore
+Ez_44,983,Ez,33,44,en,The Closed Gate
+Ez_44,983,Ez,33,44,it,Norme per l'accesso al santuario: compiti dei leviti
+Ez_45,984,Ez,33,45,en,The Holy Portion
+Ez_45,984,Ez,33,45,it,Territorio riservato al santuario e al suo personale
+Ez_46,985,Ez,33,46,en,Sabbaths
+Ez_46,985,Ez,33,46,it,Doveri cultuali del principe
+Ez_47,986,Ez,33,47,en,The Wonderful Stream
+Ez_47,986,Ez,33,47,it,Il fiume che sgorga dal tempio
+Ez_48,987,Ez,33,48,en,The Sacred Tract
+Ez_48,987,Ez,33,48,it,Gerusalemme e le sue porte
+Dan_1,988,Dan,34,1,en,The Food Test
+Dan_1,988,Dan,34,1,it,Daniele e i giovani ebrei alla corte del re
+Dan_2,989,Dan,34,2,en,Nebuchadnezzar’s Dream
+Dan_2,989,Dan,34,2,it,Sogno di Nabucodònosor
+Dan_3,990,Dan,34,3,en,The Fiery Furnace
+Dan_3,990,Dan,34,3,it,La statua d'oro
+Dan_4,991,Dan,34,4,en,Nebuchadnezzar’s Madness
+Dan_4,991,Dan,34,4,it,Nabucodonosor racconta il suo sogno
+Dan_5,992,Dan,34,5,en,The Writing on the Wall
+Dan_5,992,Dan,34,5,it,Il banchetto di Baldassàr
+Dan_6,993,Dan,34,6,en,The Lions’ Den
+Dan_6,993,Dan,34,6,it,Daniele nella fossa dei leoni
+Dan_7,994,Dan,34,7,en,The Beasts and the Judgment
+Dan_7,994,Dan,34,7,it,Visioni di daniele
+Dan_8,995,Dan,34,8,en,The Ram and the He-goat
+Dan_8,995,Dan,34,8,it,La visione dell'ariete e del capro
+Dan_9,996,Dan,34,9,en,The Seventy Weeks of Years
+Dan_9,996,Dan,34,9,it,Interpretazione della profezia di Geremia circa i settant'anni
+Dan_10,997,Dan,34,10,en,An Angelic Vision
+Dan_10,997,Dan,34,10,it,La grande visione
+Dan_11,998,Dan,34,11,en,The Hellenistic Age
+Dan_11,998,Dan,34,11,it,Prime guerre tra Seleucidi e Lagidi
+Dan_12,999,Dan,34,12,en,The Time of the End
+Dan_12,999,Dan,34,12,it,La risurrezione finale
+Dan_13,1000,Dan,34,13,en,Susanna
+Dan_13,1000,Dan,34,13,it,"Susanna, bel e il drago"
+Dan_14,1001,Dan,34,14,en,Bel and the Dragon
+Dan_14,1001,Dan,34,14,it,Daniele e i sacerdoti di Bel
+Os_1,1002,Os,35,1,en,Marriage of Hosea and Gomer.
+Os_1,1002,Os,35,1,it,Il matrimonio di osea e la relazione fra Dio e il suo popolo
+Os_2,1003,Os,35,2,en,The Lord and Israel His Spouse
+Os_2,1003,Os,35,2,it,Salvezza futura
+Os_3,1004,Os,35,3,en,Hosea and His Wife Reunited.
+Os_3,1004,Os,35,3,it,Nuovo matrimonio di Osea
+Os_4,1005,Os,35,4,en,Indictment of Israel
+Os_4,1005,Os,35,4,it,"Oracoli rivolti ai sacerdoti, ai capi e al popolo"
+Os_5,1006,Os,35,5,en,Guilt of the Religious and Political Leaders
+Os_5,1006,Os,35,5,it,"Contro sacerdoti, notabili e re"
+Os_6,1007,Os,35,6,en,Further Crimes of Israel
+Os_6,1007,Os,35,6,it,Incapacità di ritornare al Signore
+Os_7,1008,Os,35,7,en,Israel’s Domestic Politics
+Os_7,1008,Os,35,7,it,Corruzione politica e alleanze internazionali
+Os_8,1009,Os,35,8,en,"Corruption of Cult, Domestic and Foreign Politics"
+Os_8,1009,Os,35,8,it,Trasgressione dell'alleanza
+Os_9,1010,Os,35,9,en,From Days of Celebration to Days of Punishment
+Os_9,1010,Os,35,9,it,Castighi ed esilio
+Os_10,1011,Os,35,10,en,Destruction of Idolatrous Cultic Objects
+Os_10,1011,Os,35,10,it,Diffusione dell'idolatria e caduta del regno
+Os_11,1012,Os,35,11,en,The Disappointment of a Parent
+Os_11,1012,Os,35,11,it,L'amore di Dio
+Os_12,1013,Os,35,12,en,Infidelity of Israel
+Os_12,1013,Os,35,12,it,Storia di Giacobbe e colpe d'Israele
+Os_13,1014,Os,35,13,en,The Death of Ephraim
+Os_13,1014,Os,35,13,it,La fine di Efraim
+Os_14,1015,Os,35,14,en,Sincere Conversion and New Life
+Os_14,1015,Os,35,14,it,Invito alla conversione e promessa di salvezza
+Gioe_1,1016,Gioe,36,1,en,Cry Out to the Lord
+Gioe_1,1016,Gioe,36,1,it,"Lamento per una catastrofe, penitenza e risposta del signore"
+Gioe_2,1017,Gioe,36,2,en,The Lord Relents.
+Gioe_2,1017,Gioe,36,2,it,Il giorno del Signore
+Gioe_3,1018,Gioe,36,3,en,The Day of the Lord
+Gioe_3,1018,Gioe,36,3,it,Il giorno del signore e la restaurazione d'israele
+Gioe_4,1019,Gioe,36,4,en,The Lord’s Case Against the Nations
+Gioe_4,1019,Gioe,36,4,it,Il giudizio sulle nazioni
+Am_1,1020,Am,37,1,en,Aram
+Am_1,1020,Am,37,1,it,Oracoli contro le nazioni
+Am_2,1021,Am,37,2,en,Moab
+Am_2,1021,Am,37,2,it,Contro Moab
+Am_3,1022,Am,37,3,en,First Summons
+Am_3,1022,Am,37,3,it,Oracoli contro israele
+Am_4,1023,Am,37,4,en,Second Summons
+Am_4,1023,Am,37,4,it,Contro le donne e il culto sacrilego
+Am_5,1024,Am,37,5,en,Third Summons
+Am_5,1024,Am,37,5,it,Lamento e invito a cercare il Signore
+Am_6,1025,Am,37,6,en,Third Woe
+Am_6,1025,Am,37,6,it,Lusso e corruzione portano alla catastrofe
+Am_7,1026,Am,37,7,en,First Vision: The Locust Swarm
+Am_7,1026,Am,37,7,it,Le visioni
+Am_8,1027,Am,37,8,en,Fourth Vision: The Summer Fruit
+Am_8,1027,Am,37,8,it,Quarta visione
+Am_9,1028,Am,37,9,en,Fifth Vision: The Destruction of the Sanctuary
+Am_9,1028,Am,37,9,it,Quinta visione
+Abd_1,1029,Abd,38,1,en,Edom’s Fall Decreed
+Abd_1,1029,Abd,38,1,it,Oracolo contro edom
+Gion_1,1030,Gion,39,1,en,Jonah’s Disobedience and Flight
+Gion_1,1030,Gion,39,1,it,Missione di Giona e suo rifiuto
+Gion_2,1031,Gion,39,2,en,Jonah’s Prayer
+Gion_2,1031,Gion,39,2,it,Preghiera di Giona
+Gion_3,1032,Gion,39,3,en,Jonah’s Obedience and the Ninevites’ Repentance
+Gion_3,1032,Gion,39,3,it,Predicazione a Ninive e conversione dei suoi abitanti
+Gion_4,1033,Gion,39,4,en,Jonah’s Anger and God’s Reproof
+Gion_4,1033,Gion,39,4,it,Ira di Giona e misericordia di Dio
+Mich_1,1034,Mich,40,1,en,Samaria Doomed
+Mich_1,1034,Mich,40,1,it,Il peccato della casa di giacobbe e dei suoi capi
+Mich_2,1035,Mich,40,2,en,Brutality of the Rulers
+Mich_2,1035,Mich,40,2,it,Avidità e ingiustizia
+Mich_3,1036,Mich,40,3,en,Brutality of the Rulers
+Mich_3,1036,Mich,40,3,it,Contro i capi e i falsi profeti
+Mich_4,1037,Mich,40,4,en,Prophecy of the Millennial Kingdom
+Mich_4,1037,Mich,40,4,it,La restaurazione di sion e il messia
+Mich_5,1038,Mich,40,5,en,Prophecy of Christ’s Birth
+Mich_5,1038,Mich,40,5,it,Annuncio della nascita del dominatore a Betlemme
+Mich_6,1039,Mich,40,6,en,Jehovah’s Controversy with His People
+Mich_6,1039,Mich,40,6,it,Denuncia dell'ingiustizia e della corruzione generale
+Mich_7,1040,Mich,40,7,en,"Desolation, But God Will Triumph"
+Mich_7,1040,Mich,40,7,it,Corruzione generale
+Naum_1,1041,Naum,41,1,en,God’s Terrifying Appearance
+Naum_1,1041,Naum,41,1,it,Introduzione e inno a Dio giudice
+Naum_2,1042,Naum,41,2,en,The Attack on Nineveh
+Naum_2,1042,Naum,41,2,it,Oracoli contro ninive
+Naum_3,1043,Naum,41,3,en,Nineveh’s Inescapable Fate
+Naum_3,1043,Naum,41,3,it,Colpe e castigo di Ninive
+Abac_1,1044,Abac,42,1,en,Habakkuk’s First Complaint
+Abac_1,1044,Abac,42,1,it,Dialogo tra abacuc e il signore
+Abac_2,1045,Abac,42,2,en,God’s Response
+Abac_2,1045,Abac,42,2,it,Risposta definitiva del Signore: il giusto vivrà per la sua fede
+Abac_3,1046,Abac,42,3,en,Hymn About God’s Reign
+Abac_3,1046,Abac,42,3,it,Preghiera di abacuc
+Sof_1,1047,Sof,43,1,en,I. The Day of the Lord: Judgment on Judah
+Sof_1,1047,Sof,43,1,it,Il giorno del signore
+Sof_2,1048,Sof,43,2,en,II. Judgment on the Nations
+Sof_2,1048,Sof,43,2,it,Oracoli contro le nazioni e gerusalemme
+Sof_3,1049,Sof,43,3,en,III. Jerusalem Reproached
+Sof_3,1049,Sof,43,3,it,Contro Gerusalemme
+Agg_1,1050,Agg,44,1,en,Prophetic Call to Work on the Temple
+Agg_1,1050,Agg,44,1,it,Titolo
+Agg_2,1051,Agg,44,2,en,Assurance of God’s Presence
+Agg_2,1051,Agg,44,2,it,Gloria del nuovo tempio
+Zc_1,1052,Zc,45,1,en,Call for Obedience
+Zc_1,1052,Zc,45,1,it,Primo Zaccaria
+Zc_2,1053,Zc,45,2,en,Second Vision: The Four Horns and the Four Smiths
+Zc_2,1053,Zc,45,2,it,Seconda visione: le corna e gli operai
+Zc_3,1054,Zc,45,3,en,Prophetic Vision: Joshua the High Priest
+Zc_3,1054,Zc,45,3,it,Quarta visione: purificazione di Giosuè e venuta del Germoglio
+Zc_4,1055,Zc,45,4,en,Fourth Vision: The Lampstand and the Two Olive Trees
+Zc_4,1055,Zc,45,4,it,Quinta visione: il candelabro e i due olivi
+Zc_5,1056,Zc,45,5,en,Fifth Vision: The Flying Scroll
+Zc_5,1056,Zc,45,5,it,Sesta visione: il rotolo della maledizione
+Zc_6,1057,Zc,45,6,en,Seventh Vision: Four Chariots
+Zc_6,1057,Zc,45,6,it,Ottava visione: i quattro carri
+Zc_7,1058,Zc,45,7,en,A Question About Fasting
+Zc_7,1058,Zc,45,7,it,Questione del digiuno
+Zc_8,1059,Zc,45,8,en,Seven Oracles: Judah and Zion Restored
+Zc_8,1059,Zc,45,8,it,Promessa per Gerusalemme
+Zc_9,1060,Zc,45,9,en,Restoration of the Land of Israel
+Zc_9,1060,Zc,45,9,it,Secondo Zaccaria
+Zc_10,1061,Zc,45,10,en,The Lord Strengthens Judah and Rescues Ephraim
+Zc_10,1061,Zc,45,10,it,La preghiera per la pioggia
+Zc_11,1062,Zc,45,11,en,The Shepherd Narrative
+Zc_11,1062,Zc,45,11,it,Lamentazione
+Zc_12,1063,Zc,45,12,en,Oracles Concerning the Nations and Judah
+Zc_12,1063,Zc,45,12,it,Restaurazione e splendore di gerusalemme
+Zc_13,1064,Zc,45,13,en,Oracles Concerning the End of False Prophecy
+Zc_13,1064,Zc,45,13,it,Idolatria e falsi profeti scompariranno
+Zc_14,1065,Zc,45,14,en,Devastation and Rescue of Jerusalem
+Zc_14,1065,Zc,45,14,it,Il regno del Signore
+Mal_1,1066,Mal,46,1,en,Israel Preferred to Edom
+Mal_1,1066,Mal,46,1,it,L'amore di Dio
+Mal_2,1067,Mal,46,2,en,Marriage and Divorce
+Mal_2,1067,Mal,46,2,it,Matrimoni misti e ripudio
+Mal_3,1068,Mal,46,3,en,The Messenger of the Covenant
+Mal_3,1068,Mal,46,3,it,Infedeltà del popolo e castigo divino
+Mt_1,1069,Mt,47,1,en,The Genealogy of Jesus
+Mt_1,1069,Mt,47,1,it,Origini di Gesù
+Mt_2,1070,Mt,47,2,en,The Visit of the Magi
+Mt_2,1070,Mt,47,2,it,I Magi dall'Oriente
+Mt_3,1071,Mt,47,3,en,The Preaching of John the Baptist
+Mt_3,1071,Mt,47,3,it,Inizi della vita pubblica
+Mt_4,1072,Mt,47,4,en,The Temptation of Jesus
+Mt_4,1072,Mt,47,4,it,Tentazioni di Gesù
+Mt_5,1073,Mt,47,5,en,The Sermon on the Mount
+Mt_5,1073,Mt,47,5,it,Il discorso sul monte
+Mt_6,1074,Mt,47,6,en,Teaching About Almsgiving
+Mt_6,1074,Mt,47,6,it,Elemosina
+Mt_7,1075,Mt,47,7,en,Judging Others
+Mt_7,1075,Mt,47,7,it,Non giudicare
+Mt_8,1076,Mt,47,8,en,The Cleansing of a Leper
+Mt_8,1076,Mt,47,8,it,Miracoli di Gesù
+Mt_9,1077,Mt,47,9,en,The Healing of a Paralytic
+Mt_9,1077,Mt,47,9,it,Gesù guarisce un paralitico
+Mt_10,1078,Mt,47,10,en,The Mission of the Twelve
+Mt_10,1078,Mt,47,10,it,Missione dei dodici
+Mt_11,1079,Mt,47,11,en,The Messengers from John the Baptist
+Mt_11,1079,Mt,47,11,it,La logica del Regno
+Mt_12,1080,Mt,47,12,en,Picking Grain on the Sabbath
+Mt_12,1080,Mt,47,12,it,Gesù signore del sabato
+Mt_13,1081,Mt,47,13,en,The Parable of the Sower
+Mt_13,1081,Mt,47,13,it,Il discorso delle parabole
+Mt_14,1082,Mt,47,14,en,Herod’s Opinion of Jesus
+Mt_14,1082,Mt,47,14,it,Martirio di Giovanni il Battista
+Mt_15,1083,Mt,47,15,en,The Tradition of the Elders
+Mt_15,1083,Mt,47,15,it,Nuova polemica con i farisei
+Mt_16,1084,Mt,47,16,en,The Demand for a Sign
+Mt_16,1084,Mt,47,16,it,I segni dei tempi
+Mt_17,1085,Mt,47,17,en,The Transfiguration of Jesus
+Mt_17,1085,Mt,47,17,it,La trasfigurazione di Gesù
+Mt_18,1086,Mt,47,18,en,The Greatest in the Kingdom
+Mt_18,1086,Mt,47,18,it,Il discorso sulla comunita' dei discepoli
+Mt_19,1087,Mt,47,19,en,Marriage and Divorce
+Mt_19,1087,Mt,47,19,it,Dalla galilea alla giudea
+Mt_20,1088,Mt,47,20,en,The Workers in the Vineyard
+Mt_20,1088,Mt,47,20,it,Parabola dei lavoratori a giornata
+Mt_21,1089,Mt,47,21,en,The Entry into Jerusalem
+Mt_21,1089,Mt,47,21,it,Gesu' a gerusalemme
+Mt_22,1090,Mt,47,22,en,The Parable of the Wedding Feast
+Mt_22,1090,Mt,47,22,it,Parabola del banchetto di nozze
+Mt_23,1091,Mt,47,23,en,Denunciation of the Scribes and Pharisees
+Mt_23,1091,Mt,47,23,it,Gesù contro scribi e farisei
+Mt_24,1092,Mt,47,24,en,The Destruction of the Temple Foretold
+Mt_24,1092,Mt,47,24,it,Il discorso sugli ultimi tempi
+Mt_25,1093,Mt,47,25,en,The Parable of the Ten Virgins
+Mt_25,1093,Mt,47,25,it,Parabola delle dieci vergini
+Mt_26,1094,Mt,47,26,en,The Conspiracy Against Jesus
+Mt_26,1094,Mt,47,26,it,L'ultima cena e l'arresto di Gesù
+Mt_27,1095,Mt,47,27,en,Jesus Before Pilate
+Mt_27,1095,Mt,47,27,it,Passione e morte di Gesù
+Mt_28,1096,Mt,47,28,en,The Resurrection of Jesus
+Mt_28,1096,Mt,47,28,it,Risurrezione di Gesù
+Mc_1,1097,Mc,48,1,en,The Beginning of the Galilean Ministry
+Mc_1,1097,Mc,48,1,it,Titolo
+Mc_2,1098,Mc,48,2,en,The Healing of a Paralytic
+Mc_2,1098,Mc,48,2,it,Ti sono perdonati i peccati
+Mc_3,1099,Mc,48,3,en,A Man with a Withered Hand
+Mc_3,1099,Mc,48,3,it,Di sabato Gesù guarisce i malati
+Mc_4,1100,Mc,48,4,en,The Parable of the Sower
+Mc_4,1100,Mc,48,4,it,Il mistero del regno
+Mc_5,1101,Mc,48,5,en,The Healing of the Gerasene Demoniac
+Mc_5,1101,Mc,48,5,it,Gesù scaccia i demòni
+Mc_6,1102,Mc,48,6,en,The Rejection at Nazareth
+Mc_6,1102,Mc,48,6,it,Rifiuto degli abitanti di Nàzaret
+Mc_7,1103,Mc,48,7,en,The Tradition of the Elders
+Mc_7,1103,Mc,48,7,it,Contrasto fra comandamenti di Dio e tradizioni umane
+Mc_8,1104,Mc,48,8,en,The Feeding of the Four Thousand
+Mc_8,1104,Mc,48,8,it,Seconda moltiplicazione dei pani e dei pesci
+Mc_9,1105,Mc,48,9,en,The Greatest in the Kingdom
+Mc_9,1105,Mc,48,9,it,La trasfigurazione di Gesù
+Mc_10,1106,Mc,48,10,en,Marriage and Divorce
+Mc_10,1106,Mc,48,10,it,Il matrimonio secondo il progetto di Dio
+Mc_11,1107,Mc,48,11,en,The Entry into Jerusalem
+Mc_11,1107,Mc,48,11,it,Gesu' a gerusalemme
+Mc_12,1108,Mc,48,12,en,Parable of the Tenants
+Mc_12,1108,Mc,48,12,it,Parabola dei contadini omicidi
+Mc_13,1109,Mc,48,13,en,The Destruction of the Temple Foretold
+Mc_13,1109,Mc,48,13,it,Splendore e rovina del tempio
+Mc_14,1110,Mc,48,14,en,The Conspiracy Against Jesus
+Mc_14,1110,Mc,48,14,it,L'ultima cena e l'arresto di Gesù
+Mc_15,1111,Mc,48,15,en,Jesus Before Pilate
+Mc_15,1111,Mc,48,15,it,Passione e morte di Gesù
+Mc_16,1112,Mc,48,16,en,The Resurrection of Jesus
+Mc_16,1112,Mc,48,16,it,La risurrezione di Gesù
+Lc_1,1113,Lc,49,1,en,Announcement of the Birth of John
+Lc_1,1113,Lc,49,1,it,Prologo
+Lc_2,1114,Lc,49,2,en,The Birth of Jesus
+Lc_2,1114,Lc,49,2,it,Nascita di Gesù e visita dei pastori
+Lc_3,1115,Lc,49,3,en,The Preaching of John the Baptist
+Lc_3,1115,Lc,49,3,it,Inizi della vita pubblica
+Lc_4,1116,Lc,49,4,en,The Temptation of Jesus
+Lc_4,1116,Lc,49,4,it,Tentazioni di Gesù
+Lc_5,1117,Lc,49,5,en,The Call of Simon the Fisherman
+Lc_5,1117,Lc,49,5,it,La missione di Pietro
+Lc_6,1118,Lc,49,6,en,Debates About the Sabbath
+Lc_6,1118,Lc,49,6,it,Discussione sul sabato
+Lc_7,1119,Lc,49,7,en,The Healing of a Centurion’s Slave
+Lc_7,1119,Lc,49,7,it,La fede del centurione
+Lc_8,1120,Lc,49,8,en,Galilean Women Follow Jesus
+Lc_8,1120,Lc,49,8,it,Le donne che seguono Gesù
+Lc_9,1121,Lc,49,9,en,The Mission of the Twelve
+Lc_9,1121,Lc,49,9,it,Missione dei dodici apostoli
+Lc_10,1122,Lc,49,10,en,The Mission of the Seventy-two
+Lc_10,1122,Lc,49,10,it,Missione dei settantadue discepoli
+Lc_11,1123,Lc,49,11,en,The Lord’s Prayer
+Lc_11,1123,Lc,49,11,it,Gesù insegna a pregare
+Lc_12,1124,Lc,49,12,en,The Leaven of the Pharisees
+Lc_12,1124,Lc,49,12,it,Riconoscere Gesù senza ipocrisia nè timore
+Lc_13,1125,Lc,49,13,en,A Call to Repentance
+Lc_13,1125,Lc,49,13,it,Necessità della conversione
+Lc_14,1126,Lc,49,14,en,Healing of the Man with Dropsy on the Sabbath
+Lc_14,1126,Lc,49,14,it,Altra guarigione in giorno di sabato
+Lc_15,1127,Lc,49,15,en,The Parable of the Lost Sheep
+Lc_15,1127,Lc,49,15,it,Parabola della pecora smarrita
+Lc_16,1128,Lc,49,16,en,The Parable of the Dishonest Steward
+Lc_16,1128,Lc,49,16,it,Parabola dell'amministratore disonesto
+Lc_17,1129,Lc,49,17,en,Temptations to Sin
+Lc_17,1129,Lc,49,17,it,Scandalo e perdono
+Lc_18,1130,Lc,49,18,en,The Parable of the Persistent Widow
+Lc_18,1130,Lc,49,18,it,Parabola del giudice e della vedova
+Lc_19,1131,Lc,49,19,en,Zacchaeus the Tax Collector
+Lc_19,1131,Lc,49,19,it,Gesù e Zaccheo
+Lc_20,1132,Lc,49,20,en,The Authority of Jesus Questioned
+Lc_20,1132,Lc,49,20,it,L'autorità di Gesù
+Lc_21,1133,Lc,49,21,en,The Poor Widow’s Contribution
+Lc_21,1133,Lc,49,21,it,La piccola offerta di una vedova
+Lc_22,1134,Lc,49,22,en,The Conspiracy Against Jesus
+Lc_22,1134,Lc,49,22,it,L'ultima cena e l'arresto di Gesù
+Lc_23,1135,Lc,49,23,en,Jesus Before Pilate
+Lc_23,1135,Lc,49,23,it,Passione e morte di Gesù
+Lc_24,1136,Lc,49,24,en,The Resurrection of Jesus
+Lc_24,1136,Lc,49,24,it,Risurrezione e ascensione di Gesù
+Gv_1,1137,Gv,50,1,en,John the Baptist’s Testimony to Himself
+Gv_1,1137,Gv,50,1,it,Prologo
+Gv_2,1138,Gv,50,2,en,The Wedding at Cana
+Gv_2,1138,Gv,50,2,it,Il segno delle nozze di Cana
+Gv_3,1139,Gv,50,3,en,Nicodemus
+Gv_3,1139,Gv,50,3,it,Gesù e Nicodèmo
+Gv_4,1140,Gv,50,4,en,The Samaritan Woman
+Gv_4,1140,Gv,50,4,it,Gesù e la donna samaritana
+Gv_5,1141,Gv,50,5,en,Cure on a Sabbath
+Gv_5,1141,Gv,50,5,it,Una festa dei giudei
+Gv_6,1142,Gv,50,6,en,Multiplication of the Loaves
+Gv_6,1142,Gv,50,6,it,Seconda pasqua
+Gv_7,1143,Gv,50,7,en,The Feast of Tabernacles
+Gv_7,1143,Gv,50,7,it,Festa delle capanne
+Gv_8,1144,Gv,50,8,en,A Woman Caught in Adultery
+Gv_8,1144,Gv,50,8,it,Gesù perdona una donna adultera
+Gv_9,1145,Gv,50,9,en,The Man Born Blind
+Gv_9,1145,Gv,50,9,it,Gesù guarisce un uomo cieco dalla nascita
+Gv_10,1146,Gv,50,10,en,The Good Shepherd
+Gv_10,1146,Gv,50,10,it,Io sono la porta
+Gv_11,1147,Gv,50,11,en,The Raising of Lazarus
+Gv_11,1147,Gv,50,11,it,"Morte di Lazzaro, amico di Gesù"
+Gv_12,1148,Gv,50,12,en,The Anointing at Bethany
+Gv_12,1148,Gv,50,12,it,Ultima pasqua
+Gv_13,1149,Gv,50,13,en,The Washing of the Disciples’ Feet
+Gv_13,1149,Gv,50,13,it,Cena e addio ai discepoli
+Gv_14,1150,Gv,50,14,en,Last Supper Discourses
+Gv_14,1150,Gv,50,14,it,Gesù è la via che conduce al Padre
+Gv_15,1151,Gv,50,15,en,The Vine and the Branches
+Gv_15,1151,Gv,50,15,it,Gesù è la vera vite
+Gv_16,1152,Gv,50,16,en,Jesus’ Departure; Coming of the Advocate
+Gv_16,1152,Gv,50,16,it,Il Paràclito
+Gv_17,1153,Gv,50,17,en,The Prayer of Jesus
+Gv_17,1153,Gv,50,17,it,Preghiera di Gesù al Padre per i discepoli e per i futuri credenti
+Gv_18,1154,Gv,50,18,en,Jesus Arrested
+Gv_18,1154,Gv,50,18,it,L'arresto di Gesù
+Gv_19,1155,Gv,50,19,en,The Crucifixion of Jesus
+Gv_19,1155,Gv,50,19,it,Passione e morte di Gesù
+Gv_20,1156,Gv,50,20,en,The Empty Tomb
+Gv_20,1156,Gv,50,20,it,Risurrezione di Gesù
+Gv_21,1157,Gv,50,21,en,The Appearance to the Seven Disciples
+Gv_21,1157,Gv,50,21,it,Il ruolo di Pietro
+At_1,1158,At,51,1,en,The Promise of the Spirit
+At_1,1158,At,51,1,it,"Prologo, ascensione di Gesù"
+At_2,1159,At,51,2,en,The Coming of the Spirit
+At_2,1159,At,51,2,it,La Pentecoste
+At_3,1160,At,51,3,en,Cure of a Crippled Beggar
+At_3,1160,At,51,3,it,Guarigione di uno storpio
+At_4,1161,At,51,4,en,Before the Sanhedrin
+At_4,1161,At,51,4,it,Pietro e Giovanni davanti al tribunale ebraico
+At_5,1162,At,51,5,en,Ananias and Sapphira
+At_5,1162,At,51,5,it,La frode di Anania e Saffìra
+At_6,1163,At,51,6,en,The Need for Assistants
+At_6,1163,At,51,6,it,Servizio della Parola e servizio delle mense
+At_7,1164,At,51,7,en,Stephen’s Discourses
+At_7,1164,At,51,7,it,Discorso di Stefano
+At_8,1165,At,51,8,en,Philip in Samaria
+At_8,1165,At,51,8,it,Le prime missioni
+At_9,1166,At,51,9,en,Saul’s Conversion
+At_9,1166,At,51,9,it,Chiamata di Saulo
+At_10,1167,At,51,10,en,The Vision of Cornelius
+At_10,1167,At,51,10,it,Pietro e il centurione romano Cornelio
+At_11,1168,At,51,11,en,The Baptism of the Gentiles Explained
+At_11,1168,At,51,11,it,Pietro difende la propria condotta
+At_12,1169,At,51,12,en,Herod’s Persecution of the Christians
+At_12,1169,At,51,12,it,Miracolosa liberazione di Pietro
+At_13,1170,At,51,13,en,First Mission Begins in Cyprus
+At_13,1170,At,51,13,it,Invio in missione
+At_14,1171,At,51,14,en,Paul and Barnabas at Iconium
+At_14,1171,At,51,14,it,Bàrnaba e Paolo a Icònio
+At_15,1172,At,51,15,en,Council of Jerusalem
+At_15,1172,At,51,15,it,L'assemblea di gerusalemme
+At_16,1173,At,51,16,en,Paul in Lycaonia: Timothy
+At_16,1173,At,51,16,it,Timòteo collaboratore di Paolo
+At_17,1174,At,51,17,en,Paul in Thessalonica
+At_17,1174,At,51,17,it,Difficoltà di Paolo a Tessalònica e a Berea
+At_18,1175,At,51,18,en,Paul in Corinth
+At_18,1175,At,51,18,it,Nascita della Chiesa di Corinto
+At_19,1176,At,51,19,en,Paul in Ephesus
+At_19,1176,At,51,19,it,Paolo a Efeso
+At_20,1177,At,51,20,en,Journey to Macedonia and Greece
+At_20,1177,At,51,20,it,Viaggio di Paolo attraverso la Macedonia e la Grecia
+At_21,1178,At,51,21,en,Arrival at Tyre
+At_21,1178,At,51,21,it,Paolo sale a Gerusalemme
+At_22,1179,At,51,22,en,Paul’s Defense before the Jerusalem Jews
+At_22,1179,At,51,22,it,Paolo si dichiara cittadino romano
+At_23,1180,At,51,23,en,Transfer to Caesarea
+At_23,1180,At,51,23,it,Complotto dei Giudei contro Paolo
+At_24,1181,At,51,24,en,Trial before Felix
+At_24,1181,At,51,24,it,Processo di Paolo davanti al governatore
+At_25,1182,At,51,25,en,Appeal to Caesar
+At_25,1182,At,51,25,it,Paolo fa ricorso all'imperatore romano
+At_26,1183,At,51,26,en,King Agrippa Hears Paul
+At_26,1183,At,51,26,it,Discorso di Paolo durante il processo
+At_27,1184,At,51,27,en,Departure for Rome
+At_27,1184,At,51,27,it,Inizio del viaggio verso Roma
+At_28,1185,At,51,28,en,Winter in Malta
+At_28,1185,At,51,28,it,Paolo nell'isola di Malta
+Rom_1,1186,Rom,52,1,en,Greeting
+Rom_1,1186,Rom,52,1,it,Indirizzo e saluto
+Rom_2,1187,Rom,52,2,en,God’s Just Judgment
+Rom_2,1187,Rom,52,2,it,Il giusto giudizio di Dio
+Rom_3,1188,Rom,52,3,en,Answers to Objections
+Rom_3,1188,Rom,52,3,it,A nulla serve la circoncisione da sola
+Rom_4,1189,Rom,52,4,en,Abraham Justified by Faith
+Rom_4,1189,Rom,52,4,it,L'esempio di Abramo
+Rom_5,1190,Rom,52,5,en,"Faith, Hope, and Love"
+Rom_5,1190,Rom,52,5,it,La liberta' di Cristo
+Rom_6,1191,Rom,52,6,en,Freedom from Sin; Life in God
+Rom_6,1191,Rom,52,6,it,In Cristo morti al peccato e vivi con lui
+Rom_7,1192,Rom,52,7,en,Freedom from the Law
+Rom_7,1192,Rom,52,7,it,Liberati dalla Legge
+Rom_8,1193,Rom,52,8,en,The Flesh and the Spirit
+Rom_8,1193,Rom,52,8,it,La vita secondo lo Spirito
+Rom_9,1194,Rom,52,9,en,Paul’s Love for Israel
+Rom_9,1194,Rom,52,9,it,Il mistero d'israele
+Rom_10,1195,Rom,52,10,en,Israel in Failure
+Rom_10,1195,Rom,52,10,it,Amore di Paolo per Israele
+Rom_11,1196,Rom,52,11,en,The Remnant of Israel
+Rom_11,1196,Rom,52,11,it,Dio non ha ripudiato il suo popolo
+Rom_12,1197,Rom,52,12,en,Sacrifice of Body and Mind
+Rom_12,1197,Rom,52,12,it,La vita al servizio di Dio
+Rom_13,1198,Rom,52,13,en,Obedience in Authority
+Rom_13,1198,Rom,52,13,it,Doveri verso l'autorità civile
+Rom_14,1199,Rom,52,14,en,To Live and Die for Christ
+Rom_14,1199,Rom,52,14,it,Non giudicare gli altri
+Rom_15,1200,Rom,52,15,en,Patience and Self-Denial
+Rom_15,1200,Rom,52,15,it,L'esempio di Cristo
+Rom_16,1201,Rom,52,16,en,Phoebe Commended
+Rom_16,1201,Rom,52,16,it,Saluti e raccomandazioni
+1Cor_1,1202,1Cor,53,1,en,Greeting
+1Cor_1,1202,1Cor,53,1,it,"Indirizzo, saluto e ringraziamento"
+1Cor_2,1203,1Cor,53,2,en,The True Wisdom
+1Cor_2,1203,1Cor,53,2,it,L'annuncio di Cristo crocifisso
+1Cor_3,1204,1Cor,53,3,en,The Role of God’s Ministers
+1Cor_3,1204,1Cor,53,3,it,Era Dio che faceva crescere
+1Cor_4,1205,1Cor,53,4,en,Paul’s Life as Pattern
+1Cor_4,1205,1Cor,53,4,it,Gli apostoli sono servi di Cristo
+1Cor_5,1206,1Cor,53,5,en,A Case of Incest
+1Cor_5,1206,1Cor,53,5,it,Scandali e liti
+1Cor_6,1207,1Cor,53,6,en,Lawsuits before Unbelievers
+1Cor_6,1207,1Cor,53,6,it,La giustizia dei tribunali pagani
+1Cor_7,1208,1Cor,53,7,en,Advice to the Married
+1Cor_7,1208,1Cor,53,7,it,Matrimonio e verginita'
+1Cor_8,1209,1Cor,53,8,en,Knowledge Insufficient
+1Cor_8,1209,1Cor,53,8,it,Culto pagano e culto cristiano
+1Cor_9,1210,1Cor,53,9,en,Paul’s Rights as an Apostle
+1Cor_9,1210,1Cor,53,9,it,Paolo apostolo: suoi diritti e doveri
+1Cor_10,1211,1Cor,53,10,en,Warning against Overconfidence
+1Cor_10,1211,1Cor,53,10,it,Considerando l'esempio di Israele
+1Cor_11,1212,1Cor,53,11,en,Man and Woman
+1Cor_11,1212,1Cor,53,11,it,Contegno dell'uomo e della donna
+1Cor_12,1213,1Cor,53,12,en,Unity and Variety
+1Cor_12,1213,1Cor,53,12,it,Il valore dei carismi
+1Cor_13,1214,1Cor,53,13,en,Love Chapter
+1Cor_13,1214,1Cor,53,13,it,Più grande è la carità
+1Cor_14,1215,1Cor,53,14,en,Prophecy Greater than Tongues
+1Cor_14,1215,1Cor,53,14,it,Parlare con il dono delle lingue
+1Cor_15,1216,1Cor,53,15,en,The Gospel Teaching
+1Cor_15,1216,1Cor,53,15,it,Risurrezione dei morti
+1Cor_16,1217,1Cor,53,16,en,The Collection
+1Cor_16,1217,1Cor,53,16,it,"Una colletta, prossima venuta di paolo, raccomandazioni e saluti"
+2Cor_1,1218,2Cor,54,1,en,Greeting
+2Cor_1,1218,2Cor,54,1,it,"Indirizzo, saluto e ringraziamento"
+2Cor_2,1219,2Cor,54,2,en,Ministers of a New Covenant
+2Cor_2,1219,2Cor,54,2,it,Stato d'animo di Paolo
+2Cor_3,1220,2Cor,54,3,en,Contrast with the Old Covenant
+2Cor_3,1220,2Cor,54,3,it,Ministri della nuova alleanza
+2Cor_4,1221,2Cor,54,4,en,Integrity in the Ministry
+2Cor_4,1221,2Cor,54,4,it,Un tesoro in vasi di creta
+2Cor_5,1222,2Cor,54,5,en,Our Future Destiny
+2Cor_5,1222,2Cor,54,5,it,Una casa non fatta da mani d'uomo
+2Cor_6,1223,2Cor,54,6,en,The Experience of the Ministry
+2Cor_6,1223,2Cor,54,6,it,Ecco ora il giorno della salvezza!
+2Cor_7,1224,2Cor,54,7,en,Paul’s Joy in Macedonia
+2Cor_7,1224,2Cor,54,7,it,Tristezze e gioie di Paolo
+2Cor_8,1225,2Cor,54,8,en,Generosity in Giving
+2Cor_8,1225,2Cor,54,8,it,Esortazione alla generosita'
+2Cor_9,1226,2Cor,54,9,en,God’s Indescribable Gift
+2Cor_9,1226,2Cor,54,9,it,Dio ama chi dona con gioia
+2Cor_10,1227,2Cor,54,10,en,Accusation of Weakness
+2Cor_10,1227,2Cor,54,10,it,Autodifesa di paolo
+2Cor_11,1228,2Cor,54,11,en,Preaching without Charge
+2Cor_11,1228,2Cor,54,11,it,Paolo e i falsi apostoli
+2Cor_12,1229,2Cor,54,12,en,Selfless Concern for the Church
+2Cor_12,1229,2Cor,54,12,it,Visioni e rivelazioni
+2Cor_13,1230,2Cor,54,13,en,Concluding Remarks
+2Cor_13,1230,2Cor,54,13,it,Invito a correggersi
+Gal_1,1231,Gal,55,1,en,Greeting
+Gal_1,1231,Gal,55,1,it,Saluto e augurio
+Gal_2,1232,Gal,55,2,en,The Council of Jerusalem
+Gal_2,1232,Gal,55,2,it,Paolo accolto dagli apostoli
+Gal_3,1233,Gal,55,3,en,Justification by Faith
+Gal_3,1233,Gal,55,3,it,Il vangelo di paolo
+Gal_4,1234,Gal,55,4,en,God’s Free Children in Christ
+Gal_4,1234,Gal,55,4,it,Figli di Dio ed eredi
+Gal_5,1235,Gal,55,5,en,The Importance of Faith
+Gal_5,1235,Gal,55,5,it,Vita nella liberta'
+Gal_6,1236,Gal,55,6,en,Life in the Community of Christ
+Gal_6,1236,Gal,55,6,it,Portate i pesi gli uni degli altri
+Ef_1,1237,Ef,56,1,en,Greeting
+Ef_1,1237,Ef,56,1,it,Saluto e augurio
+Ef_2,1238,Ef,56,2,en,Generosity of God’s Plan
+Ef_2,1238,Ef,56,2,it,Dalla morte alla vita
+Ef_3,1239,Ef,56,3,en,Commission to Preach God’s Plan
+Ef_3,1239,Ef,56,3,it,"Paolo, l'apostolo dei pagani"
+Ef_4,1240,Ef,56,4,en,Unity in the Body
+Ef_4,1240,Ef,56,4,it,Vita cristiana
+Ef_5,1241,Ef,56,5,en,Duty to Live in the Light
+Ef_5,1241,Ef,56,5,it,Siete luce nel Signore
+Ef_6,1242,Ef,56,6,en,Children and Parents
+Ef_6,1242,Ef,56,6,it,Figli e genitori
+Fil_1,1243,Fil,57,1,en,Greeting
+Fil_1,1243,Fil,57,1,it,"Saluto, ringraziamento e preghiera"
+Fil_2,1244,Fil,57,2,en,Plea for Unity and Humility
+Fil_2,1244,Fil,57,2,it,Umiltà e grandezza di Cristo
+Fil_3,1245,Fil,57,3,en,Concluding Admonitions
+Fil_3,1245,Fil,57,3,it,L'esempio di paolo
+Fil_4,1246,Fil,57,4,en,Live in Concord
+Fil_4,1246,Fil,57,4,it,Esortazioni
+Col_1,1247,Col,58,1,en,Greeting
+Col_1,1247,Col,58,1,it,Saluto
+Col_2,1248,Col,58,2,en,A General Admonition
+Col_2,1248,Col,58,2,it,Sollecitudine pastorale di Paolo
+Col_3,1249,Col,58,3,en,Mystical Death and Resurrection
+Col_3,1249,Col,58,3,it,Vita cristiana
+Col_4,1250,Col,58,4,en,Tychicus and Onesimus
+Col_4,1250,Col,58,4,it,"Raccomandazioni, notizie e saluti"
+1Ts_1,1251,1Ts,59,1,en,Greeting
+1Ts_1,1251,1Ts,59,1,it,"Indirizzo, saluto e ringraziamento"
+1Ts_2,1252,1Ts,59,2,en,Paul’s Ministry Among Them
+1Ts_2,1252,1Ts,59,2,it,Amati e scelti da Dio
+1Ts_3,1253,1Ts,59,3,en,Concluding Thanksgiving and Prayer
+1Ts_3,1253,1Ts,59,3,it,Paolo manda Timòteo a Tessalònica
+1Ts_4,1254,1Ts,59,4,en,General Exhortations
+1Ts_4,1254,1Ts,59,4,it,Vita cristiana e attesa del signore
+1Ts_5,1255,1Ts,59,5,en,Vigilance
+1Ts_5,1255,1Ts,59,5,it,Vigilanza nell'attesa
+2Ts_1,1256,2Ts,60,1,en,Greeting
+2Ts_1,1256,2Ts,60,1,it,"Indirizzo, saluto e preghiera"
+2Ts_2,1257,2Ts,60,2,en,Christ and the Lawless One
+2Ts_2,1257,2Ts,60,2,it,I segni della venuta del signore
+2Ts_3,1258,2Ts,60,3,en,Request for Prayers
+2Ts_3,1258,2Ts,60,3,it,Pregate per noi
+1Tm_1,1259,1Tm,61,1,en,Greeting
+1Tm_1,1259,1Tm,61,1,it,Indirizzo e saluto
+1Tm_2,1260,1Tm,61,2,en,Prayer and Conduct
+1Tm_2,1260,1Tm,61,2,it,Disposizioni per la comunita' ecclesiale
+1Tm_3,1261,1Tm,61,3,en,Qualifications of Various Ministers
+1Tm_3,1261,1Tm,61,3,it,Il vescovo
+1Tm_4,1262,1Tm,61,4,en,False Asceticism
+1Tm_4,1262,1Tm,61,4,it,Contro gli impostori
+1Tm_5,1263,1Tm,61,5,en,Rules for Widows
+1Tm_5,1263,1Tm,61,5,it,Istruzioni alle vedove
+1Tm_6,1264,1Tm,61,6,en,Rules for Slaves
+1Tm_6,1264,1Tm,61,6,it,Raccomandazioni agli schiavi
+2Tm_1,1265,2Tm,62,1,en,Greeting
+2Tm_1,1265,2Tm,62,1,it,Indirizzo e saluto
+2Tm_2,1266,2Tm,62,2,en,Timothy’s Conduct
+2Tm_2,1266,2Tm,62,2,it,Soffri insieme con me
+2Tm_3,1267,2Tm,62,3,en,The Dangers of the Last Days
+2Tm_3,1267,2Tm,62,3,it,I pericoli degli ultimi tempi
+2Tm_4,1268,2Tm,62,4,en,Solemn Charge
+2Tm_4,1268,2Tm,62,4,it,Adempi il tuo ministero
+Tit_1,1269,Tit,63,1,en,Greeting
+Tit_1,1269,Tit,63,1,it,Indirizzo e saluto
+Tit_2,1270,Tit,63,2,en,Christian Behavior
+Tit_2,1270,Tit,63,2,it,Vita coerente con la fede
+Tit_3,1271,Tit,63,3,en,Advice to Titus
+Tit_3,1271,Tit,63,3,it,Modo di vivere dei credenti
+Fm_1,1272,Fm,64,1,en,Address and Greeting
+Fm_1,1272,Fm,64,1,it,"Indirizzo, saluto e ringraziamento"
+Ebr_1,1273,Ebr,65,1,en,Messianic Enthronement
+Ebr_1,1273,Ebr,65,1,it,Prologo
+Ebr_2,1274,Ebr,65,2,en,Exhortation to Faithfulness
+Ebr_2,1274,Ebr,65,2,it,Una salvezza più grande
+Ebr_3,1275,Ebr,65,3,en,"Jesus, Superior to Moses"
+Ebr_3,1275,Ebr,65,3,it,Gesù è superiore a Mosè
+Ebr_4,1276,Ebr,65,4,en,The Sabbath Rest
+Ebr_4,1276,Ebr,65,4,it,Il riposo promesso al popolo di Dio
+Ebr_5,1277,Ebr,65,5,en,Exhortation to Spiritual Renewal
+Ebr_5,1277,Ebr,65,5,it,Adulti nella fede
+Ebr_6,1278,Ebr,65,6,en,God’s Promise Immutable
+Ebr_6,1278,Ebr,65,6,it,Fedeltà di Dio
+Ebr_7,1279,Ebr,65,7,en,"Melchizedek, a Type of Christ"
+Ebr_7,1279,Ebr,65,7,it,"Gesù, sacerdote al modo di Melchìsedek"
+Ebr_8,1280,Ebr,65,8,en,Heavenly Priesthood of Jesus
+Ebr_8,1280,Ebr,65,8,it,Gesù e la nuova alleanza
+Ebr_9,1281,Ebr,65,9,en,The Worship of the First Covenant
+Ebr_9,1281,Ebr,65,9,it,L'antico e il nuovo tempio
+Ebr_10,1282,Ebr,65,10,en,One Sacrifice instead of Many
+Ebr_10,1282,Ebr,65,10,it,Il sacrificio di Gesù Cristo
+Ebr_11,1283,Ebr,65,11,en,Faith of the Ancients
+Ebr_11,1283,Ebr,65,11,it,La fede dei padri
+Ebr_12,1284,Ebr,65,12,en,God our Father
+Ebr_12,1284,Ebr,65,12,it,Perseveranti nella fede
+Ebr_13,1285,Ebr,65,13,en,Bearing His Reproach
+Ebr_13,1285,Ebr,65,13,it,Ultime raccomandazioni
+Giac_1,1286,Giac,66,1,en,Perseverance in Trial
+Giac_1,1286,Giac,66,1,it,Saluto
+Giac_2,1287,Giac,66,2,en,Sin of Partiality
+Giac_2,1287,Giac,66,2,it,Ingiuste preferenze
+Giac_3,1288,Giac,66,3,en,Power of the Tongue
+Giac_3,1288,Giac,66,3,it,La vera sapienza
+Giac_4,1289,Giac,66,4,en,Causes of Division
+Giac_4,1289,Giac,66,4,it,Cause di discordia
+Giac_5,1290,Giac,66,5,en,Warning to the Rich
+Giac_5,1290,Giac,66,5,it,Contro i ricchi
+1Pt_1,1291,1Pt,67,1,en,Greeting
+1Pt_1,1291,1Pt,67,1,it,Saluto
+1Pt_2,1292,1Pt,67,2,en,God’s House and People
+1Pt_2,1292,1Pt,67,2,it,Come pietre vive
+1Pt_3,1293,1Pt,67,3,en,Christian Spouses
+1Pt_3,1293,1Pt,67,3,it,Stile di vita coniugale ed ecclesiale
+1Pt_4,1294,1Pt,67,4,en,Christian Restraint
+1Pt_4,1294,1Pt,67,4,it,Vivere secondo la volontà di Dio
+1Pt_5,1295,1Pt,67,5,en,Advice to Presbyters
+1Pt_5,1295,1Pt,67,5,it,Ai responsabili della comunità
+2Pt_1,1296,2Pt,68,1,en,Greeting
+2Pt_1,1296,2Pt,68,1,it,Saluto
+2Pt_2,1297,2Pt,68,2,en,False Teachers
+2Pt_2,1297,2Pt,68,2,it,Falsi profeti e falsi maestri
+2Pt_3,1298,2Pt,68,3,en,Denial of the Parousia
+2Pt_3,1298,2Pt,68,3,it,Nuovi cieli e una terra nuova
+1Gv_1,1299,1Gv,69,1,en,The Word of Lif
+1Gv_1,1299,1Gv,69,1,it,Testimoni di Gesù
+1Gv_2,1300,1Gv,69,2,en,Christ and His Commandments
+1Gv_2,1300,1Gv,69,2,it,Il comandamento nuovo
+1Gv_3,1301,1Gv,69,3,en,Avoiding Sin
+1Gv_3,1301,1Gv,69,3,it,Dio e' giusto
+1Gv_4,1302,1Gv,69,4,en,Testing the Spirits
+1Gv_4,1302,1Gv,69,4,it,I falsi profeti
+1Gv_5,1303,1Gv,69,5,en,Faith is Victory over the World
+1Gv_5,1303,1Gv,69,5,it,"Chi crede, ama"
+2Gv_1,1304,2Gv,70,1,en,Truth vs. Error
+2Gv_1,1304,2Gv,70,1,it,Saluto
+3Gv_1,1305,3Gv,71,1,en,Hospitality
+3Gv_1,1305,3Gv,71,1,it,Saluto
+Gd_1,1306,Gd,72,1,en,Contending for the Faith
+Gd_1,1306,Gd,72,1,it,"Indirizzo, saluto e scopo della lettera"
+Ap_1,1307,Ap,73,1,en,Greeting
+Ap_1,1307,Ap,73,1,it,Prologo e visione inaugurale
+Ap_2,1308,Ap,73,2,en,To Ephesus
+Ap_2,1308,Ap,73,2,it,Giovanni alle sette chiese dell'asia minore
+Ap_3,1309,Ap,73,3,en,To Sardis
+Ap_3,1309,Ap,73,3,it,Alla Chiesa di Sardi
+Ap_4,1310,Ap,73,4,en,Vision of Heavenly Worship
+Ap_4,1310,Ap,73,4,it,Visioni profetiche
+Ap_5,1311,Ap,73,5,en,The Scroll and the Lamb
+Ap_5,1311,Ap,73,5,it,Il libro dei sette sigilli e l'Agnello
+Ap_6,1312,Ap,73,6,en,The First Six Seals
+Ap_6,1312,Ap,73,6,it,I sette sigilli
+Ap_7,1313,Ap,73,7,en,"The 144,000 Sealed"
+Ap_7,1313,Ap,73,7,it,Il popolo di Dio
+Ap_8,1314,Ap,73,8,en,The Seven Trumpets
+Ap_8,1314,Ap,73,8,it,Apertura del settimo sigillo
+Ap_9,1315,Ap,73,9,en,The Fifth Trumpet
+Ap_9,1315,Ap,73,9,it,La quinta tromba
+Ap_10,1316,Ap,73,10,en,The Angel with the Small Scroll
+Ap_10,1316,Ap,73,10,it,Il giuramento dell'angelo
+Ap_11,1317,Ap,73,11,en,The Two Witnesses
+Ap_11,1317,Ap,73,11,it,I due testimoni
+Ap_12,1318,Ap,73,12,en,The Woman and the Dragon
+Ap_12,1318,Ap,73,12,it,La grande tribolazione
+Ap_13,1319,Ap,73,13,en,The First Beast
+Ap_13,1319,Ap,73,13,it,La bestia che viene dal mare
+Ap_14,1320,Ap,73,14,en,The Lamb’s Companions
+Ap_14,1320,Ap,73,14,it,I redenti della terra
+Ap_15,1321,Ap,73,15,en,The Seven Last Plagues
+Ap_15,1321,Ap,73,15,it,Le sette coppe
+Ap_16,1322,Ap,73,16,en,The Seven Bowls
+Ap_16,1322,Ap,73,16,it,Le prime quattro coppe
+Ap_17,1323,Ap,73,17,en,Babylon the Great
+Ap_17,1323,Ap,73,17,it,Il giudizio
+Ap_18,1324,Ap,73,18,en,The Fall of Babylon
+Ap_18,1324,Ap,73,18,it,Caduta di Babilonia
+Ap_19,1325,Ap,73,19,en,The Victory Song
+Ap_19,1325,Ap,73,19,it,Canti trionfali
+Ap_20,1326,Ap,73,20,en,The Thousand-year Reign
+Ap_20,1326,Ap,73,20,it,Satana sconfitto
+Ap_21,1327,Ap,73,21,en,The New Heaven and the New Earth
+Ap_21,1327,Ap,73,21,it,La nuova Gerusalemme
+Ap_22,1328,Ap,73,22,en,Eternity
+Ap_22,1328,Ap,73,22,it,La venuta del Signore

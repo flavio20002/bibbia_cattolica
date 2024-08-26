@@ -2,7 +2,7 @@ import 'package:bibbia_cattolica/common/colors.dart';
 import 'package:bibbia_cattolica/components/page_view_app_bar.dart';
 import 'package:bibbia_cattolica/localization/localization.dart';
 import 'package:bibbia_cattolica/model/app_bar_model.dart';
-import 'package:bibbia_cattolica/model/chapter_model.dart';
+import 'package:bibbia_cattolica/model/bible_chapter.dart';
 import 'package:bibbia_cattolica/model/compare_model.dart';
 import 'package:bibbia_cattolica/states/app_state.dart';
 import 'package:flutter/material.dart';
@@ -25,7 +25,7 @@ class BibleTextCompare extends StatelessWidget {
   Widget build(BuildContext context) {
     final CompareModel model =
         ModalRoute.of(context)!.settings.arguments as CompareModel;
-    List<ChapterModel> chapters = AppState.of(context).chapters;
+    List<BibleChapterModel> chapters = AppState.of(context).chapters;
     return PageViewAppBar(
       initialPage: chapters.indexOf(model.chapter),
       itemCount: chapters.length,
@@ -33,8 +33,8 @@ class BibleTextCompare extends StatelessWidget {
         return BibleTextPage(chapter: chapters[position]);
       },
       appBarBuilder: (int page) {
-        return AppBarModel(chapterNumber(context, chapters[page].chapterNumber),
-            subtitle: chapters[page].book.desBook);
+        return AppBarModel(chapterNumber(context, chapters[page].numChapter),
+            subtitle: chapters[page].desBook);
       },
       backgroundColor: MyColors.backgroundColorLight,
       actions: const [],

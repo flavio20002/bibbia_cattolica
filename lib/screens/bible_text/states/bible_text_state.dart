@@ -1,4 +1,4 @@
-import 'package:bibbia_cattolica/screens/bible_text/services/bible_text_service.dart';
+import 'package:bibbia_cattolica/services/bible.dart';
 import 'package:flutter/material.dart';
 
 class BibleTextState with ChangeNotifier {
@@ -9,7 +9,7 @@ class BibleTextState with ChangeNotifier {
   }
 
   Future<void> load(chapter, bibleVersion) async {
-    _text = await BibleTextService.getText(chapter, bibleVersion);
+    _text = await BibleService.getChapter(chapter, bibleVersion);
     notifyListeners();
   }
 }

@@ -1,12 +1,12 @@
+import 'package:bibbia_cattolica/model/bible_chapter.dart';
 import 'package:flutter/material.dart';
 
 import '../../../common/colors.dart';
 import '../../../components/card.dart';
 import '../../../localization/localization.dart';
-import '../../../model/chapter_model.dart';
 
 class MyCardChapter extends StatelessWidget {
-  final ChapterModel model;
+  final BibleChapterModel model;
   final BuildContext context;
   final VoidCallback onTap;
 
@@ -26,11 +26,11 @@ class MyCardChapter extends StatelessWidget {
         text1: MyLocalizations.of(context)
             .values
             .bible
-            .chapterNumber(model.chapterNumber),
+            .chapterNumber(model.numChapter),
         text1Color: MyColors.textDarkInverse,
         textRight: null,
-        text2: model.desChapter,
-        text3: model.textPreview,
+        text2: model.title,
+        text3: model.shortText,
         icon: null,
         iconEvent: null,
         onTap: onTap);

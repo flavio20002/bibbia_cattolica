@@ -1,20 +1,17 @@
-import 'package:bibbia_cattolica/model/chapter_model.dart';
-import 'package:bibbia_cattolica/screens/bible_chapters/services/bible_chapters_service.dart';
+import 'package:bibbia_cattolica/model/bible_chapter.dart';
+import 'package:bibbia_cattolica/services/bible.dart';
 import 'package:flutter/material.dart';
-import 'package:get_it/get_it.dart';
 
 class BibleChaptersState with ChangeNotifier {
-  final service = GetIt.instance;
+  List<BibleChapterModel>? _model;
 
-  List<ChapterModel>? _model;
-
-  List<ChapterModel>? get model {
+  List<BibleChapterModel>? get model {
     return _model;
   }
 
   Future<void> load(book, language, bibleVersion) async {
-    _model = await service<BibleChaptersService>()
-        .getChapters(book, language, bibleVersion);
+    _model = await BibleService.getChapters(
+        book: book, language: language, bibleVersion: bibleVersion);
     notifyListeners();
   }
 }

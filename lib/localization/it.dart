@@ -1,5 +1,4 @@
-import 'package:bibbia_cattolica/model/chapter_model.dart';
-
+import '../model/bible_chapter.dart';
 import 'en.dart';
 
 class ItalianLanguage extends DefaultLanguage {
@@ -38,8 +37,8 @@ class ItalianHome extends DefaultHome {
   @override
   String get randomVerseTitle => 'Il vento soffia dove vuole…';
   @override
-  String randomVerseChapter(ChapterModel chapter) =>
-      '${chapter.book.desBook} - capitolo ${chapter.chapterNumber}';
+  String randomVerseChapter(BibleChapterModel chapter) =>
+      '${chapter.desBook} - capitolo ${chapter.numChapter}';
   @override
   String get bookmarksTitle => 'Segnalibri e cronologia';
   @override

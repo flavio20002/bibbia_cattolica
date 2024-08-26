@@ -63,119 +63,108 @@ class Settings extends StatelessWidget {
         selectedItem: DrawerItemsEnum.settings,
       ),
       body: Center(
-        child: Scrollbar(
-          child: ListView(
-            children: <Widget>[
-              PreferenceTitle(
-                  title:
-                      MyLocalizations.of(context).values.settings.generalTitle),
-              ColorPreference(
-                title: MyLocalizations.of(context)
-                    .values
-                    .settings
-                    .primaryColorTitle,
-                subtitle: MyLocalizations.of(context)
-                    .values
-                    .settings
-                    .primaryColorSubtitle,
-                colors: MyColors.availablePrimaryColors,
-                preferenceKey: MyPreferences.primaryColor,
-              ),
-              RadioButtonPreference(
-                title: MyLocalizations.of(context)
-                    .values
-                    .settings
-                    .bibleVersionTitle,
-                subtitle: MyLocalizations.of(context)
-                    .values
-                    .settings
-                    .bibleVersionSubtitle,
-                keys: Bibles.bibles,
-                values: Bibles.biblesDescriptions(context),
-                defaultValue:
-                    Bibles.defaultBible(AppState.of(context).language),
-                preferenceKey: MyPreferences.bibleVersion,
-                callback: () => AppState.of(context).load(context),
-              ),
-              RadioButtonPreference(
+        child: ListView(
+          children: <Widget>[
+            PreferenceTitle(
                 title:
-                    MyLocalizations.of(context).values.settings.languageTitle,
-                subtitle: MyLocalizations.of(context)
-                    .values
-                    .settings
-                    .languageSubtitle,
-                keys:
-                    List.from(MyLocalizations.of(context).getLanguages().keys),
-                values: List.from(
-                    MyLocalizations.of(context).getLanguages().values),
-                defaultValue: "",
-                preferenceKey: MyPreferences.language,
-                callback: () => AppState.of(context).load(context),
-              ),
-              CheckBoxPreference(
-                title: MyLocalizations.of(context).values.settings.verseTitle,
-                subtitle:
-                    MyLocalizations.of(context).values.settings.verseSubtitle,
-                preferenceKey: MyPreferences.showVerses,
-              ),
-              ListTile(
-                title: const Text("This is a ListPreference"),
-                subtitle: const Text("Subtitle goes here"),
-                onTap: () {
-                  _displayDialog(context);
-                },
-              ),
-              ListTile(
-                title: const Text("This is a ListPreference"),
-                subtitle: const Text("Subtitle goes here"),
-                onTap: () {
-                  _displayDialog(context);
-                },
-              ),
-              ListTile(
-                title: const Text("This is a ListPreference"),
-                subtitle: const Text("Subtitle goes here"),
-                onTap: () {
-                  _displayDialog(context);
-                },
-              ),
-              ListTile(
-                title: const Text("This is a ListPreference"),
-                subtitle: const Text("Subtitle goes here"),
-                onTap: () {
-                  _displayDialog(context);
-                },
-              ),
-              ListTile(
-                title: const Text("This is a ListPreference"),
-                subtitle: const Text("Subtitle goes here"),
-                onTap: () {
-                  _displayDialog(context);
-                },
-              ),
-              ListTile(
-                title: const Text("This is a ListPreference"),
-                subtitle: const Text("Subtitle goes here"),
-                onTap: () {
-                  _displayDialog(context);
-                },
-              ),
-              ListTile(
-                title: const Text("This is a ListPreference"),
-                subtitle: const Text("Subtitle goes here"),
-                onTap: () {
-                  _displayDialog(context);
-                },
-              ),
-              ListTile(
-                title: const Text("This is a ListPreference"),
-                subtitle: const Text("Subtitle goes here"),
-                onTap: () {
-                  _displayDialog(context);
-                },
-              ),
-            ],
-          ),
+                    MyLocalizations.of(context).values.settings.generalTitle),
+            ColorPreference(
+              title:
+                  MyLocalizations.of(context).values.settings.primaryColorTitle,
+              subtitle: MyLocalizations.of(context)
+                  .values
+                  .settings
+                  .primaryColorSubtitle,
+              colors: MyColors.availablePrimaryColors,
+              preferenceKey: MyPreferences.primaryColor,
+            ),
+            RadioButtonPreference(
+              title:
+                  MyLocalizations.of(context).values.settings.bibleVersionTitle,
+              subtitle: MyLocalizations.of(context)
+                  .values
+                  .settings
+                  .bibleVersionSubtitle,
+              keys: Bibles.bibles,
+              values: Bibles.biblesDescriptions(context),
+              defaultValue: Bibles.defaultBible(AppState.of(context).language),
+              preferenceKey: MyPreferences.bibleVersion,
+              callback: () => AppState.of(context).load(context),
+            ),
+            RadioButtonPreference(
+              title: MyLocalizations.of(context).values.settings.languageTitle,
+              subtitle:
+                  MyLocalizations.of(context).values.settings.languageSubtitle,
+              keys: List.from(MyLocalizations.of(context).getLanguages().keys),
+              values:
+                  List.from(MyLocalizations.of(context).getLanguages().values),
+              defaultValue: "",
+              preferenceKey: MyPreferences.language,
+              callback: () => AppState.of(context).load(context),
+            ),
+            CheckBoxPreference(
+              title: MyLocalizations.of(context).values.settings.verseTitle,
+              subtitle:
+                  MyLocalizations.of(context).values.settings.verseSubtitle,
+              preferenceKey: MyPreferences.showVerses,
+            ),
+            ListTile(
+              title: const Text("This is a ListPreference"),
+              subtitle: const Text("Subtitle goes here"),
+              onTap: () {
+                _displayDialog(context);
+              },
+            ),
+            ListTile(
+              title: const Text("This is a ListPreference"),
+              subtitle: const Text("Subtitle goes here"),
+              onTap: () {
+                _displayDialog(context);
+              },
+            ),
+            ListTile(
+              title: const Text("This is a ListPreference"),
+              subtitle: const Text("Subtitle goes here"),
+              onTap: () {
+                _displayDialog(context);
+              },
+            ),
+            ListTile(
+              title: const Text("This is a ListPreference"),
+              subtitle: const Text("Subtitle goes here"),
+              onTap: () {
+                _displayDialog(context);
+              },
+            ),
+            ListTile(
+              title: const Text("This is a ListPreference"),
+              subtitle: const Text("Subtitle goes here"),
+              onTap: () {
+                _displayDialog(context);
+              },
+            ),
+            ListTile(
+              title: const Text("This is a ListPreference"),
+              subtitle: const Text("Subtitle goes here"),
+              onTap: () {
+                _displayDialog(context);
+              },
+            ),
+            ListTile(
+              title: const Text("This is a ListPreference"),
+              subtitle: const Text("Subtitle goes here"),
+              onTap: () {
+                _displayDialog(context);
+              },
+            ),
+            ListTile(
+              title: const Text("This is a ListPreference"),
+              subtitle: const Text("Subtitle goes here"),
+              onTap: () {
+                _displayDialog(context);
+              },
+            ),
+          ],
         ),
       ),
     );

@@ -1,0 +1,19 @@
+id,lingua,descrizione,cod_testamento
+1,it,Il Pentateuco,A
+2,it,I Libri Storici,A
+3,it,I Libri Sapienziali,A
+4,it,I Libri Profetici,A
+5,it,Il Vangelo di Gesù Cristo,N
+6,it,Atti degli Apostoli,N
+7,it,Le lettere Paoline,N
+8,it,Le lettere cattoliche,N
+9,it,Apocalisse,N
+1,en,The Pentateuch,A
+2,en,The Historical Books,A
+3,en,The Poetical,A
+4,en,The Prophetical,A
+5,en,The Gospel,N
+6,en,Acts of the Apostles,N
+7,en,Pauline epistles,N
+8,en,Catholic epistles,N
+9,en,Revelation,N

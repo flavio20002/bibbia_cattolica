@@ -1,7 +1,7 @@
-import 'chapter_model.dart';
+import 'package:bibbia_cattolica/model/bible_chapter.dart';
 
 class CompareModel {
-  final ChapterModel chapter;
+  final BibleChapterModel chapter;
   final String language1;
   final String language2;
   final String? language3;

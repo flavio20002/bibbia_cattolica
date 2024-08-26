@@ -5,7 +5,7 @@ import 'package:bibbia_cattolica/components/drawer.dart';
 import 'package:bibbia_cattolica/components/popup_menu.dart';
 import 'package:bibbia_cattolica/localization/localization.dart';
 import 'package:bibbia_cattolica/model/app_bar_model.dart';
-import 'package:bibbia_cattolica/model/chapter_model.dart';
+import 'package:bibbia_cattolica/model/bible_chapter.dart';
 import 'package:bibbia_cattolica/model/compare_model.dart';
 import 'package:bibbia_cattolica/model/menu_choice.dart';
 import 'package:bibbia_cattolica/screens/bible_text_compare/bible_text_compare.dart';
@@ -15,7 +15,7 @@ import 'package:flutter/material.dart';
 import 'components/bible_text_page.dart';
 
 class BibleText extends StatefulWidget {
-  final ChapterModel chapter;
+  final BibleChapterModel chapter;
   static const routeName = '/bibleText';
 
   const BibleText({super.key, required this.chapter});
@@ -25,7 +25,7 @@ class BibleText extends StatefulWidget {
 }
 
 class _BibleTextState extends State<BibleText> {
-  late ChapterModel _currentChapter;
+  late BibleChapterModel _currentChapter;
   String chapterNumber(BuildContext context, int chapterNumber) {
     return MyLocalizations.of(context)
         .values
@@ -41,14 +41,13 @@ class _BibleTextState extends State<BibleText> {
 
   @override
   Widget build(BuildContext context) {
-    List<ChapterModel> chapters = AppState.of(context).chapters;
+    List<BibleChapterModel> chapters = AppState.of(context).chapters;
 
     return Scaffold(
       appBar: AppBar(
         title: AppBarTitle(
-          model: AppBarModel(
-              chapterNumber(context, _currentChapter.chapterNumber),
-              subtitle: _currentChapter.book.desBook),
+          model: AppBarModel(chapterNumber(context, _currentChapter.numChapter),
+              subtitle: _currentChapter.desBook),
         ),
         leading: IconButton(
           icon: const Icon(Icons.arrow_back),

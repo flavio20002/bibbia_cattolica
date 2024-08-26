@@ -1,4 +1,4 @@
-import 'package:bibbia_cattolica/model/chapter_model.dart';
+import 'package:bibbia_cattolica/model/bible_chapter.dart';
 
 class DefaultLanguage {
   String get title => 'Catholic Bible';
@@ -22,8 +22,8 @@ class DefaultHome {
   String get newTestamentBook => 'John 14,6';
   String get lecturesTitle => 'Daily Reading';
   String get randomVerseTitle => 'The wind blows where it wills…';
-  String randomVerseChapter(ChapterModel chapter) =>
-      '${chapter.book.desBook} - chapter ${chapter.chapterNumber}';
+  String randomVerseChapter(BibleChapterModel chapter) =>
+      '${chapter.desBook} - chapter ${chapter.numChapter}';
   String get bookmarksTitle => 'Bookmarks and history';
   String get bookmarksText => 'View and organize your bookmarks and history';
   String get searchTooltip => 'Search';

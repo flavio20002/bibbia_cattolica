@@ -1,4 +1,4 @@
-import 'package:bibbia_cattolica/model/chapter_model.dart';
+import 'package:bibbia_cattolica/model/bible_chapter.dart';
 import 'package:bibbia_cattolica/screens/bible_books/new_testament_books.dart';
 import 'package:bibbia_cattolica/screens/bible_books/old_testament_books.dart';
 import 'package:bibbia_cattolica/screens/bible_chapters/bible_chapters.dart';
@@ -11,10 +11,13 @@ import 'package:flutter/material.dart';
 
 class Routes {
   static final routes = <String, WidgetBuilder>{
-    OldTestamentBooks.routeName: (BuildContext context) => const OldTestamentBooks(),
-    NewTestamentBooks.routeName: (BuildContext context) => const NewTestamentBooks(),
+    OldTestamentBooks.routeName: (BuildContext context) =>
+        const OldTestamentBooks(),
+    NewTestamentBooks.routeName: (BuildContext context) =>
+        const NewTestamentBooks(),
     BibleChapters.routeName: (BuildContext context) => const BibleChapters(),
-    BibleTextCompare.routeName: (BuildContext context) => const BibleTextCompare(),
+    BibleTextCompare.routeName: (BuildContext context) =>
+        const BibleTextCompare(),
     Lectures.routeName: (BuildContext context) => const Lectures(),
     Bookmarks.routeName: (BuildContext context) => const Bookmarks(),
     Settings.routeName: (BuildContext context) => const Settings(),
@@ -22,7 +25,7 @@ class Routes {
 
   static Route<dynamic>? Function(RouteSettings) onGenerateRoute = (settings) {
     if (settings.name == BibleText.routeName) {
-      final ChapterModel chapter = settings.arguments as ChapterModel;
+      final BibleChapterModel chapter = settings.arguments as BibleChapterModel;
       return MaterialPageRoute(
         builder: (context) {
           return BibleText(

@@ -31,10 +31,8 @@ class BibleHtmlText extends StatelessWidget {
     );
 
     return SafeArea(
-      child: Scrollbar(
-        child: SingleChildScrollView(
-          child: widget,
-        ),
+      child: SingleChildScrollView(
+        child: widget,
       ),
     );
   }
